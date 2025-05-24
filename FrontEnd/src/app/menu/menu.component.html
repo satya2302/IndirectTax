@@ -1,0 +1,15 @@
+<!-- Navigation Bar -->
+<nav class="navbar">
+  <ul>
+    <li [class.active]="activeTab === 'usage'" (click)="navigate('usage')">Usage</li>
+    <li [class.active]="activeTab === 'imports'" (click)="navigate('imports')">Imports</li>
+    <li [class.active]="activeTab === 'journals'" (click)="navigate('journals')">Journals</li>
+    <li [class.active]="activeTab === 'taxreturnsummary'" (click)="navigate('taxreturnsummary')">Tax Return Summary</li>
+  </ul>
+</nav>
+<div class="tab-content">
+  <app-usage *ngIf="activeTab === 'usage'"></app-usage>
+  <app-imports *ngIf="activeTab === 'imports'"></app-imports>
+  <app-journals *ngIf="activeTab === 'journals'"></app-journals>
+  <app-taxreturnsummary *ngIf="activeTab === 'taxreturnsummary'"></app-taxreturnsummary>
+</div>

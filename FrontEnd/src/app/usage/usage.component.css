@@ -1,0 +1,90 @@
+.entities-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+.grid-row {
+  display: grid;
+  grid-template-columns: 1fr 2fr 3fr;
+  align-items: center;
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  padding: 0.5rem 0.5rem;
+  transition: background 0.2s;
+}
+.grid-row.selected {
+  background: #e3f2fd;
+}
+.grid-cell {
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+  overflow-wrap: anywhere;
+}
+.grid-cell.header {
+  font-weight: bold;
+  background: #f0f0f0;
+  border-radius: 4px 4px 0 0;
+}
+.action-icon {
+  margin-right: 0.5rem;
+  cursor: pointer;
+  font-size: 1.1rem;
+}
+.action-icon:last-child {
+  margin-right: 0;
+}
+@media (max-width: 700px) {
+  .grid-row {
+    grid-template-columns: 1fr 1.5fr 2fr;
+    font-size: 0.95rem;
+  }
+}
+.toolbar-modern {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  background: #f6f7fa;
+  padding: 1rem 0 1rem 0;
+  border-radius: 0.25rem;
+}
+.toolbar-btn {
+  display: flex;
+  align-items: center;
+  background: none;
+  border: none;
+  font-weight: bold;
+  font-size: 1.08rem;
+  color: #222;
+  cursor: pointer;
+  padding: 0.2rem 0.5rem;
+  transition: background 0.2s;
+}
+.toolbar-btn:hover {
+  background: #e3e6ea;
+  border-radius: 4px;
+}
+.toolbar-icon {
+  font-size: 1.2rem;
+  margin-right: 0.4rem;
+  color: #888;
+}
+.toolbar-label {
+  font-weight: bold;
+  margin-right: 0.2rem;
+}
+.toolbar-caret {
+  font-size: 0.8rem;
+  margin-left: 0.2rem;
+  color: #444;
+}
+.add-entity .toolbar-icon {
+  color: #888;
+}
+.import .toolbar-icon {
+  color: #888;
+}
+.export .toolbar-icon {
+  color: #888;
+}
