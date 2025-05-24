@@ -2,17 +2,18 @@
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  margin-top: 1rem;
+  margin-top: 0; /* Remove space above grid */
 }
 .grid-row {
   display: grid;
-  grid-template-columns: 1fr 2fr 3fr;
+  grid-template-columns: repeat(8, 1fr); /* 8 columns, equal width */
   align-items: center;
   background: #fff;
   border-radius: 4px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.04);
   padding: 0.5rem 0.5rem;
   transition: background 0.2s;
+  overflow-x: auto;
 }
 .grid-row.selected {
   background: #e3f2fd;
@@ -41,6 +42,15 @@
     font-size: 0.95rem;
   }
 }
+@media (max-width: 1100px) {
+  .grid-row {
+    font-size: 0.95rem;
+    grid-template-columns: repeat(8, minmax(120px, 1fr));
+  }
+  .entities-grid {
+    overflow-x: auto;
+  }
+}
 .toolbar-modern {
   display: flex;
   align-items: center;
@@ -48,6 +58,7 @@
   background: #f6f7fa;
   padding: 1rem 0 1rem 0;
   border-radius: 0.25rem;
+  margin-bottom: 0; /* Remove space below toolbar */
 }
 .toolbar-btn {
   display: flex;
