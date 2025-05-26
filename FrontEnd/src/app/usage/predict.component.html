@@ -1,0 +1,29 @@
+<div class="main-content">
+  <h2>Predicted Usage for 2026</h2>
+  <div *ngIf="loading">Loading predictions...</div>
+  <div *ngIf="error" class="error">{{ error }}</div>
+  <div *ngIf="!loading && !error && predictions.length > 0">
+    <div class="entities-grid">
+      <div class="grid-row">
+        <div class="grid-cell header">Year</div>
+        <div class="grid-cell header">Month</div>
+        <div class="grid-cell header">Transactions</div>
+        <div class="grid-cell header">Tax Returns</div>
+        <div class="grid-cell header">EFilings</div>
+        <div class="grid-cell header">Users Transactions</div>
+        <div class="grid-cell header">Users Tax Returns</div>
+        <div class="grid-cell header">Users EFilings</div>
+      </div>
+      <div class="grid-row" *ngFor="let pred of predictions">
+        <div class="grid-cell">{{ pred.year }}</div>
+        <div class="grid-cell">{{ pred.month }}</div>
+        <div class="grid-cell">{{ pred.transactions }}</div>
+        <div class="grid-cell">{{ pred.taxReturns }}</div>
+        <div class="grid-cell">{{ pred.eFilings }}</div>
+        <div class="grid-cell">{{ pred.users_Transactions }}</div>
+        <div class="grid-cell">{{ pred.users_TaxReturns }}</div>
+        <div class="grid-cell">{{ pred.users_EFilings }}</div>
+      </div>
+    </div>
+  </div>
+</div>

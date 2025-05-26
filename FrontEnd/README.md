@@ -2,6 +2,11 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.11.
 
+## Features
+- Usage, Imports, Journals, and Tax Return Summary screens
+- Predict button on Usage screen to view ML-based predictions for 2024
+- Integration with .NET 8 WebAPI backend and Python ML API
+
 ## Development server
 
 To start a local development server, run:
@@ -11,6 +16,12 @@ ng serve
 ```
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+
+## ML Prediction Integration
+
+- The Usage page has a Predict button that navigates to the `/predict` route.
+- The `/predict` page fetches predictions from the Python ML API at `http://127.0.0.1:5000/predict` and displays them in a table.
+- Ensure the ML API is running locally before using the Predict feature.
 
 ## Code scaffolding
 
