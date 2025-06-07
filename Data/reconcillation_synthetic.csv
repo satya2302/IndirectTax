@@ -1,0 +1,1001 @@
+Region,City,County,Entity,Gross,Taxable,UnreportedTax,TaxRate,Year,Month
+US-GA,Atlanta,Fulton,Reliance,7250.3,843.21,0.0,0.1163,2025,2
+US-NY,Manhattan,New York,DeMart,3522.39,278.62,0.0,0.0791,2025,11
+US-MI,Pontiac,Oakland,DeMart,4673.86,415.51,0.0,0.0889,2025,11
+US-MI,Livonia,Wayne,DeMart,2634.55,143.58,0.0,0.0545,2025,8
+US-FL,Hialeah,Miami-Dade,Reliance,3806.91,301.51,0.0,0.0792,2025,9
+US-PA,Pottstown,Montgomery,Reliance,8420.35,996.97,0.0,0.1184,2025,11
+US-OH,Cleveland,Cuyahoga,DeMart,1738.65,163.43,0.0,0.094,2025,4
+US-PA,Norristown,Montgomery,Reliance,3183.3,190.36,0.0,0.0598,2025,3
+US-GA,Marietta,Cobb,Reliance,7468.07,511.56,0.0,0.0685,2025,10
+US-FL,Hialeah,Miami-Dade,Reliance,1231.25,97.52,0.0,0.0792,2025,4
+US-NC,Cary,Wake,PizzaHut,4710.43,517.21,0.0,0.1098,2025,11
+US-TX,Arlington,Tarrant,Reliance,425.18,29.0,0.0,0.0682,2025,11
+US-NY,Queens,Queens,Reliance,4247.36,435.35,0.0,0.1025,2025,8
+US-CA,Glendale,Los Angeles,Reliance,2278.96,280.77,0.0,0.1232,2025,2
+US-IL,Chicago,Cook,PizzaHut,4643.99,470.9,0.0,0.1014,2025,4
+US-PA,Pittsburgh,Allegheny,PizzaHut,3066.0,401.03,0.0,0.1308,2025,7
+US-NY,Harlem,New York,PizzaHut,4735.5,526.59,0.0,0.1112,2025,1
+US-GA,Marietta,Cobb,DeMart,7169.19,491.09,0.0,0.0685,2025,2
+US-TX,Irving,Dallas,Reliance,5640.44,751.31,0.0,0.1332,2025,4
+US-CA,Glendale,Los Angeles,PizzaHut,3795.76,467.64,0.0,0.1232,2025,10
+US-NY,Astoria,Queens,DeMart,351.32,32.74,0.0,0.0932,2025,12
+US-TX,Arlington,Tarrant,Reliance,5562.05,379.33,0.0,0.0682,2025,3
+US-GA,Marietta,Cobb,PizzaHut,1130.67,77.45,0.0,0.0685,2025,5
+US-NY,Harlem,New York,Reliance,1084.47,120.59,0.0,0.1112,2025,8
+US-GA,Duluth,Gwinnett,PizzaHut,9449.66,989.38,0.0,0.1047,2025,6
+US-IL,Naperville,DuPage,PizzaHut,960.56,52.45,0.0,0.0546,2025,10
+US-OH,Cleveland,Cuyahoga,PizzaHut,1315.49,123.66,0.0,0.094,2025,3
+US-FL,Hialeah,Miami-Dade,DeMart,8192.69,648.86,0.0,0.0792,2025,4
+US-MI,Warren,Macomb,DeMart,438.86,33.84,0.0,0.0771,2025,4
+US-IL,Cicero,Cook,DeMart,3691.3,403.09,0.0,0.1092,2025,5
+US-NY,Astoria,Queens,DeMart,1230.96,114.73,0.0,0.0932,2025,8
+US-OH,Cleveland,Cuyahoga,DeMart,2759.91,259.43,0.0,0.094,2025,8
+US-TX,Houston,Harris,Reliance,1479.63,178.74,0.0,0.1208,2025,11
+US-FL,Fort Lauderdale,Broward,DeMart,2795.84,242.12,0.0,0.0866,2025,11
+US-PA,Monroeville,Allegheny,Reliance,2813.15,226.46,0.0,0.0805,2025,1
+US-IL,Cicero,Cook,DeMart,2143.57,234.08,0.0,0.1092,2025,10
+US-PA,Philadelphia,Philadelphia,PizzaHut,8751.51,1268.09,0.0,0.1449,2025,8
+US-TX,Houston,Harris,Reliance,5775.61,697.69,0.0,0.1208,2025,1
+US-MI,Livonia,Wayne,DeMart,564.96,30.79,0.0,0.0545,2025,12
+US-PA,Norristown,Montgomery,Reliance,6071.21,363.06,0.0,0.0598,2025,10
+US-IL,Mundelein,Lake,PizzaHut,7218.55,407.85,0.0,0.0565,2025,7
+US-GA,Smyrna,Cobb,DeMart,6670.34,980.54,0.0,0.147,2025,6
+US-PA,Chestnut Hill,Philadelphia,Reliance,5444.44,798.15,0.0,0.1466,2025,3
+US-NY,Harlem,New York,Reliance,6270.99,697.33,0.0,0.1112,2025,2
+US-IL,Cicero,Cook,Reliance,4186.66,457.18,0.0,0.1092,2025,11
+US-GA,Lawrenceville,Gwinnett,Reliance,8209.11,837.33,0.0,0.102,2025,5
+US-NY,Astoria,Queens,DeMart,3673.64,342.38,0.0,0.0932,2025,12
+US-CA,Long Beach,Los Angeles,Reliance,4515.46,655.19,0.0,0.1451,2025,12
+US-GA,Marietta,Cobb,PizzaHut,6621.96,453.6,0.0,0.0685,2025,6
+US-PA,Philadelphia,Philadelphia,DeMart,2289.97,331.82,0.0,0.1449,2025,10
+US-NC,Charlotte,Mecklenburg,DeMart,7085.19,903.36,0.0,0.1275,2025,7
+US-CA,San Francisco,San Francisco,DeMart,9163.33,511.31,33.96,0.0558,2025,5
+US-OH,Parma,Cuyahoga,PizzaHut,9713.48,604.18,0.0,0.0622,2025,7
+US-TX,Arlington,Tarrant,DeMart,4605.92,314.12,0.0,0.0682,2025,11
+US-MI,Sterling Heights,Macomb,Reliance,3710.5,493.13,0.0,0.1329,2025,12
+US-TX,Fort Worth,Tarrant,Reliance,4466.22,317.99,0.0,0.0712,2025,7
+US-OH,Norwood,Hamilton,Reliance,6650.39,504.76,0.0,0.0759,2025,2
+US-CA,Long Beach,Los Angeles,DeMart,341.57,49.56,0.0,0.1451,2025,10
+US-TX,Dallas,Dallas,PizzaHut,5336.48,784.46,0.0,0.147,2025,3
+US-OH,Dublin,Franklin,Reliance,472.21,25.22,0.0,0.0534,2025,12
+US-NC,High Point,Guilford,Reliance,4235.89,249.07,0.0,0.0588,2025,7
+US-FL,Hialeah,Miami-Dade,Reliance,1193.69,94.54,0.0,0.0792,2025,8
+US-TX,Dallas,Dallas,DeMart,2844.93,418.2,0.0,0.147,2025,5
+US-NC,Greensboro,Guilford,Reliance,1331.93,189.4,0.0,0.1422,2025,11
+US-MI,Detroit,Wayne,Reliance,5926.69,412.5,0.0,0.0696,2025,7
+US-GA,Smyrna,Cobb,DeMart,9046.87,1329.89,0.0,0.147,2025,2
+US-NC,High Point,Guilford,PizzaHut,8394.47,493.59,0.0,0.0588,2025,6
+US-IL,Mundelein,Lake,Reliance,564.76,31.91,0.0,0.0565,2025,9
+US-MI,Livonia,Wayne,Reliance,8279.44,451.23,0.0,0.0545,2025,5
+US-IL,Naperville,DuPage,PizzaHut,5230.78,285.6,0.0,0.0546,2025,4
+US-MI,Detroit,Wayne,Reliance,7606.56,529.42,0.0,0.0696,2025,1
+US-GA,Smyrna,Cobb,PizzaHut,2315.79,340.42,0.0,0.147,2025,9
+US-NC,Cary,Wake,Reliance,8786.86,964.8,0.0,0.1098,2025,3
+US-NC,High Point,Guilford,Reliance,450.68,26.5,0.0,0.0588,2025,8
+US-NC,Charlotte,Mecklenburg,PizzaHut,4143.69,528.32,0.0,0.1275,2025,6
+US-GA,Smyrna,Cobb,Reliance,5372.76,789.8,0.0,0.147,2025,5
+US-IL,Cicero,Cook,Reliance,8840.77,965.41,0.0,0.1092,2025,3
+US-MI,Sterling Heights,Macomb,DeMart,8658.48,1150.71,0.0,0.1329,2025,1
+US-PA,Norristown,Montgomery,Reliance,1687.96,100.94,0.0,0.0598,2025,11
+US-NC,Matthews,Mecklenburg,DeMart,7020.01,1010.18,0.0,0.1439,2025,12
+US-OH,Cleveland,Cuyahoga,PizzaHut,4708.15,442.57,0.0,0.094,2025,7
+US-MI,Troy,Oakland,PizzaHut,9096.14,750.43,0.0,0.0825,2025,2
+US-FL,Fort Lauderdale,Broward,DeMart,2661.01,230.44,0.0,0.0866,2025,2
+US-CA,Glendale,Los Angeles,Reliance,6376.66,785.6,0.0,0.1232,2025,8
+US-NY,Astoria,Queens,PizzaHut,5458.54,508.74,0.0,0.0932,2025,2
+US-IL,Cicero,Cook,DeMart,6910.07,754.58,0.0,0.1092,2025,2
+US-FL,Boca Raton,Palm Beach,Reliance,7114.86,498.04,0.0,0.07,2025,6
+US-CA,Oceanside,San Diego,DeMart,8728.21,572.57,0.0,0.0656,2025,12
+US-FL,Boca Raton,Palm Beach,PizzaHut,343.41,24.04,0.0,0.07,2025,11
+US-CA,Oceanside,San Diego,PizzaHut,7727.03,506.89,0.0,0.0656,2025,10
+US-OH,Dublin,Franklin,DeMart,9971.53,532.48,0.0,0.0534,2025,1
+US-NY,Brooklyn,Kings,Reliance,7968.61,544.26,0.0,0.0683,2025,11
+US-FL,Pembroke Pines,Broward,PizzaHut,6579.66,629.02,0.0,0.0956,2025,11
+US-NY,Williamsburg,Kings,DeMart,4380.11,352.16,0.0,0.0804,2025,5
+US-IL,Waukegan,Lake,DeMart,4478.76,300.52,0.0,0.0671,2025,11
+US-CA,Oceanside,San Diego,DeMart,2209.74,144.96,0.0,0.0656,2025,1
+US-NC,Cary,Wake,PizzaHut,5478.0,601.48,0.0,0.1098,2025,12
+US-NC,Charlotte,Mecklenburg,Reliance,7732.13,985.85,0.0,0.1275,2025,2
+US-FL,West Palm Beach,Palm Beach,PizzaHut,3012.26,387.08,0.0,0.1285,2025,8
+US-MI,Warren,Macomb,DeMart,112.2,8.65,0.0,0.0771,2025,7
+US-CA,Chula Vista,San Diego,Reliance,4966.79,325.82,0.0,0.0656,2025,6
+US-PA,Chestnut Hill,Philadelphia,Reliance,4389.14,643.45,0.0,0.1466,2025,1
+US-GA,Sandy Springs,Fulton,DeMart,4015.9,326.09,0.0,0.0812,2025,6
+US-NC,Charlotte,Mecklenburg,DeMart,7270.42,926.98,0.0,0.1275,2025,3
+US-GA,Sandy Springs,Fulton,Reliance,1510.71,122.67,0.0,0.0812,2025,6
+US-PA,Chestnut Hill,Philadelphia,DeMart,9418.25,1380.72,0.0,0.1466,2025,1
+US-TX,Houston,Harris,Reliance,916.83,110.75,0.0,0.1208,2025,4
+US-MI,Pontiac,Oakland,PizzaHut,5718.65,508.39,0.0,0.0889,2025,10
+US-TX,Arlington,Tarrant,DeMart,1135.22,77.42,0.0,0.0682,2025,11
+US-NY,Manhattan,New York,DeMart,6204.39,490.77,0.0,0.0791,2025,9
+US-TX,Irving,Dallas,DeMart,6161.35,820.69,0.0,0.1332,2025,7
+US-FL,Pembroke Pines,Broward,DeMart,4860.95,464.71,0.0,0.0956,2025,9
+US-MI,Pontiac,Oakland,PizzaHut,2546.32,226.37,0.0,0.0889,2025,9
+US-NY,Queens,Queens,PizzaHut,1902.97,195.05,0.0,0.1025,2025,7
+US-IL,Mundelein,Lake,PizzaHut,306.53,17.32,0.0,0.0565,2025,3
+US-PA,Philadelphia,Philadelphia,Reliance,907.11,131.44,0.0,0.1449,2025,3
+US-NY,Williamsburg,Kings,Reliance,2115.42,170.08,0.0,0.0804,2025,7
+US-CA,Oceanside,San Diego,Reliance,7452.79,488.9,0.0,0.0656,2025,4
+US-IL,Naperville,DuPage,DeMart,5828.89,318.26,0.0,0.0546,2025,4
+US-MI,Livonia,Wayne,DeMart,6017.46,327.95,0.0,0.0545,2025,4
+US-PA,Norristown,Montgomery,DeMart,9132.4,546.12,0.0,0.0598,2025,12
+US-NY,Williamsburg,Kings,DeMart,7357.82,591.57,0.0,0.0804,2025,3
+US-MI,Pontiac,Oakland,PizzaHut,3791.2,337.04,0.0,0.0889,2025,2
+US-OH,Parma,Cuyahoga,Reliance,2547.59,158.46,0.0,0.0622,2025,12
+US-GA,Smyrna,Cobb,Reliance,1043.09,153.33,0.0,0.147,2025,1
+US-NC,Charlotte,Mecklenburg,DeMart,3319.38,423.22,0.0,0.1275,2025,8
+US-GA,Atlanta,Fulton,PizzaHut,2436.9,283.41,0.0,0.1163,2025,3
+US-PA,Pittsburgh,Allegheny,DeMart,6726.96,879.89,0.0,0.1308,2025,9
+US-CA,Los Angeles,Los Angeles,PizzaHut,1753.71,153.45,0.0,0.0875,2025,4
+US-NC,Greensboro,Guilford,Reliance,4798.85,682.4,0.0,0.1422,2025,1
+US-GA,Smyrna,Cobb,PizzaHut,438.46,64.45,0.0,0.147,2025,2
+US-NC,High Point,Guilford,Reliance,489.5,28.78,0.0,0.0588,2025,7
+US-NY,Queens,Queens,Reliance,3229.95,331.07,0.0,0.1025,2025,1
+US-NY,Astoria,Queens,DeMart,4850.98,452.11,0.0,0.0932,2025,11
+US-TX,Houston,Harris,DeMart,5843.11,705.85,0.0,0.1208,2025,8
+US-TX,Arlington,Tarrant,DeMart,396.74,27.06,0.0,0.0682,2025,4
+US-TX,Irving,Dallas,PizzaHut,1029.62,137.15,0.0,0.1332,2025,8
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,6957.0,1019.9,0.0,0.1466,2025,7
+US-OH,Dublin,Franklin,PizzaHut,5022.03,268.18,0.0,0.0534,2025,1
+US-MI,Sterling Heights,Macomb,Reliance,9316.39,1238.15,0.0,0.1329,2025,4
+US-CA,Glendale,Los Angeles,PizzaHut,8285.7,1020.8,0.0,0.1232,2025,5
+US-NC,Cary,Wake,DeMart,9994.2,1097.36,48.22,0.1098,2025,9
+US-CA,Los Angeles,Los Angeles,Reliance,995.77,87.13,0.0,0.0875,2025,9
+US-FL,Pembroke Pines,Broward,Reliance,6709.17,641.4,0.0,0.0956,2025,6
+US-TX,Dallas,Dallas,Reliance,4412.27,648.6,0.0,0.147,2025,11
+US-CA,Oceanside,San Diego,DeMart,3350.97,219.82,0.0,0.0656,2025,1
+US-MI,Warren,Macomb,PizzaHut,3946.73,304.29,0.0,0.0771,2025,9
+US-CA,Glendale,Los Angeles,Reliance,245.2,30.21,0.0,0.1232,2025,11
+US-NY,Astoria,Queens,DeMart,4688.59,436.98,0.0,0.0932,2025,3
+US-IL,Wheaton,DuPage,DeMart,353.86,39.21,0.0,0.1108,2025,10
+US-NC,Matthews,Mecklenburg,DeMart,2536.09,364.94,0.0,0.1439,2025,4
+US-OH,Dublin,Franklin,DeMart,280.5,14.98,0.0,0.0534,2025,7
+US-OH,Norwood,Hamilton,Reliance,2510.47,190.54,0.0,0.0759,2025,11
+US-NY,Manhattan,New York,Reliance,2026.13,160.27,0.0,0.0791,2025,4
+US-IL,Naperville,DuPage,PizzaHut,5437.7,296.9,0.0,0.0546,2025,10
+US-FL,Pembroke Pines,Broward,DeMart,9769.58,933.97,0.0,0.0956,2025,10
+US-NC,Raleigh,Wake,PizzaHut,8608.22,1200.85,0.0,0.1395,2025,7
+US-OH,Norwood,Hamilton,Reliance,2639.97,200.37,0.0,0.0759,2025,4
+US-FL,Pembroke Pines,Broward,PizzaHut,3797.75,363.06,0.0,0.0956,2025,10
+US-OH,Columbus,Franklin,DeMart,5976.03,594.61,0.0,0.0995,2025,10
+US-NC,High Point,Guilford,DeMart,9010.23,529.8,0.0,0.0588,2025,1
+US-MI,Sterling Heights,Macomb,Reliance,7346.38,976.33,0.0,0.1329,2025,4
+US-OH,Dublin,Franklin,Reliance,6276.21,335.15,0.0,0.0534,2025,1
+US-OH,Columbus,Franklin,Reliance,7395.05,735.81,0.0,0.0995,2025,2
+US-CA,San Francisco,San Francisco,Reliance,334.02,18.64,0.0,0.0558,2025,3
+US-OH,Cincinnati,Hamilton,DeMart,6356.95,895.69,0.0,0.1409,2025,9
+US-NC,Raleigh,Wake,PizzaHut,6790.83,947.32,0.0,0.1395,2025,10
+US-PA,Philadelphia,Philadelphia,PizzaHut,9913.43,1436.46,0.0,0.1449,2025,12
+US-NY,Astoria,Queens,DeMart,2814.19,262.28,0.0,0.0932,2025,4
+US-GA,Sandy Springs,Fulton,Reliance,4071.76,330.63,0.0,0.0812,2025,1
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,5238.69,767.99,0.0,0.1466,2025,2
+US-IL,Mundelein,Lake,Reliance,6543.69,369.72,0.0,0.0565,2025,6
+US-MI,Sterling Heights,Macomb,DeMart,9941.98,1321.29,0.0,0.1329,2025,2
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,4705.54,689.83,0.0,0.1466,2025,8
+US-PA,Pittsburgh,Allegheny,Reliance,6931.05,906.58,0.0,0.1308,2025,9
+US-OH,Dublin,Franklin,DeMart,7586.02,405.09,0.0,0.0534,2025,1
+US-GA,Marietta,Cobb,DeMart,4053.23,277.65,0.0,0.0685,2025,8
+US-PA,Philadelphia,Philadelphia,Reliance,5257.48,761.81,0.0,0.1449,2025,6
+US-PA,Monroeville,Allegheny,PizzaHut,6124.02,492.98,0.0,0.0805,2025,12
+US-PA,Monroeville,Allegheny,Reliance,3100.97,249.63,0.0,0.0805,2025,2
+US-TX,Pasadena,Harris,Reliance,2466.65,128.51,0.0,0.0521,2025,1
+US-NY,Astoria,Queens,PizzaHut,8746.03,815.13,0.0,0.0932,2025,6
+US-NY,Queens,Queens,PizzaHut,5709.1,585.18,0.0,0.1025,2025,4
+US-MI,Sterling Heights,Macomb,Reliance,8192.75,1088.82,0.0,0.1329,2025,3
+US-GA,Duluth,Gwinnett,DeMart,1498.65,156.91,0.0,0.1047,2025,7
+US-FL,Fort Lauderdale,Broward,Reliance,326.65,28.29,0.0,0.0866,2025,11
+US-TX,Arlington,Tarrant,DeMart,5773.11,393.73,0.0,0.0682,2025,10
+US-NC,Raleigh,Wake,Reliance,3205.9,447.22,0.0,0.1395,2025,1
+US-PA,Monroeville,Allegheny,Reliance,9532.7,767.38,0.0,0.0805,2025,6
+US-NC,Matthews,Mecklenburg,Reliance,4834.52,695.69,0.0,0.1439,2025,4
+US-NC,High Point,Guilford,Reliance,9661.64,568.1,0.0,0.0588,2025,12
+US-FL,Pembroke Pines,Broward,Reliance,6444.18,616.06,0.0,0.0956,2025,11
+US-TX,Fort Worth,Tarrant,PizzaHut,7829.54,557.46,0.0,0.0712,2025,10
+US-NC,Raleigh,Wake,DeMart,672.03,93.75,0.0,0.1395,2025,8
+US-NC,Greensboro,Guilford,PizzaHut,838.84,119.28,0.0,0.1422,2025,12
+US-NY,Harlem,New York,Reliance,9967.3,1108.36,0.0,0.1112,2025,1
+US-IL,Mundelein,Lake,Reliance,5317.71,300.45,0.0,0.0565,2025,7
+US-TX,Arlington,Tarrant,Reliance,4552.87,310.51,0.0,0.0682,2025,3
+US-OH,Norwood,Hamilton,DeMart,7362.78,558.84,0.0,0.0759,2025,6
+US-IL,Wheaton,DuPage,PizzaHut,4865.31,539.08,0.0,0.1108,2025,6
+US-PA,Pottstown,Montgomery,Reliance,1457.39,172.55,0.0,0.1184,2025,7
+US-IL,Chicago,Cook,Reliance,2487.89,252.27,0.0,0.1014,2025,5
+US-IL,Naperville,DuPage,Reliance,4929.76,269.16,0.0,0.0546,2025,3
+US-CA,San Francisco,San Francisco,PizzaHut,2733.59,152.53,0.0,0.0558,2025,5
+US-MI,Pontiac,Oakland,DeMart,4812.58,427.84,0.0,0.0889,2025,9
+US-FL,Hialeah,Miami-Dade,DeMart,9566.6,757.67,0.0,0.0792,2025,1
+US-NC,Charlotte,Mecklenburg,Reliance,8107.95,1033.76,0.0,0.1275,2025,1
+US-MI,Pontiac,Oakland,DeMart,7833.59,696.41,0.0,0.0889,2025,12
+US-OH,Dublin,Franklin,PizzaHut,2346.95,125.33,0.0,0.0534,2025,1
+US-OH,Cleveland,Cuyahoga,PizzaHut,9883.93,929.09,0.0,0.094,2025,7
+US-IL,Chicago,Cook,Reliance,6624.45,671.72,0.0,0.1014,2025,3
+US-GA,Marietta,Cobb,Reliance,7401.33,506.99,0.0,0.0685,2025,10
+US-FL,West Palm Beach,Palm Beach,PizzaHut,7860.04,1010.02,0.0,0.1285,2025,3
+US-MI,Livonia,Wayne,Reliance,780.26,42.52,0.0,0.0545,2025,10
+US-PA,Norristown,Montgomery,Reliance,7715.31,461.38,0.0,0.0598,2025,9
+US-NC,Cary,Wake,PizzaHut,1301.73,142.93,0.0,0.1098,2025,4
+US-NC,Matthews,Mecklenburg,Reliance,8968.56,1290.58,0.0,0.1439,2025,10
+US-IL,Mundelein,Lake,DeMart,5865.98,331.43,0.0,0.0565,2025,12
+US-TX,Fort Worth,Tarrant,DeMart,9288.03,661.31,0.0,0.0712,2025,7
+US-NC,Matthews,Mecklenburg,PizzaHut,1720.47,247.58,0.0,0.1439,2025,4
+US-FL,Hialeah,Miami-Dade,PizzaHut,2930.48,232.09,0.0,0.0792,2025,7
+US-OH,Cleveland,Cuyahoga,Reliance,6397.1,601.33,0.0,0.094,2025,5
+US-GA,Lawrenceville,Gwinnett,DeMart,6596.0,672.79,0.0,0.102,2025,11
+US-PA,Pittsburgh,Allegheny,PizzaHut,5441.61,711.76,0.0,0.1308,2025,2
+US-TX,Houston,Harris,Reliance,8196.07,990.09,0.0,0.1208,2025,3
+US-OH,Cleveland,Cuyahoga,DeMart,5944.44,558.78,0.0,0.094,2025,8
+US-NY,Manhattan,New York,DeMart,6919.96,547.37,0.0,0.0791,2025,7
+US-NC,Matthews,Mecklenburg,PizzaHut,192.38,27.68,0.0,0.1439,2025,1
+US-IL,Mundelein,Lake,Reliance,4074.79,230.23,0.0,0.0565,2025,10
+US-TX,Arlington,Tarrant,Reliance,7357.41,501.78,0.0,0.0682,2025,7
+US-TX,Houston,Harris,Reliance,151.77,18.33,0.0,0.1208,2025,10
+US-MI,Pontiac,Oakland,Reliance,7520.5,668.57,0.0,0.0889,2025,5
+US-NC,Greensboro,Guilford,PizzaHut,8778.84,1248.35,0.0,0.1422,2025,5
+US-MI,Sterling Heights,Macomb,Reliance,7825.96,1040.07,0.0,0.1329,2025,6
+US-NY,Astoria,Queens,Reliance,118.61,11.05,0.0,0.0932,2025,7
+US-IL,Wheaton,DuPage,DeMart,1895.06,209.97,0.0,0.1108,2025,4
+US-CA,San Francisco,San Francisco,PizzaHut,7261.71,405.2,0.0,0.0558,2025,5
+US-MI,Sterling Heights,Macomb,DeMart,6033.75,801.89,0.0,0.1329,2025,3
+US-NY,Williamsburg,Kings,PizzaHut,679.65,54.64,0.0,0.0804,2025,12
+US-MI,Troy,Oakland,Reliance,5250.94,433.2,0.0,0.0825,2025,4
+US-OH,Cleveland,Cuyahoga,PizzaHut,3777.08,355.05,0.0,0.094,2025,1
+US-NC,Raleigh,Wake,Reliance,6411.78,894.44,0.0,0.1395,2025,4
+US-PA,Pottstown,Montgomery,DeMart,7425.87,879.22,0.0,0.1184,2025,10
+US-IL,Cicero,Cook,Reliance,1736.41,189.62,0.0,0.1092,2025,11
+US-CA,Chula Vista,San Diego,DeMart,5228.98,343.02,0.0,0.0656,2025,3
+US-IL,Waukegan,Lake,DeMart,2332.86,156.53,0.0,0.0671,2025,5
+US-IL,Cicero,Cook,Reliance,4881.39,533.05,0.0,0.1092,2025,6
+US-MI,Troy,Oakland,PizzaHut,4424.82,365.05,729.51,0.0825,2025,6
+US-NC,Cary,Wake,DeMart,4048.48,444.52,0.0,0.1098,2025,4
+US-GA,Sandy Springs,Fulton,Reliance,664.84,53.99,0.0,0.0812,2025,6
+US-OH,Norwood,Hamilton,PizzaHut,2570.51,195.1,0.0,0.0759,2025,6
+US-MI,Livonia,Wayne,Reliance,1648.18,89.83,0.0,0.0545,2025,4
+US-GA,Smyrna,Cobb,DeMart,3524.61,518.12,0.0,0.147,2025,2
+US-CA,Daly City,San Francisco,PizzaHut,316.05,43.17,0.0,0.1366,2025,8
+US-FL,West Palm Beach,Palm Beach,PizzaHut,8295.9,1066.02,0.0,0.1285,2025,8
+US-NC,Charlotte,Mecklenburg,DeMart,1535.15,195.73,0.0,0.1275,2025,7
+US-MI,Detroit,Wayne,Reliance,9475.66,659.51,0.0,0.0696,2025,12
+US-NC,Charlotte,Mecklenburg,Reliance,7228.08,921.58,0.0,0.1275,2025,10
+US-NC,Greensboro,Guilford,DeMart,5281.57,751.04,0.0,0.1422,2025,2
+US-MI,Warren,Macomb,Reliance,5533.5,426.63,0.0,0.0771,2025,2
+US-PA,Monroeville,Allegheny,DeMart,4343.44,349.65,0.0,0.0805,2025,5
+US-TX,Irving,Dallas,Reliance,4676.73,622.94,0.0,0.1332,2025,3
+US-OH,Dublin,Franklin,PizzaHut,8083.4,431.65,0.0,0.0534,2025,10
+US-NY,Manhattan,New York,PizzaHut,3463.8,273.99,0.0,0.0791,2025,5
+US-FL,Pembroke Pines,Broward,PizzaHut,277.66,26.54,0.0,0.0956,2025,8
+US-IL,Mundelein,Lake,DeMart,2629.38,148.56,0.0,0.0565,2025,9
+US-GA,Lawrenceville,Gwinnett,DeMart,5569.88,568.13,0.0,0.102,2025,8
+US-NY,Williamsburg,Kings,DeMart,1144.19,91.99,0.0,0.0804,2025,4
+US-OH,Parma,Cuyahoga,PizzaHut,7778.56,483.83,0.0,0.0622,2025,3
+US-GA,Duluth,Gwinnett,Reliance,3192.26,334.23,0.0,0.1047,2025,9
+US-GA,Duluth,Gwinnett,DeMart,5622.42,588.67,0.0,0.1047,2025,2
+US-OH,Cincinnati,Hamilton,Reliance,2841.35,400.35,0.0,0.1409,2025,8
+US-PA,Philadelphia,Philadelphia,Reliance,8950.5,1296.93,0.0,0.1449,2025,12
+US-IL,Wheaton,DuPage,DeMart,8835.92,979.02,803.61,0.1108,2025,7
+US-CA,South San Francisco,San Francisco,Reliance,7279.34,801.46,0.0,0.1101,2025,2
+US-FL,Fort Lauderdale,Broward,DeMart,1706.11,147.75,0.0,0.0866,2025,11
+US-IL,Chicago,Cook,PizzaHut,7221.6,732.27,0.0,0.1014,2025,2
+US-MI,Troy,Oakland,DeMart,1955.38,161.32,0.0,0.0825,2025,9
+US-FL,Pembroke Pines,Broward,DeMart,7619.87,728.46,0.0,0.0956,2025,9
+US-TX,Fort Worth,Tarrant,Reliance,4992.7,355.48,0.0,0.0712,2025,3
+US-MI,Livonia,Wayne,DeMart,2474.75,134.87,0.0,0.0545,2025,4
+US-TX,Houston,Harris,PizzaHut,7513.38,907.62,0.0,0.1208,2025,9
+US-OH,Columbus,Franklin,Reliance,8453.0,841.07,0.0,0.0995,2025,11
+US-NY,Williamsburg,Kings,Reliance,3318.53,266.81,0.0,0.0804,2025,8
+US-GA,Smyrna,Cobb,PizzaHut,6587.3,968.33,0.0,0.147,2025,1
+US-GA,Smyrna,Cobb,PizzaHut,3469.76,510.05,0.0,0.147,2025,10
+US-NC,Greensboro,Guilford,DeMart,778.2,110.66,0.0,0.1422,2025,9
+US-IL,Cicero,Cook,DeMart,9045.72,987.79,0.0,0.1092,2025,1
+US-OH,Parma,Cuyahoga,PizzaHut,8998.59,559.71,0.0,0.0622,2025,3
+US-CA,Oceanside,San Diego,PizzaHut,1773.9,116.37,0.0,0.0656,2025,2
+US-GA,Duluth,Gwinnett,DeMart,1375.6,144.03,0.0,0.1047,2025,3
+US-FL,Hialeah,Miami-Dade,Reliance,369.03,29.23,0.0,0.0792,2025,6
+US-OH,Columbus,Franklin,Reliance,8277.79,823.64,0.0,0.0995,2025,3
+US-NC,Matthews,Mecklenburg,PizzaHut,5635.93,811.01,0.0,0.1439,2025,12
+US-OH,Cleveland,Cuyahoga,PizzaHut,2262.59,212.68,0.0,0.094,2025,5
+US-FL,Miami,Miami-Dade,DeMart,5714.99,365.19,0.0,0.0639,2025,4
+US-NC,Raleigh,Wake,PizzaHut,2340.88,326.55,0.0,0.1395,2025,9
+US-FL,West Palm Beach,Palm Beach,DeMart,8933.79,1147.99,0.0,0.1285,2025,7
+US-CA,Oceanside,San Diego,PizzaHut,7912.69,519.07,0.0,0.0656,2025,5
+US-IL,Chicago,Cook,Reliance,1237.84,125.52,0.0,0.1014,2025,9
+US-NC,High Point,Guilford,Reliance,9562.66,562.28,0.0,0.0588,2025,8
+US-OH,Norwood,Hamilton,DeMart,7761.41,589.09,0.0,0.0759,2025,9
+US-NY,Astoria,Queens,Reliance,6349.94,591.81,0.0,0.0932,2025,4
+US-NC,Matthews,Mecklenburg,PizzaHut,5172.4,744.31,0.0,0.1439,2025,12
+US-FL,Fort Lauderdale,Broward,Reliance,2700.49,233.86,0.0,0.0866,2025,8
+US-TX,Fort Worth,Tarrant,PizzaHut,2762.69,196.7,0.0,0.0712,2025,6
+US-PA,Monroeville,Allegheny,Reliance,493.68,39.74,604.08,0.0805,2025,11
+US-GA,Marietta,Cobb,DeMart,3380.34,231.55,0.0,0.0685,2025,1
+US-NY,Astoria,Queens,PizzaHut,2149.23,200.31,0.0,0.0932,2025,6
+US-CA,Chula Vista,San Diego,Reliance,463.54,30.41,0.0,0.0656,2025,12
+US-CA,San Diego,San Diego,PizzaHut,2263.25,248.73,0.0,0.1099,2025,10
+US-PA,Pittsburgh,Allegheny,Reliance,962.22,125.86,0.0,0.1308,2025,9
+US-CA,Glendale,Los Angeles,PizzaHut,5790.32,713.37,29.68,0.1232,2025,11
+US-NY,Manhattan,New York,Reliance,1735.52,137.28,0.0,0.0791,2025,8
+US-NY,Brooklyn,Kings,Reliance,6778.62,462.98,0.0,0.0683,2025,1
+US-MI,Warren,Macomb,DeMart,8642.52,666.34,0.0,0.0771,2025,7
+US-OH,Parma,Cuyahoga,PizzaHut,2641.27,164.29,0.0,0.0622,2025,4
+US-CA,San Francisco,San Francisco,DeMart,6003.58,335.0,0.0,0.0558,2025,8
+US-FL,Hialeah,Miami-Dade,Reliance,7523.52,595.86,0.0,0.0792,2025,2
+US-NC,Raleigh,Wake,DeMart,6027.05,840.77,0.0,0.1395,2025,2
+US-NY,Queens,Queens,Reliance,8749.62,896.84,0.0,0.1025,2025,4
+US-PA,Pottstown,Montgomery,Reliance,757.79,89.72,0.0,0.1184,2025,8
+US-TX,Pasadena,Harris,Reliance,3020.9,157.39,0.0,0.0521,2025,1
+US-OH,Parma,Cuyahoga,PizzaHut,8099.42,503.78,0.0,0.0622,2025,9
+US-OH,Parma,Cuyahoga,DeMart,6955.68,432.64,0.0,0.0622,2025,2
+US-FL,West Palm Beach,Palm Beach,Reliance,3132.5,402.53,0.0,0.1285,2025,10
+US-TX,Arlington,Tarrant,PizzaHut,9174.69,625.71,0.0,0.0682,2025,7
+US-GA,Marietta,Cobb,DeMart,371.46,25.45,0.0,0.0685,2025,12
+US-CA,San Francisco,San Francisco,DeMart,1511.68,84.35,0.0,0.0558,2025,8
+US-CA,Glendale,Los Angeles,PizzaHut,5220.67,643.19,0.0,0.1232,2025,2
+US-NY,Manhattan,New York,PizzaHut,4155.33,328.69,0.0,0.0791,2025,1
+US-CA,Chula Vista,San Diego,Reliance,2257.14,148.07,0.0,0.0656,2025,12
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,4907.34,719.42,0.0,0.1466,2025,8
+US-GA,Marietta,Cobb,PizzaHut,3903.65,267.4,0.0,0.0685,2025,11
+US-PA,Pottstown,Montgomery,PizzaHut,331.19,39.21,0.0,0.1184,2025,11
+US-IL,Naperville,DuPage,DeMart,9563.6,522.17,0.0,0.0546,2025,5
+US-NY,Harlem,New York,DeMart,8284.4,921.23,0.0,0.1112,2025,1
+US-FL,Hialeah,Miami-Dade,Reliance,5459.94,432.43,0.0,0.0792,2025,5
+US-NC,Matthews,Mecklenburg,Reliance,2544.38,366.14,0.0,0.1439,2025,7
+US-NY,Harlem,New York,DeMart,7119.24,791.66,0.0,0.1112,2025,10
+US-CA,Glendale,Los Angeles,DeMart,9667.53,1191.04,0.0,0.1232,2025,7
+US-FL,Boca Raton,Palm Beach,Reliance,1478.05,103.46,0.0,0.07,2025,3
+US-TX,Fort Worth,Tarrant,PizzaHut,7372.32,524.91,0.0,0.0712,2025,2
+US-GA,Duluth,Gwinnett,Reliance,2092.99,219.14,0.0,0.1047,2025,5
+US-GA,Atlanta,Fulton,Reliance,9078.73,1055.86,0.0,0.1163,2025,11
+US-IL,Wheaton,DuPage,PizzaHut,4638.82,513.98,0.0,0.1108,2025,6
+US-IL,Naperville,DuPage,PizzaHut,671.64,36.67,0.0,0.0546,2025,8
+US-FL,Hialeah,Miami-Dade,DeMart,9699.12,768.17,0.0,0.0792,2025,3
+US-NY,Queens,Queens,DeMart,3815.77,391.12,0.0,0.1025,2025,6
+US-CA,Oceanside,San Diego,PizzaHut,5161.63,338.6,0.0,0.0656,2025,9
+US-NY,Queens,Queens,Reliance,9809.32,1005.46,0.0,0.1025,2025,2
+US-NY,Manhattan,New York,PizzaHut,8085.23,639.54,0.0,0.0791,2025,3
+US-NC,Charlotte,Mecklenburg,Reliance,8941.59,1140.05,0.0,0.1275,2025,3
+US-PA,Norristown,Montgomery,PizzaHut,9718.18,581.15,0.0,0.0598,2025,7
+US-TX,Irving,Dallas,Reliance,8733.28,1163.27,0.0,0.1332,2025,10
+US-MI,Pontiac,Oakland,Reliance,8063.93,716.88,0.0,0.0889,2025,8
+US-NY,Astoria,Queens,Reliance,9906.41,923.28,0.0,0.0932,2025,2
+US-GA,Duluth,Gwinnett,Reliance,122.94,12.87,0.0,0.1047,2025,3
+US-CA,Los Angeles,Los Angeles,Reliance,1514.22,132.49,0.0,0.0875,2025,8
+US-GA,Atlanta,Fulton,Reliance,8474.62,985.6,0.0,0.1163,2025,2
+US-GA,Smyrna,Cobb,Reliance,2875.31,422.67,0.0,0.147,2025,4
+US-PA,Pottstown,Montgomery,PizzaHut,6357.69,752.75,0.0,0.1184,2025,2
+US-NY,Harlem,New York,DeMart,860.93,95.74,0.0,0.1112,2025,7
+US-TX,Irving,Dallas,DeMart,821.73,109.45,0.0,0.1332,2025,8
+US-TX,Arlington,Tarrant,PizzaHut,9299.36,634.22,0.0,0.0682,2025,7
+US-PA,Philadelphia,Philadelphia,PizzaHut,2337.69,338.73,0.0,0.1449,2025,9
+US-IL,Chicago,Cook,Reliance,4219.6,427.87,0.0,0.1014,2025,9
+US-PA,Norristown,Montgomery,Reliance,8682.64,519.22,0.0,0.0598,2025,10
+US-MI,Pontiac,Oakland,DeMart,7168.13,637.25,0.0,0.0889,2025,4
+US-IL,Mundelein,Lake,DeMart,1287.54,72.75,0.0,0.0565,2025,11
+US-OH,Columbus,Franklin,PizzaHut,8831.72,878.76,0.0,0.0995,2025,8
+US-TX,Fort Worth,Tarrant,PizzaHut,4084.22,290.8,0.0,0.0712,2025,9
+US-CA,Chula Vista,San Diego,Reliance,2834.08,185.92,0.0,0.0656,2025,6
+US-CA,San Francisco,San Francisco,DeMart,2543.56,141.93,0.0,0.0558,2025,9
+US-NC,Charlotte,Mecklenburg,PizzaHut,8442.85,1076.46,0.0,0.1275,2025,12
+US-FL,Fort Lauderdale,Broward,PizzaHut,4281.61,370.79,0.0,0.0866,2025,6
+US-GA,Marietta,Cobb,Reliance,518.69,35.53,0.0,0.0685,2025,1
+US-NC,Greensboro,Guilford,DeMart,2616.89,372.12,0.0,0.1422,2025,11
+US-IL,Chicago,Cook,PizzaHut,7055.15,715.39,0.0,0.1014,2025,9
+US-IL,Mundelein,Lake,PizzaHut,577.04,32.6,0.0,0.0565,2025,5
+US-PA,Norristown,Montgomery,Reliance,1198.68,71.68,0.0,0.0598,2025,3
+US-NC,Greensboro,Guilford,Reliance,5565.49,791.41,0.0,0.1422,2025,4
+US-TX,Pasadena,Harris,Reliance,7331.91,381.99,0.0,0.0521,2025,6
+US-CA,Los Angeles,Los Angeles,PizzaHut,4007.87,350.69,0.0,0.0875,2025,8
+US-OH,Dublin,Franklin,PizzaHut,6483.84,346.24,0.0,0.0534,2025,5
+US-GA,Lawrenceville,Gwinnett,DeMart,2945.36,300.43,0.0,0.102,2025,3
+US-NC,Matthews,Mecklenburg,DeMart,5483.68,789.1,0.0,0.1439,2025,5
+US-MI,Troy,Oakland,Reliance,8398.83,692.9,0.0,0.0825,2025,1
+US-FL,Fort Lauderdale,Broward,DeMart,7388.38,639.83,0.0,0.0866,2025,6
+US-CA,Oceanside,San Diego,Reliance,9638.64,632.29,0.0,0.0656,2025,12
+US-MI,Pontiac,Oakland,Reliance,2745.8,244.1,0.0,0.0889,2025,1
+US-GA,Duluth,Gwinnett,PizzaHut,856.21,89.65,0.0,0.1047,2025,9
+US-TX,Houston,Harris,DeMart,3387.78,409.24,0.0,0.1208,2025,9
+US-CA,South San Francisco,San Francisco,DeMart,3780.22,416.2,0.0,0.1101,2025,11
+US-IL,Cicero,Cook,PizzaHut,333.59,36.43,0.0,0.1092,2025,11
+US-GA,Atlanta,Fulton,PizzaHut,2150.24,250.07,0.0,0.1163,2025,11
+US-FL,West Palm Beach,Palm Beach,Reliance,2541.38,326.57,0.0,0.1285,2025,12
+US-OH,Dublin,Franklin,DeMart,2467.67,131.77,0.0,0.0534,2025,8
+US-FL,Fort Lauderdale,Broward,PizzaHut,848.49,73.48,0.0,0.0866,2025,9
+US-CA,South San Francisco,San Francisco,DeMart,6261.9,689.44,0.0,0.1101,2025,10
+US-NY,Manhattan,New York,Reliance,6395.95,505.92,0.0,0.0791,2025,12
+US-CA,Long Beach,Los Angeles,PizzaHut,7277.31,1055.94,0.0,0.1451,2025,9
+US-NC,Cary,Wake,DeMart,5023.39,551.57,0.0,0.1098,2025,9
+US-GA,Duluth,Gwinnett,Reliance,5343.63,559.48,0.0,0.1047,2025,10
+US-IL,Wheaton,DuPage,Reliance,9293.74,1029.75,0.0,0.1108,2025,2
+US-MI,Troy,Oakland,Reliance,5652.66,466.34,0.0,0.0825,2025,6
+US-GA,Sandy Springs,Fulton,PizzaHut,1456.29,118.25,0.0,0.0812,2025,11
+US-TX,Arlington,Tarrant,PizzaHut,1178.04,80.34,0.0,0.0682,2025,4
+US-NY,Harlem,New York,DeMart,2669.46,296.84,0.0,0.1112,2025,9
+US-TX,Fort Worth,Tarrant,PizzaHut,9813.66,698.73,0.0,0.0712,2025,4
+US-NY,Brooklyn,Kings,PizzaHut,7013.28,479.01,0.0,0.0683,2025,11
+US-IL,Naperville,DuPage,DeMart,1700.55,92.85,0.0,0.0546,2025,8
+US-FL,West Palm Beach,Palm Beach,DeMart,6699.34,860.87,0.0,0.1285,2025,11
+US-FL,Fort Lauderdale,Broward,DeMart,6070.34,525.69,0.0,0.0866,2025,5
+US-MI,Detroit,Wayne,DeMart,555.96,38.69,0.0,0.0696,2025,10
+US-GA,Duluth,Gwinnett,PizzaHut,1044.45,109.35,0.0,0.1047,2025,5
+US-NC,Matthews,Mecklenburg,PizzaHut,104.38,15.02,0.0,0.1439,2025,4
+US-NC,Raleigh,Wake,PizzaHut,9933.22,1385.68,0.0,0.1395,2025,9
+US-OH,Parma,Cuyahoga,PizzaHut,7567.22,470.68,0.0,0.0622,2025,3
+US-NY,Brooklyn,Kings,PizzaHut,3635.5,248.3,0.0,0.0683,2025,2
+US-FL,Miami,Miami-Dade,Reliance,6600.65,421.78,0.0,0.0639,2025,2
+US-CA,San Diego,San Diego,DeMart,1107.86,121.75,0.0,0.1099,2025,10
+US-NC,Matthews,Mecklenburg,Reliance,1834.7,264.01,0.0,0.1439,2025,2
+US-GA,Atlanta,Fulton,Reliance,5858.06,681.29,0.0,0.1163,2025,11
+US-GA,Marietta,Cobb,Reliance,7611.88,521.41,0.0,0.0685,2025,3
+US-OH,Cincinnati,Hamilton,PizzaHut,8936.33,1259.13,0.0,0.1409,2025,5
+US-FL,Boca Raton,Palm Beach,DeMart,5490.61,384.34,0.0,0.07,2025,8
+US-NC,High Point,Guilford,PizzaHut,6396.82,376.13,0.0,0.0588,2025,11
+US-FL,Fort Lauderdale,Broward,PizzaHut,4654.02,403.04,95.06,0.0866,2025,11
+US-GA,Smyrna,Cobb,Reliance,7761.67,1140.97,0.0,0.147,2025,8
+US-MI,Warren,Macomb,DeMart,5437.04,419.2,0.0,0.0771,2025,8
+US-FL,West Palm Beach,Palm Beach,Reliance,1365.88,175.52,0.0,0.1285,2025,9
+US-NC,Matthews,Mecklenburg,Reliance,3685.54,530.35,0.0,0.1439,2025,9
+US-MI,Sterling Heights,Macomb,PizzaHut,3109.03,413.19,0.0,0.1329,2025,3
+US-NY,Astoria,Queens,PizzaHut,3169.84,295.43,0.0,0.0932,2025,3
+US-FL,West Palm Beach,Palm Beach,Reliance,4284.03,550.5,0.0,0.1285,2025,2
+US-IL,Chicago,Cook,PizzaHut,1341.03,135.98,0.0,0.1014,2025,11
+US-PA,Norristown,Montgomery,DeMart,5947.31,355.65,0.0,0.0598,2025,1
+US-OH,Norwood,Hamilton,DeMart,1756.48,133.32,0.0,0.0759,2025,9
+US-CA,Daly City,San Francisco,DeMart,6055.38,827.16,0.0,0.1366,2025,4
+US-NC,Greensboro,Guilford,Reliance,7114.05,1011.62,0.0,0.1422,2025,3
+US-FL,Miami,Miami-Dade,Reliance,1674.35,106.99,0.0,0.0639,2025,7
+US-PA,Philadelphia,Philadelphia,PizzaHut,8519.67,1234.5,0.0,0.1449,2025,9
+US-CA,San Diego,San Diego,PizzaHut,1507.49,165.67,0.0,0.1099,2025,6
+US-PA,Philadelphia,Philadelphia,PizzaHut,7670.72,1111.49,0.0,0.1449,2025,7
+US-CA,Long Beach,Los Angeles,PizzaHut,5116.06,742.34,0.0,0.1451,2025,4
+US-TX,Houston,Harris,PizzaHut,213.04,25.74,0.0,0.1208,2025,10
+US-CA,San Diego,San Diego,DeMart,5633.91,619.17,0.0,0.1099,2025,3
+US-PA,Philadelphia,Philadelphia,Reliance,611.52,88.61,0.0,0.1449,2025,1
+US-IL,Mundelein,Lake,DeMart,9618.98,543.47,0.0,0.0565,2025,3
+US-NY,Harlem,New York,PizzaHut,1657.0,184.26,0.0,0.1112,2025,4
+US-OH,Columbus,Franklin,DeMart,7987.15,794.72,0.0,0.0995,2025,7
+US-GA,Smyrna,Cobb,PizzaHut,9820.87,1443.67,0.0,0.147,2025,3
+US-TX,Pasadena,Harris,Reliance,3137.09,163.44,0.0,0.0521,2025,11
+US-CA,San Diego,San Diego,Reliance,8792.05,966.25,0.0,0.1099,2025,5
+US-PA,Pottstown,Montgomery,Reliance,4384.39,519.11,0.0,0.1184,2025,3
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,3801.82,557.35,0.0,0.1466,2025,4
+US-CA,Glendale,Los Angeles,DeMart,1250.29,154.04,0.0,0.1232,2025,7
+US-NY,Astoria,Queens,Reliance,2850.74,265.69,0.0,0.0932,2025,2
+US-MI,Livonia,Wayne,Reliance,4556.15,248.31,0.0,0.0545,2025,10
+US-CA,Chula Vista,San Diego,DeMart,9791.68,642.33,0.0,0.0656,2025,9
+US-IL,Wheaton,DuPage,DeMart,2123.96,235.33,0.0,0.1108,2025,1
+US-OH,Norwood,Hamilton,PizzaHut,4882.09,370.55,0.0,0.0759,2025,2
+US-GA,Duluth,Gwinnett,DeMart,6076.01,636.16,0.0,0.1047,2025,7
+US-PA,Pottstown,Montgomery,Reliance,6030.54,714.02,0.0,0.1184,2025,4
+US-NY,Harlem,New York,DeMart,249.6,27.76,0.0,0.1112,2025,3
+US-PA,Pottstown,Montgomery,PizzaHut,7095.64,840.12,0.0,0.1184,2025,6
+US-NC,High Point,Guilford,PizzaHut,8674.35,510.05,0.0,0.0588,2025,1
+US-NY,Astoria,Queens,Reliance,9452.89,881.01,0.0,0.0932,2025,6
+US-NY,Williamsburg,Kings,PizzaHut,6289.53,505.68,0.0,0.0804,2025,9
+US-CA,Glendale,Los Angeles,Reliance,5465.7,673.37,0.0,0.1232,2025,3
+US-CA,San Diego,San Diego,Reliance,1966.55,216.12,0.0,0.1099,2025,6
+US-PA,Chestnut Hill,Philadelphia,DeMart,4392.47,643.94,0.0,0.1466,2025,3
+US-FL,West Palm Beach,Palm Beach,Reliance,4396.81,564.99,0.0,0.1285,2025,4
+US-NC,Greensboro,Guilford,DeMart,6171.59,877.6,0.0,0.1422,2025,9
+US-NC,Cary,Wake,DeMart,6574.54,721.88,0.0,0.1098,2025,5
+US-OH,Norwood,Hamilton,PizzaHut,3624.11,275.07,0.0,0.0759,2025,5
+US-TX,Arlington,Tarrant,Reliance,2231.91,152.22,0.0,0.0682,2025,1
+US-TX,Irving,Dallas,PizzaHut,8070.39,1074.98,0.0,0.1332,2025,3
+US-FL,West Palm Beach,Palm Beach,PizzaHut,4034.74,518.46,0.0,0.1285,2025,6
+US-CA,Daly City,San Francisco,PizzaHut,777.74,106.24,0.0,0.1366,2025,10
+US-CA,Long Beach,Los Angeles,Reliance,3402.71,493.73,0.0,0.1451,2025,12
+US-CA,San Diego,San Diego,Reliance,7895.13,867.67,0.0,0.1099,2025,5
+US-TX,Houston,Harris,DeMart,8353.07,1009.05,0.0,0.1208,2025,8
+US-FL,Fort Lauderdale,Broward,PizzaHut,733.66,63.53,0.0,0.0866,2025,2
+US-PA,Norristown,Montgomery,DeMart,3080.36,184.21,0.0,0.0598,2025,7
+US-PA,Norristown,Montgomery,Reliance,4155.74,248.51,0.0,0.0598,2025,2
+US-NC,Matthews,Mecklenburg,DeMart,1688.58,242.99,0.0,0.1439,2025,5
+US-CA,Chula Vista,San Diego,Reliance,7233.6,474.52,0.0,0.0656,2025,4
+US-NY,Manhattan,New York,Reliance,9253.15,731.92,0.0,0.0791,2025,11
+US-GA,Lawrenceville,Gwinnett,PizzaHut,7451.06,760.01,0.0,0.102,2025,10
+US-FL,Miami,Miami-Dade,Reliance,9146.51,584.46,0.0,0.0639,2025,5
+US-FL,Fort Lauderdale,Broward,DeMart,9417.1,815.52,0.0,0.0866,2025,1
+US-CA,Los Angeles,Los Angeles,Reliance,5578.37,488.11,0.0,0.0875,2025,3
+US-OH,Dublin,Franklin,Reliance,6801.71,363.21,0.0,0.0534,2025,1
+US-OH,Cincinnati,Hamilton,DeMart,3029.83,426.9,0.0,0.1409,2025,5
+US-OH,Parma,Cuyahoga,DeMart,4353.13,270.76,0.0,0.0622,2025,7
+US-GA,Atlanta,Fulton,DeMart,7915.38,920.56,0.0,0.1163,2025,6
+US-PA,Philadelphia,Philadelphia,DeMart,8919.47,1292.43,0.0,0.1449,2025,10
+US-MI,Sterling Heights,Macomb,PizzaHut,5240.32,696.44,0.0,0.1329,2025,12
+US-OH,Norwood,Hamilton,PizzaHut,3423.17,259.82,0.0,0.0759,2025,12
+US-GA,Marietta,Cobb,Reliance,7563.26,518.08,0.0,0.0685,2025,1
+US-NY,Harlem,New York,DeMart,7560.59,840.74,0.0,0.1112,2025,2
+US-TX,Arlington,Tarrant,Reliance,6351.05,433.14,0.0,0.0682,2025,1
+US-IL,Chicago,Cook,Reliance,6951.53,704.89,0.0,0.1014,2025,7
+US-IL,Naperville,DuPage,Reliance,7752.57,423.29,0.0,0.0546,2025,7
+US-IL,Cicero,Cook,Reliance,8587.36,937.74,0.0,0.1092,2025,11
+US-NY,Manhattan,New York,Reliance,7174.95,567.54,0.0,0.0791,2025,9
+US-PA,Philadelphia,Philadelphia,Reliance,8448.93,1224.25,0.0,0.1449,2025,3
+US-NY,Queens,Queens,Reliance,5154.56,528.34,0.0,0.1025,2025,3
+US-TX,Houston,Harris,Reliance,232.34,28.07,0.0,0.1208,2025,9
+US-GA,Duluth,Gwinnett,PizzaHut,2158.77,226.02,0.0,0.1047,2025,8
+US-PA,Pittsburgh,Allegheny,PizzaHut,8494.49,1111.08,0.0,0.1308,2025,4
+US-NC,Matthews,Mecklenburg,Reliance,5182.35,745.74,0.0,0.1439,2025,6
+US-FL,Hialeah,Miami-Dade,PizzaHut,4519.23,357.92,0.0,0.0792,2025,3
+US-PA,Pittsburgh,Allegheny,PizzaHut,3807.36,498.0,0.0,0.1308,2025,12
+US-FL,West Palm Beach,Palm Beach,DeMart,182.8,23.49,0.0,0.1285,2025,11
+US-TX,Dallas,Dallas,Reliance,6356.69,934.43,0.0,0.147,2025,2
+US-GA,Smyrna,Cobb,Reliance,4318.1,634.76,0.0,0.147,2025,10
+US-IL,Chicago,Cook,DeMart,5228.28,530.15,0.0,0.1014,2025,1
+US-NY,Williamsburg,Kings,PizzaHut,7448.31,598.84,0.0,0.0804,2025,7
+US-NC,Greensboro,Guilford,DeMart,9091.46,1292.81,0.0,0.1422,2025,7
+US-NY,Williamsburg,Kings,DeMart,7606.85,611.59,0.0,0.0804,2025,12
+US-MI,Detroit,Wayne,Reliance,3923.5,273.08,0.0,0.0696,2025,8
+US-NC,Matthews,Mecklenburg,PizzaHut,8699.53,1251.86,0.0,0.1439,2025,10
+US-CA,Chula Vista,San Diego,DeMart,4494.21,294.82,0.0,0.0656,2025,7
+US-TX,Irving,Dallas,Reliance,6954.35,926.32,0.0,0.1332,2025,3
+US-PA,Norristown,Montgomery,DeMart,5334.37,319.0,0.0,0.0598,2025,12
+US-IL,Naperville,DuPage,DeMart,5993.5,327.25,0.0,0.0546,2025,6
+US-MI,Warren,Macomb,Reliance,7802.45,601.57,0.0,0.0771,2025,7
+US-OH,Columbus,Franklin,DeMart,3746.64,372.79,0.0,0.0995,2025,12
+US-GA,Atlanta,Fulton,Reliance,433.4,50.4,0.0,0.1163,2025,5
+US-NY,Harlem,New York,Reliance,6701.79,745.24,0.0,0.1112,2025,6
+US-NC,Cary,Wake,PizzaHut,4420.55,485.38,0.0,0.1098,2025,6
+US-TX,Dallas,Dallas,PizzaHut,7097.69,1043.36,0.0,0.147,2025,6
+US-FL,West Palm Beach,Palm Beach,Reliance,8085.98,1039.05,0.0,0.1285,2025,10
+US-NY,Brooklyn,Kings,PizzaHut,499.47,34.11,0.0,0.0683,2025,1
+US-NY,Manhattan,New York,PizzaHut,5705.19,451.28,0.0,0.0791,2025,12
+US-IL,Mundelein,Lake,DeMart,7667.1,433.19,0.0,0.0565,2025,2
+US-CA,South San Francisco,San Francisco,PizzaHut,5677.61,625.1,0.0,0.1101,2025,5
+US-IL,Chicago,Cook,DeMart,786.35,79.74,0.0,0.1014,2025,3
+US-TX,Dallas,Dallas,Reliance,2365.87,347.78,0.0,0.147,2025,3
+US-OH,Norwood,Hamilton,DeMart,6223.42,472.36,0.0,0.0759,2025,11
+US-IL,Mundelein,Lake,Reliance,6530.14,368.95,0.0,0.0565,2025,1
+US-MI,Pontiac,Oakland,Reliance,9497.09,844.29,0.0,0.0889,2025,2
+US-OH,Dublin,Franklin,DeMart,9257.97,494.38,0.0,0.0534,2025,12
+US-IL,Waukegan,Lake,Reliance,6521.53,437.59,0.0,0.0671,2025,10
+US-PA,Pottstown,Montgomery,Reliance,6033.09,714.32,0.0,0.1184,2025,8
+US-PA,Pittsburgh,Allegheny,DeMart,8389.93,1097.4,0.0,0.1308,2025,2
+US-FL,Fort Lauderdale,Broward,Reliance,7026.43,608.49,0.0,0.0866,2025,12
+US-GA,Duluth,Gwinnett,DeMart,6426.42,672.85,0.0,0.1047,2025,10
+US-TX,Pasadena,Harris,Reliance,9220.94,480.41,0.0,0.0521,2025,10
+US-GA,Smyrna,Cobb,DeMart,758.62,111.52,0.0,0.147,2025,10
+US-CA,Daly City,San Francisco,DeMart,5065.6,691.96,0.0,0.1366,2025,11
+US-GA,Marietta,Cobb,Reliance,8857.37,606.73,0.0,0.0685,2025,9
+US-NY,Harlem,New York,Reliance,6264.04,696.56,0.0,0.1112,2025,7
+US-NC,Greensboro,Guilford,PizzaHut,1366.58,194.33,0.0,0.1422,2025,12
+US-OH,Parma,Cuyahoga,PizzaHut,6726.16,418.37,0.0,0.0622,2025,10
+US-NY,Astoria,Queens,PizzaHut,4220.56,393.36,0.0,0.0932,2025,10
+US-TX,Arlington,Tarrant,DeMart,1099.68,75.0,0.0,0.0682,2025,4
+US-IL,Mundelein,Lake,Reliance,1232.87,69.66,0.0,0.0565,2025,12
+US-GA,Smyrna,Cobb,PizzaHut,3063.9,450.39,0.0,0.147,2025,8
+US-MI,Sterling Heights,Macomb,Reliance,719.39,95.61,0.0,0.1329,2025,5
+US-MI,Pontiac,Oakland,PizzaHut,857.15,76.2,0.0,0.0889,2025,8
+US-GA,Smyrna,Cobb,DeMart,3093.95,454.81,0.0,0.147,2025,12
+US-IL,Wheaton,DuPage,DeMart,6277.59,695.56,0.0,0.1108,2025,12
+US-OH,Cleveland,Cuyahoga,Reliance,3133.99,294.6,0.0,0.094,2025,9
+US-OH,Dublin,Franklin,Reliance,4638.47,247.69,0.0,0.0534,2025,9
+US-TX,Fort Worth,Tarrant,Reliance,545.12,38.81,0.0,0.0712,2025,7
+US-OH,Parma,Cuyahoga,Reliance,9410.15,585.31,0.0,0.0622,2025,10
+US-IL,Wheaton,DuPage,Reliance,4976.43,551.39,0.0,0.1108,2025,12
+US-PA,Norristown,Montgomery,PizzaHut,8017.21,479.43,0.0,0.0598,2025,7
+US-OH,Norwood,Hamilton,Reliance,9042.65,686.34,0.0,0.0759,2025,1
+US-CA,Glendale,Los Angeles,DeMart,5835.21,718.9,0.0,0.1232,2025,10
+US-PA,Norristown,Montgomery,Reliance,2866.22,171.4,0.0,0.0598,2025,6
+US-GA,Atlanta,Fulton,DeMart,4958.57,576.68,0.0,0.1163,2025,6
+US-TX,Irving,Dallas,Reliance,5631.78,750.15,0.0,0.1332,2025,9
+US-PA,Monroeville,Allegheny,PizzaHut,8950.45,720.51,0.0,0.0805,2025,12
+US-CA,San Francisco,San Francisco,PizzaHut,1833.72,102.32,0.0,0.0558,2025,9
+US-NC,Greensboro,Guilford,DeMart,2571.72,365.7,0.0,0.1422,2025,6
+US-FL,Miami,Miami-Dade,Reliance,7946.69,507.79,0.0,0.0639,2025,4
+US-FL,Hialeah,Miami-Dade,Reliance,4637.4,367.28,0.0,0.0792,2025,1
+US-GA,Lawrenceville,Gwinnett,DeMart,2985.46,304.52,0.0,0.102,2025,8
+US-MI,Warren,Macomb,PizzaHut,163.71,12.62,772.52,0.0771,2025,7
+US-TX,Dallas,Dallas,DeMart,7070.42,1039.35,0.0,0.147,2025,2
+US-TX,Houston,Harris,PizzaHut,2124.04,256.58,0.0,0.1208,2025,7
+US-CA,San Francisco,San Francisco,PizzaHut,5147.55,287.23,0.0,0.0558,2025,5
+US-OH,Columbus,Franklin,Reliance,9291.0,924.45,0.0,0.0995,2025,1
+US-NY,Harlem,New York,DeMart,3426.47,381.02,0.0,0.1112,2025,12
+US-CA,Los Angeles,Los Angeles,DeMart,1972.48,172.59,0.0,0.0875,2025,11
+US-CA,Daly City,San Francisco,DeMart,5727.8,782.42,0.0,0.1366,2025,1
+US-CA,San Diego,San Diego,Reliance,8367.15,919.55,0.0,0.1099,2025,8
+US-PA,Monroeville,Allegheny,DeMart,7519.32,605.31,0.0,0.0805,2025,3
+US-PA,Philadelphia,Philadelphia,Reliance,2995.91,434.11,0.0,0.1449,2025,5
+US-NY,Astoria,Queens,PizzaHut,6407.24,597.15,0.0,0.0932,2025,11
+US-CA,Chula Vista,San Diego,PizzaHut,8496.28,557.36,0.0,0.0656,2025,7
+US-IL,Mundelein,Lake,DeMart,2888.0,163.17,0.0,0.0565,2025,10
+US-FL,Fort Lauderdale,Broward,Reliance,9902.08,857.52,0.0,0.0866,2025,10
+US-NY,Astoria,Queens,PizzaHut,981.0,91.43,0.0,0.0932,2025,8
+US-CA,Daly City,San Francisco,DeMart,1014.37,138.56,0.0,0.1366,2025,8
+US-GA,Marietta,Cobb,DeMart,9141.0,626.16,0.0,0.0685,2025,3
+US-MI,Pontiac,Oakland,DeMart,7536.65,670.01,0.0,0.0889,2025,8
+US-MI,Sterling Heights,Macomb,PizzaHut,1236.49,164.33,0.0,0.1329,2025,11
+US-CA,San Francisco,San Francisco,PizzaHut,2569.64,143.39,0.0,0.0558,2025,2
+US-OH,Norwood,Hamilton,DeMart,9100.84,690.75,0.0,0.0759,2025,7
+US-OH,Cleveland,Cuyahoga,DeMart,1927.86,181.22,0.0,0.094,2025,10
+US-IL,Cicero,Cook,Reliance,1816.1,198.32,0.0,0.1092,2025,1
+US-FL,Fort Lauderdale,Broward,Reliance,7365.44,637.85,0.0,0.0866,2025,9
+US-IL,Chicago,Cook,DeMart,9033.89,916.04,0.0,0.1014,2025,12
+US-OH,Cincinnati,Hamilton,DeMart,8742.89,1231.87,0.0,0.1409,2025,8
+US-OH,Norwood,Hamilton,DeMart,9432.33,715.91,0.0,0.0759,2025,8
+US-OH,Norwood,Hamilton,Reliance,1077.5,81.78,0.0,0.0759,2025,5
+US-OH,Cleveland,Cuyahoga,PizzaHut,2340.12,219.97,0.0,0.094,2025,11
+US-TX,Pasadena,Harris,PizzaHut,5369.69,279.76,0.0,0.0521,2025,12
+US-OH,Columbus,Franklin,Reliance,3033.94,301.88,0.0,0.0995,2025,6
+US-MI,Troy,Oakland,Reliance,7842.3,646.99,0.0,0.0825,2025,8
+US-TX,Arlington,Tarrant,PizzaHut,6950.91,474.05,0.0,0.0682,2025,7
+US-PA,Philadelphia,Philadelphia,PizzaHut,1465.06,212.29,0.0,0.1449,2025,10
+US-PA,Pittsburgh,Allegheny,Reliance,856.75,112.06,0.0,0.1308,2025,3
+US-GA,Lawrenceville,Gwinnett,PizzaHut,5617.37,572.97,0.0,0.102,2025,1
+US-PA,Philadelphia,Philadelphia,DeMart,5700.31,825.97,0.0,0.1449,2025,8
+US-PA,Philadelphia,Philadelphia,PizzaHut,3102.53,449.56,0.0,0.1449,2025,3
+US-PA,Chestnut Hill,Philadelphia,DeMart,4265.54,625.33,0.0,0.1466,2025,2
+US-MI,Sterling Heights,Macomb,Reliance,2572.74,341.92,0.0,0.1329,2025,11
+US-TX,Dallas,Dallas,Reliance,8464.14,1244.23,0.0,0.147,2025,7
+US-OH,Cincinnati,Hamilton,PizzaHut,860.35,121.22,0.0,0.1409,2025,3
+US-FL,Boca Raton,Palm Beach,DeMart,8165.24,571.57,0.0,0.07,2025,1
+US-OH,Cincinnati,Hamilton,DeMart,3613.49,509.14,0.0,0.1409,2025,6
+US-MI,Pontiac,Oakland,Reliance,4013.07,356.76,0.0,0.0889,2025,4
+US-GA,Smyrna,Cobb,DeMart,2278.88,335.0,0.0,0.147,2025,2
+US-NY,Queens,Queens,PizzaHut,9585.37,982.5,0.0,0.1025,2025,2
+US-GA,Marietta,Cobb,PizzaHut,2928.43,200.6,0.0,0.0685,2025,10
+US-PA,Pittsburgh,Allegheny,DeMart,4042.46,528.75,0.0,0.1308,2025,2
+US-OH,Parma,Cuyahoga,DeMart,8462.19,526.35,0.0,0.0622,2025,12
+US-FL,Hialeah,Miami-Dade,PizzaHut,4394.33,348.03,0.0,0.0792,2025,8
+US-MI,Livonia,Wayne,Reliance,2230.52,121.56,0.0,0.0545,2025,8
+US-NY,Queens,Queens,PizzaHut,6997.28,717.22,0.0,0.1025,2025,4
+US-CA,Los Angeles,Los Angeles,PizzaHut,6743.82,590.08,0.0,0.0875,2025,6
+US-NY,Astoria,Queens,Reliance,7854.65,732.05,0.0,0.0932,2025,11
+US-MI,Sterling Heights,Macomb,Reliance,6629.11,881.01,0.0,0.1329,2025,1
+US-TX,Houston,Harris,PizzaHut,1893.71,228.76,0.0,0.1208,2025,3
+US-IL,Mundelein,Lake,PizzaHut,1686.23,95.27,0.0,0.0565,2025,8
+US-NC,Cary,Wake,DeMart,3471.39,381.16,0.0,0.1098,2025,9
+US-NC,Cary,Wake,PizzaHut,1713.89,188.19,0.0,0.1098,2025,3
+US-IL,Chicago,Cook,DeMart,1441.05,146.12,0.0,0.1014,2025,2
+US-NC,Cary,Wake,DeMart,4258.04,467.53,0.0,0.1098,2025,3
+US-TX,Fort Worth,Tarrant,Reliance,9472.88,674.47,0.0,0.0712,2025,9
+US-MI,Livonia,Wayne,PizzaHut,712.67,38.84,0.0,0.0545,2025,11
+US-GA,Marietta,Cobb,PizzaHut,2025.03,138.71,0.0,0.0685,2025,12
+US-CA,San Francisco,San Francisco,Reliance,8191.32,457.08,0.0,0.0558,2025,5
+US-MI,Troy,Oakland,Reliance,2944.53,242.92,0.0,0.0825,2025,7
+US-MI,Sterling Heights,Macomb,Reliance,7302.54,970.51,0.0,0.1329,2025,4
+US-FL,Boca Raton,Palm Beach,Reliance,8073.78,565.16,0.0,0.07,2025,11
+US-OH,Parma,Cuyahoga,Reliance,3674.64,228.56,0.0,0.0622,2025,6
+US-TX,Pasadena,Harris,DeMart,3979.91,207.35,0.0,0.0521,2025,7
+US-TX,Pasadena,Harris,PizzaHut,3513.69,183.06,0.0,0.0521,2025,4
+US-FL,West Palm Beach,Palm Beach,Reliance,6516.24,837.34,0.0,0.1285,2025,4
+US-NC,Matthews,Mecklenburg,DeMart,1647.54,237.08,0.0,0.1439,2025,11
+US-IL,Wheaton,DuPage,DeMart,9898.59,1096.76,0.0,0.1108,2025,10
+US-NC,Raleigh,Wake,PizzaHut,9775.07,1363.62,0.0,0.1395,2025,3
+US-NC,Charlotte,Mecklenburg,Reliance,9853.23,1256.29,0.0,0.1275,2025,2
+US-FL,Pembroke Pines,Broward,DeMart,6687.12,639.29,0.0,0.0956,2025,7
+US-IL,Mundelein,Lake,PizzaHut,1378.83,77.9,0.0,0.0565,2025,5
+US-FL,West Palm Beach,Palm Beach,DeMart,2610.48,335.45,0.0,0.1285,2025,1
+US-CA,South San Francisco,San Francisco,Reliance,7831.1,862.2,0.0,0.1101,2025,7
+US-TX,Irving,Dallas,PizzaHut,9793.6,1304.51,0.0,0.1332,2025,11
+US-NY,Manhattan,New York,DeMart,6071.19,480.23,0.0,0.0791,2025,2
+US-PA,Monroeville,Allegheny,DeMart,282.02,22.7,0.0,0.0805,2025,10
+US-MI,Livonia,Wayne,Reliance,2585.69,140.92,0.0,0.0545,2025,6
+US-PA,Philadelphia,Philadelphia,DeMart,7368.1,1067.64,0.0,0.1449,2025,2
+US-MI,Livonia,Wayne,DeMart,1351.23,73.64,0.0,0.0545,2025,10
+US-NC,Cary,Wake,Reliance,375.74,41.26,0.0,0.1098,2025,12
+US-TX,Pasadena,Harris,PizzaHut,1829.01,95.29,0.0,0.0521,2025,11
+US-TX,Arlington,Tarrant,Reliance,599.13,40.86,0.0,0.0682,2025,12
+US-IL,Cicero,Cook,PizzaHut,787.0,85.94,0.0,0.1092,2025,5
+US-TX,Irving,Dallas,DeMart,4125.25,549.48,0.0,0.1332,2025,8
+US-PA,Chestnut Hill,Philadelphia,DeMart,9944.71,1457.89,0.0,0.1466,2025,8
+US-NC,Matthews,Mecklenburg,Reliance,9464.65,1361.96,0.0,0.1439,2025,3
+US-OH,Parma,Cuyahoga,PizzaHut,9250.44,575.38,0.0,0.0622,2025,5
+US-GA,Marietta,Cobb,DeMart,520.45,35.65,0.0,0.0685,2025,12
+US-CA,Long Beach,Los Angeles,PizzaHut,3493.04,506.84,0.0,0.1451,2025,12
+US-CA,Glendale,Los Angeles,DeMart,6532.9,804.85,0.0,0.1232,2025,11
+US-FL,Boca Raton,Palm Beach,PizzaHut,8922.88,624.6,0.0,0.07,2025,5
+US-NY,Williamsburg,Kings,PizzaHut,1011.78,81.35,0.0,0.0804,2025,8
+US-FL,West Palm Beach,Palm Beach,Reliance,942.06,121.05,0.0,0.1285,2025,9
+US-PA,Pittsburgh,Allegheny,Reliance,2478.96,324.25,0.0,0.1308,2025,7
+US-CA,South San Francisco,San Francisco,PizzaHut,4496.63,495.08,0.0,0.1101,2025,6
+US-MI,Warren,Macomb,DeMart,3268.27,251.98,0.0,0.0771,2025,5
+US-CA,Los Angeles,Los Angeles,DeMart,6853.7,599.7,0.0,0.0875,2025,3
+US-CA,San Francisco,San Francisco,PizzaHut,1283.66,71.63,0.0,0.0558,2025,4
+US-FL,Hialeah,Miami-Dade,PizzaHut,7329.47,580.49,0.0,0.0792,2025,11
+US-NC,Raleigh,Wake,PizzaHut,2402.16,335.1,0.0,0.1395,2025,8
+US-FL,Pembroke Pines,Broward,DeMart,3050.95,291.67,0.0,0.0956,2025,12
+US-NC,Greensboro,Guilford,PizzaHut,4794.23,681.74,0.0,0.1422,2025,7
+US-MI,Troy,Oakland,PizzaHut,5279.81,435.58,0.0,0.0825,2025,3
+US-PA,Pittsburgh,Allegheny,DeMart,1623.8,212.39,0.0,0.1308,2025,3
+US-GA,Marietta,Cobb,DeMart,6445.56,441.52,0.0,0.0685,2025,4
+US-NC,Cary,Wake,DeMart,3650.35,400.81,0.0,0.1098,2025,5
+US-IL,Wheaton,DuPage,Reliance,663.13,73.47,0.0,0.1108,2025,9
+US-PA,Monroeville,Allegheny,Reliance,4019.78,323.59,0.0,0.0805,2025,1
+US-OH,Columbus,Franklin,DeMart,9353.83,930.71,0.0,0.0995,2025,7
+US-OH,Columbus,Franklin,PizzaHut,3840.61,382.14,0.0,0.0995,2025,6
+US-NY,Williamsburg,Kings,DeMart,6615.21,531.86,0.0,0.0804,2025,1
+US-NY,Astoria,Queens,DeMart,8739.29,814.5,0.0,0.0932,2025,8
+US-NC,High Point,Guilford,DeMart,6202.64,364.72,0.0,0.0588,2025,6
+US-FL,Pembroke Pines,Broward,DeMart,4208.11,402.3,0.0,0.0956,2025,7
+US-PA,Philadelphia,Philadelphia,DeMart,1887.13,273.45,0.0,0.1449,2025,9
+US-OH,Parma,Cuyahoga,DeMart,3447.04,214.41,0.0,0.0622,2025,1
+US-IL,Wheaton,DuPage,Reliance,7012.16,776.95,0.0,0.1108,2025,4
+US-CA,Daly City,San Francisco,DeMart,1076.08,146.99,0.0,0.1366,2025,8
+US-GA,Smyrna,Cobb,DeMart,5701.92,838.18,0.0,0.147,2025,9
+US-TX,Houston,Harris,PizzaHut,3778.31,456.42,0.0,0.1208,2025,5
+US-CA,Daly City,San Francisco,DeMart,5907.58,806.98,0.0,0.1366,2025,4
+US-PA,Pottstown,Montgomery,DeMart,8303.66,983.15,0.0,0.1184,2025,2
+US-MI,Detroit,Wayne,PizzaHut,3298.69,229.59,0.0,0.0696,2025,10
+US-OH,Dublin,Franklin,Reliance,6073.01,324.3,0.0,0.0534,2025,8
+US-PA,Pottstown,Montgomery,Reliance,9956.81,1178.89,0.0,0.1184,2025,9
+US-MI,Detroit,Wayne,DeMart,9510.27,661.91,0.0,0.0696,2025,11
+US-OH,Cleveland,Cuyahoga,DeMart,8162.43,767.27,0.0,0.094,2025,1
+US-IL,Mundelein,Lake,DeMart,640.2,36.17,0.0,0.0565,2025,3
+US-OH,Norwood,Hamilton,DeMart,2241.69,170.14,0.0,0.0759,2025,1
+US-MI,Sterling Heights,Macomb,PizzaHut,3595.72,477.87,0.0,0.1329,2025,8
+US-PA,Monroeville,Allegheny,PizzaHut,7865.61,633.18,0.0,0.0805,2025,9
+US-IL,Mundelein,Lake,PizzaHut,5457.03,308.32,0.0,0.0565,2025,12
+US-NY,Manhattan,New York,Reliance,1929.9,152.66,0.0,0.0791,2025,5
+US-OH,Cleveland,Cuyahoga,DeMart,8388.65,788.53,0.0,0.094,2025,11
+US-OH,Columbus,Franklin,PizzaHut,222.18,22.11,0.0,0.0995,2025,3
+US-NY,Queens,Queens,Reliance,606.39,62.15,0.0,0.1025,2025,6
+US-NY,Harlem,New York,PizzaHut,4796.91,533.42,0.0,0.1112,2025,3
+US-IL,Mundelein,Lake,Reliance,5252.45,296.76,0.0,0.0565,2025,3
+US-NC,Raleigh,Wake,Reliance,1070.28,149.3,0.0,0.1395,2025,6
+US-TX,Pasadena,Harris,DeMart,551.29,28.72,0.0,0.0521,2025,11
+US-GA,Sandy Springs,Fulton,Reliance,9841.91,799.16,0.0,0.0812,2025,12
+US-MI,Troy,Oakland,DeMart,3645.58,300.76,0.0,0.0825,2025,11
+US-PA,Norristown,Montgomery,Reliance,1511.31,90.38,0.0,0.0598,2025,11
+US-TX,Fort Worth,Tarrant,PizzaHut,6454.01,459.53,0.0,0.0712,2025,11
+US-NC,Charlotte,Mecklenburg,DeMart,510.14,65.04,0.0,0.1275,2025,10
+US-GA,Duluth,Gwinnett,PizzaHut,2445.55,256.05,0.0,0.1047,2025,9
+US-FL,Fort Lauderdale,Broward,DeMart,6807.7,589.55,0.0,0.0866,2025,7
+US-TX,Arlington,Tarrant,PizzaHut,2877.95,196.28,0.0,0.0682,2025,9
+US-OH,Cincinnati,Hamilton,PizzaHut,6904.23,972.81,0.0,0.1409,2025,6
+US-GA,Atlanta,Fulton,Reliance,9784.38,1137.92,0.0,0.1163,2025,7
+US-GA,Duluth,Gwinnett,PizzaHut,7335.62,768.04,0.0,0.1047,2025,12
+US-CA,San Francisco,San Francisco,PizzaHut,9576.25,534.35,0.0,0.0558,2025,3
+US-TX,Arlington,Tarrant,PizzaHut,6790.04,463.08,0.0,0.0682,2025,7
+US-PA,Monroeville,Allegheny,PizzaHut,1416.8,114.05,0.0,0.0805,2025,12
+US-OH,Cincinnati,Hamilton,DeMart,9079.72,1279.33,0.0,0.1409,2025,9
+US-NC,Charlotte,Mecklenburg,DeMart,7335.71,935.3,0.0,0.1275,2025,11
+US-OH,Columbus,Franklin,Reliance,5798.37,576.94,0.0,0.0995,2025,1
+US-IL,Chicago,Cook,PizzaHut,5745.84,582.63,0.0,0.1014,2025,2
+US-GA,Smyrna,Cobb,PizzaHut,3612.84,531.09,0.0,0.147,2025,2
+US-FL,West Palm Beach,Palm Beach,DeMart,7472.89,960.27,0.0,0.1285,2025,9
+US-IL,Naperville,DuPage,Reliance,1418.5,77.45,0.0,0.0546,2025,5
+US-PA,Chestnut Hill,Philadelphia,Reliance,1909.24,279.89,0.0,0.1466,2025,10
+US-TX,Houston,Harris,DeMart,1003.96,121.28,0.0,0.1208,2025,11
+US-TX,Fort Worth,Tarrant,PizzaHut,702.93,50.05,0.0,0.0712,2025,3
+US-TX,Pasadena,Harris,Reliance,8976.09,467.65,0.0,0.0521,2025,4
+US-NC,Matthews,Mecklenburg,Reliance,8917.52,1283.23,0.0,0.1439,2025,2
+US-NY,Manhattan,New York,PizzaHut,3027.9,239.51,0.0,0.0791,2025,9
+US-CA,San Diego,San Diego,PizzaHut,1893.6,208.11,0.0,0.1099,2025,8
+US-OH,Columbus,Franklin,DeMart,5921.12,589.15,0.0,0.0995,2025,10
+US-PA,Philadelphia,Philadelphia,PizzaHut,1801.11,260.98,0.0,0.1449,2025,9
+US-FL,Fort Lauderdale,Broward,Reliance,237.24,20.54,0.0,0.0866,2025,8
+US-NC,Matthews,Mecklenburg,Reliance,2733.38,393.33,0.0,0.1439,2025,3
+US-NC,Charlotte,Mecklenburg,PizzaHut,8096.41,1032.29,0.0,0.1275,2025,2
+US-FL,Pembroke Pines,Broward,Reliance,2943.49,281.4,0.0,0.0956,2025,8
+US-NY,Harlem,New York,DeMart,1462.53,162.63,0.0,0.1112,2025,11
+US-NY,Williamsburg,Kings,Reliance,2173.61,174.76,0.0,0.0804,2025,12
+US-IL,Wheaton,DuPage,Reliance,3194.72,353.97,0.0,0.1108,2025,8
+US-OH,Cincinnati,Hamilton,PizzaHut,3920.8,552.44,0.0,0.1409,2025,10
+US-NY,Brooklyn,Kings,PizzaHut,1603.67,109.53,0.0,0.0683,2025,4
+US-OH,Parma,Cuyahoga,Reliance,7320.17,455.31,0.0,0.0622,2025,7
+US-MI,Warren,Macomb,DeMart,1557.55,120.09,0.0,0.0771,2025,11
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,167.47,24.55,0.0,0.1466,2025,8
+US-NC,High Point,Guilford,Reliance,7675.42,451.31,0.0,0.0588,2025,1
+US-NY,Astoria,Queens,PizzaHut,7900.9,736.36,0.0,0.0932,2025,6
+US-GA,Smyrna,Cobb,DeMart,8107.38,1191.78,0.0,0.147,2025,10
+US-CA,San Francisco,San Francisco,Reliance,8586.59,479.13,0.0,0.0558,2025,2
+US-FL,Hialeah,Miami-Dade,DeMart,9455.74,748.89,0.0,0.0792,2025,9
+US-OH,Parma,Cuyahoga,DeMart,5154.65,320.62,0.0,0.0622,2025,3
+US-TX,Arlington,Tarrant,PizzaHut,1459.27,99.52,0.0,0.0682,2025,10
+US-IL,Wheaton,DuPage,PizzaHut,8138.27,901.72,0.0,0.1108,2025,4
+US-PA,Norristown,Montgomery,PizzaHut,6018.62,359.91,0.0,0.0598,2025,8
+US-GA,Lawrenceville,Gwinnett,PizzaHut,1771.7,180.71,0.0,0.102,2025,8
+US-OH,Cincinnati,Hamilton,Reliance,8506.07,1198.51,0.0,0.1409,2025,12
+US-OH,Cleveland,Cuyahoga,PizzaHut,5534.21,520.22,0.0,0.094,2025,2
+US-FL,Miami,Miami-Dade,Reliance,4662.89,297.96,0.0,0.0639,2025,5
+US-NY,Manhattan,New York,DeMart,6743.03,533.37,0.0,0.0791,2025,1
+US-GA,Smyrna,Cobb,DeMart,3328.47,489.29,0.0,0.147,2025,6
+US-TX,Fort Worth,Tarrant,PizzaHut,9426.38,671.16,0.0,0.0712,2025,9
+US-TX,Pasadena,Harris,DeMart,9760.21,508.51,0.0,0.0521,2025,12
+US-NC,Matthews,Mecklenburg,DeMart,8811.15,1267.92,0.0,0.1439,2025,9
+US-PA,Monroeville,Allegheny,PizzaHut,826.3,66.52,0.0,0.0805,2025,9
+US-GA,Duluth,Gwinnett,Reliance,4166.02,436.18,0.0,0.1047,2025,6
+US-NY,Williamsburg,Kings,DeMart,4634.48,372.61,0.0,0.0804,2025,10
+US-OH,Columbus,Franklin,Reliance,7488.99,745.15,0.0,0.0995,2025,1
+US-OH,Cleveland,Cuyahoga,Reliance,116.27,10.93,0.0,0.094,2025,3
+US-NC,Charlotte,Mecklenburg,Reliance,2274.39,289.98,0.0,0.1275,2025,9
+US-FL,Pembroke Pines,Broward,DeMart,1761.36,168.39,0.0,0.0956,2025,6
+US-CA,San Diego,San Diego,PizzaHut,7085.07,778.65,0.0,0.1099,2025,4
+US-FL,Miami,Miami-Dade,DeMart,7465.88,477.07,0.0,0.0639,2025,1
+US-MI,Livonia,Wayne,PizzaHut,9943.87,541.94,0.0,0.0545,2025,2
+US-OH,Dublin,Franklin,DeMart,6284.17,335.57,0.0,0.0534,2025,8
+US-TX,Dallas,Dallas,Reliance,6788.31,997.88,0.0,0.147,2025,10
+US-CA,South San Francisco,San Francisco,DeMart,198.12,21.81,0.0,0.1101,2025,10
+US-TX,Dallas,Dallas,PizzaHut,9870.27,1450.93,0.0,0.147,2025,8
+US-PA,Pittsburgh,Allegheny,DeMart,9922.14,1297.82,0.0,0.1308,2025,4
+US-TX,Fort Worth,Tarrant,Reliance,3521.24,250.71,0.0,0.0712,2025,11
+US-MI,Sterling Heights,Macomb,PizzaHut,8292.48,1102.07,0.0,0.1329,2025,6
+US-GA,Atlanta,Fulton,DeMart,5422.09,630.59,0.0,0.1163,2025,7
+US-NY,Queens,Queens,PizzaHut,2316.85,237.48,0.0,0.1025,2025,6
+US-FL,Fort Lauderdale,Broward,Reliance,5416.71,469.09,0.0,0.0866,2025,1
+US-TX,Fort Worth,Tarrant,DeMart,3271.97,232.96,0.0,0.0712,2025,9
+US-GA,Duluth,Gwinnett,PizzaHut,3330.19,348.67,0.0,0.1047,2025,2
+US-NY,Queens,Queens,Reliance,8660.06,887.66,0.0,0.1025,2025,6
+US-IL,Chicago,Cook,PizzaHut,7405.02,750.87,0.0,0.1014,2025,12
+US-PA,Monroeville,Allegheny,Reliance,5074.41,408.49,0.0,0.0805,2025,1
+US-NC,Greensboro,Guilford,PizzaHut,6098.67,867.23,0.0,0.1422,2025,12
+US-TX,Irving,Dallas,Reliance,5491.1,731.41,0.0,0.1332,2025,7
+US-NY,Astoria,Queens,DeMart,5083.12,473.75,0.0,0.0932,2025,6
+US-PA,Chestnut Hill,Philadelphia,Reliance,965.72,141.57,0.0,0.1466,2025,2
+US-PA,Philadelphia,Philadelphia,Reliance,2812.48,407.53,0.0,0.1449,2025,7
+US-MI,Livonia,Wayne,PizzaHut,3982.96,217.07,0.0,0.0545,2025,9
+US-IL,Chicago,Cook,DeMart,5130.6,520.24,0.0,0.1014,2025,6
+US-OH,Dublin,Franklin,Reliance,6313.92,337.16,0.0,0.0534,2025,7
+US-TX,Houston,Harris,Reliance,7482.6,903.9,825.94,0.1208,2025,2
+US-OH,Cleveland,Cuyahoga,Reliance,6746.92,634.21,0.0,0.094,2025,6
+US-OH,Dublin,Franklin,PizzaHut,6919.22,369.49,0.0,0.0534,2025,5
+US-CA,Glendale,Los Angeles,DeMart,6611.88,814.58,0.0,0.1232,2025,3
+US-GA,Sandy Springs,Fulton,PizzaHut,7155.39,581.02,0.0,0.0812,2025,11
+US-TX,Dallas,Dallas,DeMart,5221.21,767.52,0.0,0.147,2025,9
+US-OH,Dublin,Franklin,PizzaHut,8551.18,456.63,0.0,0.0534,2025,9
+US-IL,Mundelein,Lake,Reliance,897.75,50.72,0.0,0.0565,2025,8
+US-GA,Sandy Springs,Fulton,Reliance,159.87,12.98,0.0,0.0812,2025,9
+US-GA,Atlanta,Fulton,Reliance,9661.74,1123.66,0.0,0.1163,2025,8
+US-MI,Warren,Macomb,Reliance,8856.34,682.82,0.0,0.0771,2025,8
+US-MI,Livonia,Wayne,Reliance,1745.67,95.14,0.0,0.0545,2025,5
+US-TX,Pasadena,Harris,Reliance,1237.57,64.48,0.0,0.0521,2025,4
+US-TX,Fort Worth,Tarrant,PizzaHut,3209.03,228.48,0.0,0.0712,2025,11
+US-IL,Mundelein,Lake,PizzaHut,4925.11,278.27,0.0,0.0565,2025,10
+US-MI,Pontiac,Oakland,Reliance,4941.58,439.31,0.0,0.0889,2025,2
+US-CA,San Diego,San Diego,PizzaHut,4365.5,479.77,0.0,0.1099,2025,8
+US-NY,Manhattan,New York,Reliance,3696.23,292.37,0.0,0.0791,2025,4
+US-FL,Miami,Miami-Dade,DeMart,7442.11,475.55,0.0,0.0639,2025,8
+US-PA,Pittsburgh,Allegheny,Reliance,4078.58,533.48,0.0,0.1308,2025,10
+US-GA,Sandy Springs,Fulton,PizzaHut,6383.97,518.38,0.0,0.0812,2025,7
+US-NC,Cary,Wake,PizzaHut,6004.7,659.32,0.0,0.1098,2025,1
+US-MI,Livonia,Wayne,Reliance,1150.64,62.71,0.0,0.0545,2025,4
+US-MI,Sterling Heights,Macomb,DeMart,3066.72,407.57,0.0,0.1329,2025,10
+US-CA,Long Beach,Los Angeles,DeMart,6700.64,972.26,0.0,0.1451,2025,5
+US-FL,Fort Lauderdale,Broward,DeMart,2499.3,216.44,0.0,0.0866,2025,7
+US-CA,Oceanside,San Diego,DeMart,6042.49,396.39,0.0,0.0656,2025,12
+US-GA,Duluth,Gwinnett,DeMart,3482.25,364.59,0.0,0.1047,2025,6
+US-FL,Pembroke Pines,Broward,DeMart,8175.88,781.61,0.0,0.0956,2025,5
+US-NY,Harlem,New York,PizzaHut,8709.53,968.5,0.0,0.1112,2025,11
+US-IL,Waukegan,Lake,PizzaHut,2813.79,188.81,0.0,0.0671,2025,3
+US-MI,Detroit,Wayne,PizzaHut,1279.15,89.03,0.0,0.0696,2025,3
+US-PA,Philadelphia,Philadelphia,DeMart,3288.47,476.5,0.0,0.1449,2025,11
+US-PA,Pittsburgh,Allegheny,Reliance,2724.3,356.34,0.0,0.1308,2025,10
+US-PA,Pottstown,Montgomery,DeMart,8234.25,974.94,0.0,0.1184,2025,1
+US-CA,South San Francisco,San Francisco,DeMart,5687.72,626.22,0.0,0.1101,2025,4
+US-MI,Livonia,Wayne,DeMart,6210.22,338.46,0.0,0.0545,2025,4
+US-TX,Pasadena,Harris,PizzaHut,7645.9,398.35,0.0,0.0521,2025,2
+US-PA,Philadelphia,Philadelphia,PizzaHut,345.17,50.02,0.0,0.1449,2025,12
+US-NC,Raleigh,Wake,DeMart,7307.32,1019.37,0.0,0.1395,2025,5
+US-FL,Hialeah,Miami-Dade,DeMart,8574.41,679.09,0.0,0.0792,2025,2
+US-IL,Wheaton,DuPage,Reliance,790.22,87.56,0.0,0.1108,2025,4
+US-GA,Marietta,Cobb,PizzaHut,7274.49,498.3,0.0,0.0685,2025,6
+US-PA,Chestnut Hill,Philadelphia,DeMart,9213.31,1350.67,0.0,0.1466,2025,10
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,4901.68,718.59,0.0,0.1466,2025,10
+US-GA,Atlanta,Fulton,DeMart,2442.44,284.06,0.0,0.1163,2025,8
+US-CA,San Francisco,San Francisco,DeMart,8472.11,472.74,0.0,0.0558,2025,10
+US-MI,Pontiac,Oakland,Reliance,713.27,63.41,0.0,0.0889,2025,10
+US-NC,High Point,Guilford,PizzaHut,622.17,36.58,0.0,0.0588,2025,7
+US-OH,Parma,Cuyahoga,Reliance,1095.57,68.14,0.0,0.0622,2025,5
+US-TX,Arlington,Tarrant,PizzaHut,3391.02,231.27,0.0,0.0682,2025,8
+US-GA,Sandy Springs,Fulton,DeMart,1085.0,88.1,0.0,0.0812,2025,4
+US-CA,Daly City,San Francisco,DeMart,8664.2,1183.53,0.0,0.1366,2025,8
+US-NC,Cary,Wake,PizzaHut,4871.97,534.94,0.0,0.1098,2025,7
+US-PA,Philadelphia,Philadelphia,DeMart,1801.93,261.1,0.0,0.1449,2025,5
+US-MI,Troy,Oakland,DeMart,3498.43,288.62,0.0,0.0825,2025,10
+US-GA,Smyrna,Cobb,DeMart,9071.71,1333.54,0.0,0.147,2025,12
+US-TX,Pasadena,Harris,Reliance,889.18,46.33,0.0,0.0521,2025,5
+US-OH,Dublin,Franklin,DeMart,1348.54,72.01,0.0,0.0534,2025,8
+US-NC,Greensboro,Guilford,Reliance,2000.36,284.45,0.0,0.1422,2025,4
+US-NC,Matthews,Mecklenburg,DeMart,2097.77,301.87,0.0,0.1439,2025,7
+US-GA,Marietta,Cobb,PizzaHut,3792.7,259.8,0.0,0.0685,2025,4
+US-MI,Detroit,Wayne,Reliance,4557.74,317.22,0.0,0.0696,2025,1
+US-OH,Cleveland,Cuyahoga,PizzaHut,3484.47,327.54,0.0,0.094,2025,4
+US-GA,Smyrna,Cobb,Reliance,186.89,27.47,0.0,0.147,2025,10
+US-IL,Cicero,Cook,Reliance,9140.97,998.19,0.0,0.1092,2025,6
+US-GA,Smyrna,Cobb,Reliance,7539.09,1108.25,0.0,0.147,2025,10
+US-MI,Pontiac,Oakland,PizzaHut,2828.11,251.42,0.0,0.0889,2025,1
+US-OH,Parma,Cuyahoga,Reliance,2127.54,132.33,0.0,0.0622,2025,9
+US-PA,Norristown,Montgomery,Reliance,2498.35,149.4,0.0,0.0598,2025,10
+US-PA,Pottstown,Montgomery,DeMart,9768.51,1156.59,0.0,0.1184,2025,12
+US-TX,Houston,Harris,PizzaHut,8519.99,1029.21,0.0,0.1208,2025,11
+US-NY,Queens,Queens,PizzaHut,7586.3,777.6,0.0,0.1025,2025,4
+US-NC,High Point,Guilford,Reliance,2987.77,175.68,0.0,0.0588,2025,12
+US-FL,Hialeah,Miami-Dade,DeMart,1763.4,139.66,0.0,0.0792,2025,10
+US-CA,South San Francisco,San Francisco,PizzaHut,8855.0,974.94,0.0,0.1101,2025,7
+US-MI,Livonia,Wayne,DeMart,4251.41,231.7,0.0,0.0545,2025,1
+US-NC,High Point,Guilford,PizzaHut,6948.03,408.54,0.0,0.0588,2025,7
+US-GA,Smyrna,Cobb,PizzaHut,9108.31,1338.92,0.0,0.147,2025,12
+US-MI,Detroit,Wayne,PizzaHut,4491.28,312.59,0.0,0.0696,2025,12
+US-FL,West Palm Beach,Palm Beach,DeMart,8650.05,1111.53,0.0,0.1285,2025,2
+US-OH,Cleveland,Cuyahoga,PizzaHut,7296.08,685.83,0.0,0.094,2025,12
+US-MI,Warren,Macomb,DeMart,640.64,49.39,0.0,0.0771,2025,12
+US-IL,Chicago,Cook,PizzaHut,8592.79,871.31,0.0,0.1014,2025,2
+US-FL,Boca Raton,Palm Beach,Reliance,194.48,13.61,0.0,0.07,2025,5
+US-FL,Boca Raton,Palm Beach,DeMart,170.71,11.95,0.0,0.07,2025,10
+US-NC,Charlotte,Mecklenburg,PizzaHut,2622.01,334.31,0.0,0.1275,2025,11
+US-NY,Williamsburg,Kings,Reliance,1924.58,154.74,0.0,0.0804,2025,5
+US-CA,Los Angeles,Los Angeles,Reliance,1430.89,125.2,0.0,0.0875,2025,4
+US-GA,Lawrenceville,Gwinnett,PizzaHut,7856.66,801.38,0.0,0.102,2025,1
+US-GA,Atlanta,Fulton,DeMart,5401.87,628.24,0.0,0.1163,2025,10
+US-MI,Warren,Macomb,DeMart,7873.38,607.04,0.0,0.0771,2025,11
+US-IL,Waukegan,Lake,DeMart,5518.32,370.28,0.0,0.0671,2025,9
+US-IL,Chicago,Cook,DeMart,9526.22,965.96,0.0,0.1014,2025,3
+US-CA,Glendale,Los Angeles,Reliance,5827.56,717.96,0.0,0.1232,2025,9
+US-GA,Marietta,Cobb,Reliance,835.91,57.26,0.0,0.0685,2025,12
+US-TX,Pasadena,Harris,PizzaHut,3989.8,207.87,0.0,0.0521,2025,5
+US-CA,San Francisco,San Francisco,Reliance,9382.63,523.55,0.0,0.0558,2025,8
+US-OH,Dublin,Franklin,PizzaHut,9429.48,503.53,0.0,0.0534,2025,9
+US-CA,Daly City,San Francisco,PizzaHut,6914.55,944.53,0.0,0.1366,2025,3
+US-CA,Long Beach,Los Angeles,PizzaHut,5379.9,780.62,0.0,0.1451,2025,4
+US-GA,Atlanta,Fulton,DeMart,671.64,78.11,0.0,0.1163,2025,4
+US-GA,Sandy Springs,Fulton,Reliance,1127.19,91.53,0.0,0.0812,2025,5
+US-TX,Dallas,Dallas,Reliance,1419.94,208.73,0.0,0.147,2025,8
+US-NY,Manhattan,New York,Reliance,386.55,30.58,0.0,0.0791,2025,9
+US-GA,Sandy Springs,Fulton,PizzaHut,3486.49,283.1,0.0,0.0812,2025,12
+US-FL,Miami,Miami-Dade,Reliance,2436.37,155.68,0.0,0.0639,2025,11
+US-OH,Dublin,Franklin,DeMart,888.09,47.42,0.0,0.0534,2025,12
+US-TX,Fort Worth,Tarrant,PizzaHut,2517.06,179.21,0.0,0.0712,2025,8
+US-PA,Pottstown,Montgomery,DeMart,3948.81,467.54,0.0,0.1184,2025,12
+US-PA,Norristown,Montgomery,PizzaHut,2515.55,150.43,0.0,0.0598,2025,3
+US-NY,Astoria,Queens,Reliance,6932.22,646.08,0.0,0.0932,2025,7
+US-FL,Miami,Miami-Dade,DeMart,6908.92,441.48,0.0,0.0639,2025,7
+US-FL,Miami,Miami-Dade,DeMart,8235.35,526.24,0.0,0.0639,2025,9
+US-CA,South San Francisco,San Francisco,Reliance,9490.35,1044.89,0.0,0.1101,2025,12
+US-TX,Irving,Dallas,DeMart,5189.41,691.23,0.0,0.1332,2025,2
+US-MI,Sterling Heights,Macomb,DeMart,2491.85,331.17,0.0,0.1329,2025,9
+US-NY,Manhattan,New York,PizzaHut,734.54,58.1,0.0,0.0791,2025,6
+US-MI,Sterling Heights,Macomb,DeMart,6903.18,917.43,0.0,0.1329,2025,6
+US-TX,Pasadena,Harris,DeMart,9384.48,488.93,0.0,0.0521,2025,6
+US-MI,Warren,Macomb,PizzaHut,4887.14,376.8,0.0,0.0771,2025,1
+US-OH,Parma,Cuyahoga,DeMart,2968.31,184.63,0.0,0.0622,2025,1
+US-FL,Fort Lauderdale,Broward,PizzaHut,7069.91,612.25,0.0,0.0866,2025,11
+US-NY,Williamsburg,Kings,DeMart,9551.2,767.92,0.0,0.0804,2025,3
+US-FL,Hialeah,Miami-Dade,Reliance,3237.35,256.4,0.0,0.0792,2025,8
+US-NC,Matthews,Mecklenburg,DeMart,3660.79,526.79,0.0,0.1439,2025,1
+US-FL,Miami,Miami-Dade,PizzaHut,197.29,12.61,0.0,0.0639,2025,4
+US-TX,Arlington,Tarrant,PizzaHut,3110.54,212.14,0.0,0.0682,2025,7
+US-NY,Harlem,New York,DeMart,9106.46,1012.64,0.0,0.1112,2025,7
+US-OH,Cleveland,Cuyahoga,Reliance,5732.93,538.9,0.0,0.094,2025,8
+US-MI,Livonia,Wayne,Reliance,5736.05,312.61,0.0,0.0545,2025,3
+US-NY,Brooklyn,Kings,DeMart,1824.15,124.59,0.0,0.0683,2025,10
+US-MI,Pontiac,Oakland,PizzaHut,2405.3,213.83,0.0,0.0889,2025,7
+US-TX,Dallas,Dallas,Reliance,6559.51,964.25,0.0,0.147,2025,2
+US-TX,Houston,Harris,PizzaHut,4605.25,556.31,0.0,0.1208,2025,6
+US-OH,Norwood,Hamilton,DeMart,8098.78,614.7,0.0,0.0759,2025,6
+US-FL,Hialeah,Miami-Dade,PizzaHut,5045.53,399.61,0.0,0.0792,2025,1
+US-FL,Hialeah,Miami-Dade,DeMart,440.33,34.87,0.0,0.0792,2025,6
+US-PA,Chestnut Hill,Philadelphia,Reliance,3035.72,445.04,0.0,0.1466,2025,10
+US-TX,Arlington,Tarrant,Reliance,5891.85,401.82,0.0,0.0682,2025,2
+US-TX,Dallas,Dallas,Reliance,1156.45,170.0,0.0,0.147,2025,7
+US-IL,Mundelein,Lake,Reliance,6466.73,365.37,0.0,0.0565,2025,10
+US-MI,Warren,Macomb,DeMart,1421.99,109.64,0.0,0.0771,2025,5
+US-OH,Columbus,Franklin,Reliance,7132.48,709.68,0.0,0.0995,2025,3
+US-NC,Charlotte,Mecklenburg,DeMart,4423.9,564.05,0.0,0.1275,2025,3
+US-GA,Atlanta,Fulton,PizzaHut,842.1,97.94,0.0,0.1163,2025,1
+US-IL,Mundelein,Lake,PizzaHut,314.29,17.76,0.0,0.0565,2025,4
+US-TX,Fort Worth,Tarrant,Reliance,5437.99,387.18,0.0,0.0712,2025,12
+US-OH,Cleveland,Cuyahoga,Reliance,495.48,46.58,0.0,0.094,2025,3
+US-TX,Irving,Dallas,DeMart,8267.85,1101.28,0.0,0.1332,2025,9
+US-TX,Dallas,Dallas,DeMart,6446.75,947.67,0.0,0.147,2025,12
+US-FL,Fort Lauderdale,Broward,Reliance,9147.38,792.16,0.0,0.0866,2025,3
+US-MI,Livonia,Wayne,DeMart,7520.5,409.87,0.0,0.0545,2025,10
+US-PA,Pottstown,Montgomery,DeMart,1339.99,158.65,0.0,0.1184,2025,11
+US-CA,Glendale,Los Angeles,PizzaHut,9730.66,1198.82,0.0,0.1232,2025,7
+US-IL,Naperville,DuPage,DeMart,5060.3,276.29,0.0,0.0546,2025,11
+US-PA,Pittsburgh,Allegheny,Reliance,2507.48,327.98,0.0,0.1308,2025,5
+US-OH,Dublin,Franklin,Reliance,347.34,18.55,0.0,0.0534,2025,8
+US-FL,Fort Lauderdale,Broward,DeMart,5510.12,477.18,0.0,0.0866,2025,10
+US-MI,Livonia,Wayne,DeMart,1963.5,107.01,0.0,0.0545,2025,6
+US-IL,Naperville,DuPage,PizzaHut,8419.45,459.7,0.0,0.0546,2025,6
+US-PA,Norristown,Montgomery,DeMart,5459.49,326.48,0.0,0.0598,2025,9
+US-GA,Atlanta,Fulton,DeMart,2677.99,311.45,0.0,0.1163,2025,12
+US-GA,Marietta,Cobb,Reliance,2138.23,146.47,0.0,0.0685,2025,4
+US-NC,High Point,Guilford,DeMart,6794.34,399.51,0.0,0.0588,2025,5
+US-CA,Daly City,San Francisco,DeMart,3498.68,477.92,0.0,0.1366,2025,3
+US-PA,Chestnut Hill,Philadelphia,DeMart,7836.47,1148.83,0.0,0.1466,2025,10
+US-TX,Arlington,Tarrant,DeMart,7500.45,511.53,0.0,0.0682,2025,7
+US-GA,Atlanta,Fulton,Reliance,426.82,49.64,0.0,0.1163,2025,9
+US-NY,Queens,Queens,PizzaHut,2430.29,249.1,0.0,0.1025,2025,12
+US-MI,Livonia,Wayne,Reliance,7613.87,414.96,0.0,0.0545,2025,12
+US-FL,West Palm Beach,Palm Beach,Reliance,8961.26,1151.52,573.93,0.1285,2025,2
+US-CA,South San Francisco,San Francisco,DeMart,4534.92,499.29,0.0,0.1101,2025,3
+US-MI,Sterling Heights,Macomb,DeMart,3610.03,479.77,0.0,0.1329,2025,7
+US-OH,Cincinnati,Hamilton,PizzaHut,2730.29,384.7,0.0,0.1409,2025,10
