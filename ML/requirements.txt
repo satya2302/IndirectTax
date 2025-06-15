@@ -2,5 +2,6 @@ flask
 pandas
 requests
 scikit-learn
+ipykernel
 numpy
 flask-cors
