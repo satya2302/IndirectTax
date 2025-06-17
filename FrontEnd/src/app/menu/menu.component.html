@@ -1,22 +1,20 @@
 <!-- Navigation Bar -->
 <nav class="navbar" style="display: flex; align-items: center;">
   <ul style="flex: 1 1 auto; display: flex; align-items: center; margin: 0;">
-    <li>
-      <a routerLink="/usage" routerLinkActive="active">Usage</a>
+    <li [class.active]="router.isActive('/usage', true)">
+      <a routerLink="/usage">Usage</a>
     </li>
-    <li>
-      <a routerLink="/imports" routerLinkActive="active">Imports</a>
+    <li [class.active]="router.isActive('/imports', true)">
+      <a routerLink="/imports">Reconciliation</a>
     </li>
-    <li>
-      <a routerLink="/journals" routerLinkActive="active">Journals</a>
+    <li [class.active]="router.isActive('/journals', true)">
+      <a routerLink="/journals">Journals</a>
     </li>
-    <li>
-      <a routerLink="/taxreturnsummary" routerLinkActive="active">
-        Tax Return Summary
-      </a>
-    </li>
+    <!-- <li [class.active]="router.isActive('/taxreturnsummary', true)">
+      <a routerLink="/taxreturnsummary">Tax Return Summary</a>
+    </li> -->
   </ul>
-  <span style="cursor:pointer; margin-left:8px; display: flex; align-items: center;" title="Chatbot" (click)="openChatbot($event)">
+  <span role="button" aria-label="Open Chatbot" style="cursor:pointer; margin-left:8px; display: flex; align-items: center;" title="Chatbot" (click)="openChatbot($event)" (keydown.enter)="openChatbot($event)">
     <svg xmlns="http://www.w3.org/2000/svg" height="18" width="18" viewBox="0 0 24 24" fill="#FFD700" style="vertical-align:middle;">
       <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
     </svg>

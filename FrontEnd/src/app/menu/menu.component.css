@@ -17,12 +17,14 @@
  
 }
 .navbar li.active {
-  border-bottom: 2px solid orange;
-  font-weight: bold;
-  background: #8d1b1b;
+  border-bottom: 5px solid orange;
+  background: none;
 }
 .navbar li.active a {
   color: orange !important;
+  text-decoration: none;
+  border-bottom: none;
+  padding-bottom: 0;
 }
 .navbar a {
   color: #fff;

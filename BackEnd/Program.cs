@@ -7,6 +7,8 @@ builder.Services.AddSwaggerGen();
 
 // Register DataUsageRepository for dependency injection
 builder.Services.AddScoped<IndirectTax.Data.DataUsageRepository>();
+builder.Services.AddScoped<IndirectTax.Data.ReconcillationSyntheticRepository>();
+builder.Services.AddScoped<IndirectTax.Data.JournalSyntheticRepository>();
 
 builder.Services.AddCors(options =>
 {

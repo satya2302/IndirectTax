@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { RouterModule } from '@angular/router';
+import { RouterModule, Router } from '@angular/router';
 import { ChatbotComponent } from '../chatbot/chatbot.component';
 
 @Component({
@@ -12,6 +12,8 @@ import { ChatbotComponent } from '../chatbot/chatbot.component';
 })
 export class MenuComponent {
   showChatbot = false;
+
+  constructor(public router: Router) {}
 
   openChatbot(event: Event) {
     event.preventDefault();
