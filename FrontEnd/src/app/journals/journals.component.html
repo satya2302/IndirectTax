@@ -1,4 +1,50 @@
 <div class="main-content">
-  <h2>Journals</h2>
-  <p>Journals page works!</p>
+  <div class="toolbar toolbar-modern">
+    <button class="toolbar-btn import-btn" (click)="fileInput.click()">
+      <span class="toolbar-icon">&#43;</span> <span class="toolbar-label">Import</span>
+    </button>
+    <input #fileInput type="file" accept=".csv" (change)="onFileSelected($event)" style="display:none" />
+    <span *ngIf="fileName">Selected: {{ fileName }}</span>
+    <span *ngIf="loading">Uploading...</span>
+    <span *ngIf="uploadSuccess && !loading" style="color:green">Upload complete!</span>
+    <span *ngIf="uploadError" class="error">{{ uploadError }}</span>
+  </div>
+  <div *ngIf="filteredData.length > 0">
+    <div class="entities-grid">
+      <div class="grid-row">
+        <div class="grid-cell header">Region</div>
+        <div class="grid-cell header">City</div>
+        <div class="grid-cell header">County</div>
+        <div class="grid-cell header">Entity</div>
+        <div class="grid-cell header">District</div>
+        <div class="grid-cell header">Gross</div>
+        <div class="grid-cell header">Taxable</div>
+        <div class="grid-cell header">Input Source</div>
+        <div class="grid-cell header">Place Determination</div>
+        <div class="grid-cell header">Entry Id</div>
+        <div class="grid-cell header">Id</div>
+        <div class="grid-cell header">Log Id</div>
+        <div class="grid-cell header">Tax Rate</div>
+        <div class="grid-cell header">Year</div>
+        <div class="grid-cell header">Month</div>
+      </div>
+      <div class="grid-row" *ngFor="let row of filteredData">
+        <div class="grid-cell">{{ row.region }}</div>
+        <div class="grid-cell">{{ row.city }}</div>
+        <div class="grid-cell">{{ row.county }}</div>
+        <div class="grid-cell">{{ row.entity }}</div>
+        <div class="grid-cell">{{ row.district }}</div>
+        <div class="grid-cell">{{ row.gross }}</div>
+        <div class="grid-cell">{{ row.taxable }}</div>
+        <div class="grid-cell">{{ row.inputSource }}</div>
+        <div class="grid-cell">{{ row.placeDetermination }}</div>
+        <div class="grid-cell">{{ row.entryId }}</div>
+        <div class="grid-cell">{{ row.id }}</div>
+        <div class="grid-cell">{{ row.logId }}</div>
+        <div class="grid-cell">{{ row.taxRate }}</div>
+        <div class="grid-cell">{{ row.year }}</div>
+        <div class="grid-cell">{{ row.month }}</div>
+      </div>
+    </div>
+  </div>
 </div>

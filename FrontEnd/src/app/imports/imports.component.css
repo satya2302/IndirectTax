@@ -1,2 +1,114 @@
 /* Imports page styles */
-.main-content { padding: 2rem 1.5rem; }
+/* .main-content {
+  padding: 0 1.5rem;
+} */
+
+.entities-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0;
+}
+.grid-row {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  padding: 0.5rem 0.5rem;
+  transition: background 0.2s;
+  overflow-x: auto;
+  width: 100%;
+}
+.grid-row.selected {
+  background: #e3f2fd;
+}
+.grid-cell {
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+  overflow-wrap: anywhere;
+}
+.grid-cell.header {
+  font-weight: bold;
+  background: #f0f0f0;
+  border-radius: 4px 4px 0 0;
+}
+@media (max-width: 700px) {
+  .grid-row {
+    grid-template-columns: 1fr 1.5fr 2fr;
+    font-size: 0.95rem;
+  }
+}
+@media (max-width: 1100px) {
+  .grid-row {
+    font-size: 0.95rem;
+    grid-template-columns: repeat(8, minmax(120px, 1fr));
+    width: 100%;
+  }
+  .entities-grid {
+    overflow-x: auto;
+  }
+}
+.toolbar-modern {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  background: #f6f7fa;
+  padding: 1rem 0 1rem 0;
+  border-radius: 0.25rem;
+  margin-bottom: 0;
+}
+.toolbar-btn {
+  display: flex;
+  align-items: center;
+  background: none;
+  border: none;
+  font-weight: bold;
+  font-size: 1.08rem;
+  color: #222;
+  cursor: pointer;
+  padding: 0.2rem 0.5rem;
+  transition: background 0.2s;
+}
+.toolbar-btn:hover {
+  background: #e3e6ea;
+  border-radius: 4px;
+}
+.toolbar-icon {
+  font-size: 1.2rem;
+  margin-right: 0.4rem;
+  color: #888;
+}
+.toolbar-label {
+  font-weight: bold;
+  margin-right: 0.2rem;
+}
+.import-btn .toolbar-icon {
+  color: #888;
+}
+.error {
+  color: red;
+  margin-top: 1rem;
+}
+.reclass-btn {
+  display: flex;
+  align-items: center;
+  background: #ff9800;
+  /* Orange color used in Material Design and common in apps */
+  color: #fff;
+  border: none;
+  font-weight: bold;
+  font-size: 1.08rem;
+  cursor: pointer;
+  padding: 0.35rem 1.2rem;
+  border-radius: 4px;
+  margin-left: 1rem;
+  transition: background 0.2s, color 0.2s;
+}
+.reclass-btn:disabled {
+  background: #b0b0b0;
+  color: #f0f0f0;
+  cursor: not-allowed;
+}
+.reclass-btn:hover:not(:disabled) {
+  background: #fb8c00;
+}

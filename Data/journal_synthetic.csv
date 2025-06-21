@@ -1,0 +1,1201 @@
+Region,City,County,Entity,District,Gross,Taxable,InputSource,PlaceDetermination,EntryId,Id,LogId,TaxRate,Year,Month
+US-GA,Atlanta,Fulton,Reliance,District-68,7250.3,843.21,balanceimport,taxareacode,100000,J100000,L100000,0.1163,2024,2
+US-NY,Manhattan,New York,DeMart,District-27,3522.39,278.62,balanceimport,taxareacode,100001,J100001,L100001,0.0791,2023,11
+US-MI,Pontiac,Oakland,DeMart,District-23,4673.86,415.51,balanceimport,taxareacode,100002,J100002,L100002,0.0889,2023,11
+US-GA,Lawrenceville,Gwinnett,DeMart,District-97,279.29,28.49,balanceimport,taxareacode,100003,J100003,L100003,0.102,2024,12
+US-FL,Hialeah,Miami-Dade,Reliance,District-92,3806.91,301.51,balanceimport,taxareacode,100004,J100004,L100004,0.0792,2023,9
+US-NY,Williamsburg,Kings,DeMart,District-41,9263.13,744.76,balanceimport,taxareacode,100005,J100005,L100005,0.0804,2022,7
+US-IL,Cicero,Cook,DeMart,District-36,1334.16,145.69,balanceimport,taxareacode,100006,J100006,L100006,0.1092,2022,9
+US-PA,Pottstown,Montgomery,PizzaHut,District-15,4050.13,479.54,balanceimport,taxareacode,100007,J100007,L100007,0.1184,2022,9
+US-NC,Raleigh,Wake,Reliance,District-26,3401.64,474.53,balanceimport,taxareacode,100008,J100008,L100008,0.1395,2022,4
+US-MI,Sterling Heights,Macomb,DeMart,District-7,3534.84,469.78,balanceimport,taxareacode,100009,J100009,L100009,0.1329,2024,2
+US-CA,South San Francisco,San Francisco,PizzaHut,District-51,2557.44,281.57,balanceimport,taxareacode,100010,J100010,L100010,0.1101,2024,9
+US-FL,Pembroke Pines,Broward,Reliance,District-33,3687.7,352.54,balanceimport,taxareacode,100011,J100011,L100011,0.0956,2023,11
+US-MI,Troy,Oakland,Reliance,District-71,9757.86,805.02,balanceimport,taxareacode,100012,J100012,L100012,0.0825,2022,9
+US-FL,Pembroke Pines,Broward,DeMart,District-63,9969.06,953.04,balanceimport,taxareacode,100013,J100013,L100013,0.0956,2024,1
+US-CA,Glendale,Los Angeles,DeMart,District-51,2178.07,268.34,balanceimport,taxareacode,100014,J100014,L100014,0.1232,2023,3
+US-CA,Long Beach,Los Angeles,Reliance,District-16,5691.93,825.9,balanceimport,taxareacode,100015,J100015,L100015,0.1451,2022,2
+US-NY,Harlem,New York,DeMart,District-92,4862.77,540.74,balanceimport,taxareacode,100016,J100016,L100016,0.1112,2024,6
+US-FL,Miami,Miami-Dade,Reliance,District-3,3795.76,242.55,balanceimport,taxareacode,100017,J100017,L100017,0.0639,2024,10
+US-TX,Houston,Harris,PizzaHut,District-92,8413.91,1016.4,balanceimport,taxareacode,100018,J100018,L100018,0.1208,2022,7
+US-GA,Atlanta,Fulton,Reliance,District-67,2387.64,277.68,balanceimport,taxareacode,100019,J100019,L100019,0.1163,2024,11
+US-GA,Lawrenceville,Gwinnett,Reliance,District-67,8885.86,906.36,balanceimport,taxareacode,100020,J100020,L100020,0.102,2024,12
+US-GA,Duluth,Gwinnett,PizzaHut,District-88,7250.44,759.12,balanceimport,taxareacode,100021,J100021,L100021,0.1047,2023,8
+US-FL,Miami,Miami-Dade,DeMart,District-14,3002.16,191.84,balanceimport,taxareacode,100022,J100022,L100022,0.0639,2024,2
+US-MI,Warren,Macomb,Reliance,District-85,362.67,27.96,reclassin,reclass,100023,J100023,L100023,0.0771,2022,3
+US-TX,Dallas,Dallas,Reliance,District-69,3483.99,512.15,balanceimport,taxareacode,100024,J100024,L100024,0.147,2024,10
+US-TX,Fort Worth,Tarrant,PizzaHut,District-12,8323.48,592.63,balanceimport,taxareacode,100025,J100025,L100025,0.0712,2023,5
+US-NC,Cary,Wake,Reliance,District-99,9489.69,1041.97,balanceimport,taxareacode,100026,J100026,L100026,0.1098,2022,6
+US-MI,Pontiac,Oakland,PizzaHut,District-87,8018.57,712.85,balanceimport,taxareacode,100027,J100027,L100027,0.0889,2023,1
+US-NY,Brooklyn,Kings,DeMart,District-40,7018.57,479.37,balanceimport,taxareacode,100028,J100028,L100028,0.0683,2024,9
+US-NC,Raleigh,Wake,DeMart,District-4,1409.53,196.63,balanceimport,taxareacode,100029,J100029,L100029,0.1395,2024,2
+US-IL,Mundelein,Lake,DeMart,District-85,8169.04,461.55,balanceimport,taxareacode,100030,J100030,L100030,0.0565,2023,9
+US-TX,Houston,Harris,Reliance,District-76,2143.57,258.94,reclassin,reclass,100031,J100031,L100031,0.1208,2023,10
+US-IL,Waukegan,Lake,Reliance,District-6,7348.63,493.09,balanceimport,taxareacode,100032,J100032,L100032,0.0671,2022,2
+US-NC,Matthews,Mecklenburg,PizzaHut,District-45,8397.26,1208.37,balanceimport,taxareacode,100033,J100033,L100033,0.1439,2023,5
+US-MI,Pontiac,Oakland,DeMart,District-54,7406.53,658.44,balanceimport,taxareacode,100034,J100034,L100034,0.0889,2022,3
+US-FL,West Palm Beach,Palm Beach,DeMart,District-21,8387.08,1077.74,balanceimport,taxareacode,100035,J100035,L100035,0.1285,2022,11
+US-OH,Norwood,Hamilton,DeMart,District-55,6670.34,506.28,balanceimport,taxareacode,100036,J100036,L100036,0.0759,2023,6
+US-IL,Cicero,Cook,DeMart,District-20,1703.94,186.07,balanceimport,taxareacode,100037,J100037,L100037,0.1092,2024,4
+US-CA,San Diego,San Diego,PizzaHut,District-98,6270.99,689.18,balanceimport,taxareacode,100038,J100038,L100038,0.1099,2022,2
+US-NC,Charlotte,Mecklenburg,Reliance,District-89,7078.76,902.54,balanceimport,taxareacode,100039,J100039,L100039,0.1275,2023,8
+US-NC,Greensboro,Guilford,PizzaHut,District-44,9680.22,1376.53,balanceimport,taxareacode,100040,J100040,L100040,0.1422,2023,6
+US-NY,Brooklyn,Kings,PizzaHut,District-49,1454.5,99.34,balanceimport,taxareacode,100041,J100041,L100041,0.0683,2022,10
+US-OH,Parma,Cuyahoga,PizzaHut,District-62,9585.89,596.24,balanceimport,taxareacode,100042,J100042,L100042,0.0622,2024,3
+US-IL,Chicago,Cook,PizzaHut,District-80,8507.04,862.61,balanceimport,taxareacode,100043,J100043,L100043,0.1014,2023,9
+US-NC,High Point,Guilford,PizzaHut,District-26,490.33,28.83,balanceimport,taxareacode,100044,J100044,L100044,0.0588,2024,10
+US-CA,San Francisco,San Francisco,DeMart,District-86,9163.33,511.31,balanceimport,taxareacode,100045,J100045,L100045,0.0558,2024,5
+US-NC,Greensboro,Guilford,DeMart,District-87,7973.88,1133.89,balanceimport,taxareacode,100046,J100046,L100046,0.1422,2024,4
+US-NY,Astoria,Queens,PizzaHut,District-17,6536.66,609.22,balanceimport,taxareacode,100047,J100047,L100047,0.0932,2024,8
+US-TX,Fort Worth,Tarrant,Reliance,District-40,4466.22,317.99,balanceimport,taxareacode,100048,J100048,L100048,0.0712,2024,7
+US-GA,Sandy Springs,Fulton,Reliance,District-25,7404.77,601.27,balanceimport,taxareacode,100049,J100049,L100049,0.0812,2022,1
+US-MI,Troy,Oakland,DeMart,District-99,8713.98,718.9,balanceimport,taxareacode,100050,J100050,L100050,0.0825,2024,11
+US-TX,Fort Worth,Tarrant,PizzaHut,District-46,3572.05,254.33,reclassin,reclass,100051,J100051,L100051,0.0712,2022,1
+US-IL,Chicago,Cook,PizzaHut,District-10,1007.82,102.19,balanceimport,taxareacode,100052,J100052,L100052,0.1014,2022,7
+US-CA,Oceanside,San Diego,Reliance,District-45,3610.76,236.87,balanceimport,taxareacode,100053,J100053,L100053,0.0656,2023,2
+US-IL,Chicago,Cook,Reliance,District-79,4334.95,439.56,balanceimport,taxareacode,100054,J100054,L100054,0.1014,2022,1
+US-GA,Marietta,Cobb,DeMart,District-61,2663.93,182.48,balanceimport,taxareacode,100055,J100055,L100055,0.0685,2023,12
+US-OH,Norwood,Hamilton,DeMart,District-11,9046.87,686.66,reclassin,reclass,100056,J100056,L100056,0.0759,2022,2
+US-OH,Cincinnati,Hamilton,Reliance,District-54,6116.59,861.83,balanceimport,taxareacode,100057,J100057,L100057,0.1409,2024,10
+US-TX,Houston,Harris,DeMart,District-3,8279.44,1000.16,balanceimport,taxareacode,100058,J100058,L100058,0.1208,2022,5
+US-PA,Norristown,Montgomery,PizzaHut,District-9,9284.75,555.23,reclassin,reclass,100059,J100059,L100059,0.0598,2022,10
+US-MI,Sterling Heights,Macomb,DeMart,District-62,9963.72,1324.18,balanceimport,taxareacode,100060,J100060,L100060,0.1329,2024,3
+US-PA,Philadelphia,Philadelphia,Reliance,District-89,5970.11,865.07,balanceimport,taxareacode,100061,J100061,L100061,0.1449,2023,5
+US-NC,High Point,Guilford,PizzaHut,District-29,8898.61,523.24,balanceimport,taxareacode,100062,J100062,L100062,0.0588,2023,9
+US-MI,Livonia,Wayne,PizzaHut,District-25,5553.49,302.67,balanceimport,taxareacode,100063,J100063,L100063,0.0545,2023,11
+US-GA,Smyrna,Cobb,DeMart,District-5,582.96,85.7,balanceimport,taxareacode,100064,J100064,L100064,0.147,2023,2
+US-IL,Chicago,Cook,Reliance,District-81,709.02,71.89,balanceimport,taxareacode,100065,J100065,L100065,0.1014,2023,3
+US-NY,Queens,Queens,PizzaHut,District-33,8798.44,901.84,balanceimport,taxareacode,100066,J100066,L100066,0.1025,2022,3
+US-NC,Charlotte,Mecklenburg,PizzaHut,District-89,9307.89,1186.76,balanceimport,taxareacode,100067,J100067,L100067,0.1275,2024,4
+US-PA,Norristown,Montgomery,Reliance,District-45,8731.25,522.13,balanceimport,taxareacode,100068,J100068,L100068,0.0598,2024,3
+US-OH,Dublin,Franklin,DeMart,District-53,7460.73,398.4,balanceimport,taxareacode,100069,J100069,L100069,0.0534,2023,2
+US-OH,Dublin,Franklin,Reliance,District-27,9813.74,524.05,reclassin,reclass,100070,J100070,L100070,0.0534,2024,1
+US-TX,Pasadena,Harris,PizzaHut,District-70,2905.1,151.36,balanceimport,taxareacode,100071,J100071,L100071,0.0521,2023,7
+US-NC,Cary,Wake,PizzaHut,District-60,1877.02,206.1,balanceimport,taxareacode,100072,J100072,L100072,0.1098,2022,5
+US-PA,Monroeville,Allegheny,PizzaHut,District-17,7732.74,622.49,balanceimport,taxareacode,100073,J100073,L100073,0.0805,2023,1
+US-PA,Chestnut Hill,Philadelphia,DeMart,District-82,8728.21,1279.56,balanceimport,taxareacode,100074,J100074,L100074,0.1466,2024,12
+US-NY,Brooklyn,Kings,PizzaHut,District-11,8232.98,562.31,balanceimport,taxareacode,100075,J100075,L100075,0.0683,2024,3
+US-MI,Sterling Heights,Macomb,DeMart,District-46,4738.54,629.75,balanceimport,taxareacode,100076,J100076,L100076,0.1329,2022,4
+US-NY,Brooklyn,Kings,Reliance,District-15,7968.61,544.26,balanceimport,taxareacode,100077,J100077,L100077,0.0683,2023,11
+US-FL,Fort Lauderdale,Broward,PizzaHut,District-67,9513.55,823.87,balanceimport,taxareacode,100078,J100078,L100078,0.0866,2022,12
+US-IL,Waukegan,Lake,Reliance,District-84,4036.18,270.83,balanceimport,taxareacode,100079,J100079,L100079,0.0671,2022,9
+US-NY,Harlem,New York,Reliance,District-38,2376.55,264.27,balanceimport,taxareacode,100080,J100080,L100080,0.1112,2022,3
+US-NC,Cary,Wake,PizzaHut,District-80,5478.0,601.48,balanceimport,taxareacode,100081,J100081,L100081,0.1098,2023,12
+US-NC,Charlotte,Mecklenburg,Reliance,District-8,7732.13,985.85,balanceimport,taxareacode,100082,J100082,L100082,0.1275,2024,2
+US-NY,Williamsburg,Kings,Reliance,District-60,9678.36,778.14,balanceimport,taxareacode,100083,J100083,L100083,0.0804,2023,4
+US-NC,Raleigh,Wake,DeMart,District-17,6112.33,852.67,balanceimport,taxareacode,100084,J100084,L100084,0.1395,2022,4
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-2,7995.84,1172.19,balanceimport,taxareacode,100085,J100085,L100085,0.1466,2022,11
+US-CA,Long Beach,Los Angeles,DeMart,District-64,4015.9,582.71,reclassin,reclass,100086,J100086,L100086,0.1451,2024,6
+US-NC,Charlotte,Mecklenburg,DeMart,District-8,7270.42,926.98,reclassin,reclass,100087,J100087,L100087,0.1275,2022,3
+US-CA,Glendale,Los Angeles,DeMart,District-80,4875.33,600.64,reclassin,reclass,100088,J100088,L100088,0.1232,2022,12
+US-MI,Pontiac,Oakland,Reliance,District-97,969.88,86.22,balanceimport,taxareacode,100089,J100089,L100089,0.0889,2022,1
+US-FL,Fort Lauderdale,Broward,DeMart,District-66,9776.92,846.68,balanceimport,taxareacode,100090,J100090,L100090,0.0866,2023,10
+US-MI,Pontiac,Oakland,PizzaHut,District-44,1135.22,100.92,balanceimport,taxareacode,100091,J100091,L100091,0.0889,2022,11
+US-NY,Manhattan,New York,DeMart,District-6,6204.39,490.77,balanceimport,taxareacode,100092,J100092,L100092,0.0791,2023,9
+US-GA,Duluth,Gwinnett,DeMart,District-62,6161.35,645.09,balanceimport,taxareacode,100093,J100093,L100093,0.1047,2024,7
+US-FL,Pembroke Pines,Broward,DeMart,District-26,4860.95,464.71,balanceimport,taxareacode,100094,J100094,L100094,0.0956,2023,9
+US-TX,Irving,Dallas,PizzaHut,District-13,4844.86,645.34,balanceimport,taxareacode,100095,J100095,L100095,0.1332,2023,3
+US-NY,Harlem,New York,DeMart,District-45,1902.97,211.61,balanceimport,taxareacode,100096,J100096,L100096,0.1112,2022,7
+US-OH,Norwood,Hamilton,DeMart,District-18,6567.3,498.46,balanceimport,taxareacode,100097,J100097,L100097,0.0759,2022,5
+US-NY,Queens,Queens,PizzaHut,District-61,814.76,83.51,balanceimport,taxareacode,100098,J100098,L100098,0.1025,2024,1
+US-CA,Oceanside,San Diego,Reliance,District-58,7452.79,488.9,balanceimport,taxareacode,100099,J100099,L100099,0.0656,2022,4
+US-FL,Fort Lauderdale,Broward,DeMart,District-51,5828.89,504.78,balanceimport,taxareacode,100100,J100100,L100100,0.0866,2023,4
+US-IL,Naperville,DuPage,DeMart,District-34,7950.27,434.08,reclassin,reclass,100101,J100101,L100101,0.0546,2023,7
+US-NY,Harlem,New York,DeMart,District-12,3900.09,433.69,balanceimport,taxareacode,100102,J100102,L100102,0.1112,2022,2
+US-CA,Daly City,San Francisco,DeMart,District-87,6362.15,869.07,balanceimport,taxareacode,100103,J100103,L100103,0.1366,2024,2
+US-IL,Chicago,Cook,DeMart,District-41,2547.59,258.33,balanceimport,taxareacode,100104,J100104,L100104,0.1014,2022,12
+US-GA,Smyrna,Cobb,Reliance,District-2,1043.09,153.33,balanceimport,taxareacode,100105,J100105,L100105,0.147,2024,1
+US-NC,Charlotte,Mecklenburg,DeMart,District-5,3319.38,423.22,balanceimport,taxareacode,100106,J100106,L100106,0.1275,2022,8
+US-OH,Cincinnati,Hamilton,PizzaHut,District-10,827.62,116.61,reclassin,reclass,100107,J100107,L100107,0.1409,2022,10
+US-MI,Troy,Oakland,Reliance,District-5,2562.27,211.39,balanceimport,taxareacode,100108,J100108,L100108,0.0825,2022,11
+US-NC,Raleigh,Wake,Reliance,District-37,3631.65,506.62,reclassin,reclass,100109,J100109,L100109,0.1395,2022,12
+US-CA,Glendale,Los Angeles,PizzaHut,District-6,2137.83,263.38,balanceimport,taxareacode,100110,J100110,L100110,0.1232,2023,4
+US-TX,Houston,Harris,PizzaHut,District-20,611.8,73.91,balanceimport,taxareacode,100111,J100111,L100111,0.1208,2024,1
+US-NY,Queens,Queens,Reliance,District-59,3229.95,331.07,balanceimport,taxareacode,100112,J100112,L100112,0.1025,2024,1
+US-MI,Livonia,Wayne,DeMart,District-43,272.06,14.83,reclassin,reclass,100113,J100113,L100113,0.0545,2023,9
+US-NC,High Point,Guilford,PizzaHut,District-43,4939.58,290.45,balanceimport,taxareacode,100114,J100114,L100114,0.0588,2023,12
+US-FL,West Palm Beach,Palm Beach,DeMart,District-52,7076.34,909.31,balanceimport,taxareacode,100115,J100115,L100115,0.1285,2024,10
+US-GA,Lawrenceville,Gwinnett,Reliance,District-8,1646.02,167.89,balanceimport,taxareacode,100116,J100116,L100116,0.102,2022,6
+US-PA,Norristown,Montgomery,DeMart,District-55,9788.45,585.35,balanceimport,taxareacode,100117,J100117,L100117,0.0598,2023,11
+US-TX,Irving,Dallas,Reliance,District-8,8659.63,1153.46,balanceimport,taxareacode,100118,J100118,L100118,0.1332,2024,1
+US-GA,Sandy Springs,Fulton,DeMart,District-33,6046.03,490.94,balanceimport,taxareacode,100119,J100119,L100119,0.0812,2022,5
+US-NC,Cary,Wake,DeMart,District-66,9994.2,1097.36,balanceimport,taxareacode,100120,J100120,L100120,0.1098,2024,6
+US-NC,Charlotte,Mecklenburg,Reliance,District-48,7549.03,962.5,balanceimport,taxareacode,100121,J100121,L100121,0.1275,2022,5
+US-NC,Greensboro,Guilford,DeMart,District-4,6709.17,954.04,balanceimport,taxareacode,100122,J100122,L100122,0.1422,2023,6
+US-TX,Houston,Harris,Reliance,District-83,8702.12,1051.22,balanceimport,taxareacode,100123,J100123,L100123,0.1208,2023,1
+US-PA,Norristown,Montgomery,Reliance,District-15,6339.07,379.08,balanceimport,taxareacode,100124,J100124,L100124,0.0598,2024,10
+US-IL,Waukegan,Lake,Reliance,District-33,2451.69,164.51,balanceimport,taxareacode,100125,J100125,L100125,0.0671,2024,1
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-72,6715.31,878.36,balanceimport,taxareacode,100126,J100126,L100126,0.1308,2023,10
+US-NC,High Point,Guilford,Reliance,District-72,5238.91,308.05,balanceimport,taxareacode,100127,J100127,L100127,0.0588,2022,6
+US-MI,Livonia,Wayne,Reliance,District-48,5843.71,318.48,balanceimport,taxareacode,100128,J100128,L100128,0.0545,2024,12
+US-OH,Dublin,Franklin,DeMart,District-43,280.5,14.98,balanceimport,taxareacode,100129,J100129,L100129,0.0534,2024,7
+US-OH,Norwood,Hamilton,Reliance,District-15,2510.47,190.54,balanceimport,taxareacode,100130,J100130,L100130,0.0759,2024,11
+US-FL,Hialeah,Miami-Dade,Reliance,District-19,1104.07,87.44,balanceimport,taxareacode,100131,J100131,L100131,0.0792,2022,4
+US-FL,Fort Lauderdale,Broward,PizzaHut,District-28,5437.7,470.9,balanceimport,taxareacode,100132,J100132,L100132,0.0866,2023,10
+US-TX,Dallas,Dallas,Reliance,District-4,8249.42,1212.66,balanceimport,taxareacode,100133,J100133,L100133,0.147,2024,11
+US-MI,Warren,Macomb,Reliance,District-71,3023.26,233.09,balanceimport,taxareacode,100134,J100134,L100134,0.0771,2023,1
+US-MI,Pontiac,Oakland,PizzaHut,District-1,3797.75,337.62,balanceimport,taxareacode,100135,J100135,L100135,0.0889,2024,10
+US-OH,Columbus,Franklin,DeMart,District-86,5976.03,594.61,balanceimport,taxareacode,100136,J100136,L100136,0.0995,2022,10
+US-MI,Troy,Oakland,Reliance,District-42,9010.23,743.34,balanceimport,taxareacode,100137,J100137,L100137,0.0825,2023,1
+US-IL,Wheaton,DuPage,PizzaHut,District-60,6747.1,747.58,balanceimport,taxareacode,100138,J100138,L100138,0.1108,2023,9
+US-NY,Queens,Queens,Reliance,District-69,1763.34,180.74,reclassin,reclass,100139,J100139,L100139,0.1025,2023,3
+US-CA,San Francisco,San Francisco,Reliance,District-22,334.02,18.64,balanceimport,taxareacode,100140,J100140,L100140,0.0558,2024,3
+US-MI,Detroit,Wayne,DeMart,District-57,5017.99,349.25,reclassin,reclass,100141,J100141,L100141,0.0696,2024,2
+US-OH,Cleveland,Cuyahoga,DeMart,District-42,4339.18,407.88,balanceimport,taxareacode,100142,J100142,L100142,0.094,2022,7
+US-CA,Daly City,San Francisco,PizzaHut,District-19,6071.87,829.42,balanceimport,taxareacode,100143,J100143,L100143,0.1366,2023,6
+US-OH,Parma,Cuyahoga,DeMart,District-97,5997.93,373.07,balanceimport,taxareacode,100144,J100144,L100144,0.0622,2022,9
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-13,5238.69,767.99,balanceimport,taxareacode,100145,J100145,L100145,0.1466,2022,2
+US-IL,Naperville,DuPage,DeMart,District-44,3310.9,180.78,balanceimport,taxareacode,100146,J100146,L100146,0.0546,2023,3
+US-PA,Monroeville,Allegheny,PizzaHut,District-2,3693.15,297.3,balanceimport,taxareacode,100147,J100147,L100147,0.0805,2023,3
+US-OH,Dublin,Franklin,DeMart,District-58,9580.49,511.6,balanceimport,taxareacode,100148,J100148,L100148,0.0534,2024,9
+US-MI,Troy,Oakland,DeMart,District-55,7586.02,625.85,balanceimport,taxareacode,100149,J100149,L100149,0.0825,2024,1
+US-OH,Cincinnati,Hamilton,DeMart,District-84,9277.31,1307.17,balanceimport,taxareacode,100150,J100150,L100150,0.1409,2022,12
+US-NC,Cary,Wake,Reliance,District-70,2644.77,290.4,balanceimport,taxareacode,100151,J100151,L100151,0.1098,2024,8
+US-CA,Long Beach,Los Angeles,DeMart,District-14,1264.73,183.51,balanceimport,taxareacode,100152,J100152,L100152,0.1451,2023,7
+US-TX,Pasadena,Harris,Reliance,District-91,2466.65,128.51,balanceimport,taxareacode,100153,J100153,L100153,0.0521,2024,1
+US-NY,Astoria,Queens,PizzaHut,District-68,8746.03,815.13,balanceimport,taxareacode,100154,J100154,L100154,0.0932,2024,6
+US-PA,Pottstown,Montgomery,PizzaHut,District-60,8529.11,1009.85,balanceimport,taxareacode,100155,J100155,L100155,0.1184,2024,10
+US-CA,Chula Vista,San Diego,DeMart,District-45,3868.17,253.75,balanceimport,taxareacode,100156,J100156,L100156,0.0656,2023,8
+US-PA,Pottstown,Montgomery,PizzaHut,District-14,901.1,106.69,balanceimport,taxareacode,100157,J100157,L100157,0.1184,2024,5
+US-TX,Fort Worth,Tarrant,DeMart,District-82,9577.5,681.92,reclassin,reclass,100158,J100158,L100158,0.0712,2023,2
+US-NC,Raleigh,Wake,Reliance,District-54,3205.9,447.22,balanceimport,taxareacode,100159,J100159,L100159,0.1395,2023,1
+US-PA,Monroeville,Allegheny,Reliance,District-3,9532.7,767.38,balanceimport,taxareacode,100160,J100160,L100160,0.0805,2022,6
+US-IL,Wheaton,DuPage,Reliance,District-68,1438.15,159.35,balanceimport,taxareacode,100161,J100161,L100161,0.1108,2022,4
+US-FL,Pembroke Pines,Broward,Reliance,District-63,6444.18,616.06,balanceimport,taxareacode,100162,J100162,L100162,0.0956,2023,11
+US-TX,Fort Worth,Tarrant,PizzaHut,District-5,7829.54,557.46,balanceimport,taxareacode,100163,J100163,L100163,0.0712,2022,10
+US-TX,Irving,Dallas,PizzaHut,District-31,6980.85,929.85,balanceimport,taxareacode,100164,J100164,L100164,0.1332,2024,9
+US-NY,Brooklyn,Kings,PizzaHut,District-73,7848.69,536.07,balanceimport,taxareacode,100165,J100165,L100165,0.0683,2024,3
+US-CA,San Francisco,San Francisco,Reliance,District-52,1820.15,101.56,balanceimport,taxareacode,100166,J100166,L100166,0.0558,2023,4
+US-OH,Columbus,Franklin,PizzaHut,District-63,4552.87,453.01,balanceimport,taxareacode,100167,J100167,L100167,0.0995,2024,3
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-86,9641.84,1261.15,reclassin,reclass,100168,J100168,L100168,0.1308,2023,7
+US-IL,Naperville,DuPage,DeMart,District-21,7626.87,416.43,balanceimport,taxareacode,100169,J100169,L100169,0.0546,2024,10
+US-IL,Chicago,Cook,Reliance,District-90,2487.89,252.27,balanceimport,taxareacode,100170,J100170,L100170,0.1014,2022,5
+US-TX,Pasadena,Harris,Reliance,District-36,3776.94,196.78,balanceimport,taxareacode,100171,J100171,L100171,0.0521,2024,1
+US-IL,Mundelein,Lake,Reliance,District-68,8660.14,489.3,balanceimport,taxareacode,100172,J100172,L100172,0.0565,2023,12
+US-GA,Marietta,Cobb,Reliance,District-52,8609.7,589.76,balanceimport,taxareacode,100173,J100173,L100173,0.0685,2022,10
+US-MI,Detroit,Wayne,Reliance,District-64,7890.34,549.17,balanceimport,taxareacode,100174,J100174,L100174,0.0696,2022,9
+US-CA,San Diego,San Diego,Reliance,District-10,9310.16,1023.19,balanceimport,taxareacode,100175,J100175,L100175,0.1099,2022,12
+US-OH,Dublin,Franklin,PizzaHut,District-72,2346.95,125.33,balanceimport,taxareacode,100176,J100176,L100176,0.0534,2024,1
+US-GA,Atlanta,Fulton,PizzaHut,District-32,9883.93,1149.5,balanceimport,taxareacode,100177,J100177,L100177,0.1163,2022,7
+US-GA,Atlanta,Fulton,Reliance,District-43,6624.45,770.42,reclassin,reclass,100178,J100178,L100178,0.1163,2024,3
+US-GA,Sandy Springs,Fulton,Reliance,District-21,3937.19,319.7,balanceimport,taxareacode,100179,J100179,L100179,0.0812,2024,4
+US-FL,West Palm Beach,Palm Beach,PizzaHut,District-28,3612.93,464.26,balanceimport,taxareacode,100180,J100180,L100180,0.1285,2022,10
+US-IL,Wheaton,DuPage,DeMart,District-8,2723.96,301.81,balanceimport,taxareacode,100181,J100181,L100181,0.1108,2024,6
+US-CA,San Francisco,San Francisco,Reliance,District-66,6706.77,374.24,balanceimport,taxareacode,100182,J100182,L100182,0.0558,2022,3
+US-FL,Fort Lauderdale,Broward,DeMart,District-41,9602.28,831.56,balanceimport,taxareacode,100183,J100183,L100183,0.0866,2023,7
+US-TX,Irving,Dallas,Reliance,District-12,4795.93,638.82,balanceimport,taxareacode,100184,J100184,L100184,0.1332,2023,2
+US-IL,Waukegan,Lake,DeMart,District-10,3448.85,231.42,balanceimport,taxareacode,100185,J100185,L100185,0.0671,2023,8
+US-OH,Parma,Cuyahoga,Reliance,District-59,5545.91,344.96,balanceimport,taxareacode,100186,J100186,L100186,0.0622,2022,10
+US-TX,Irving,Dallas,DeMart,District-85,6792.22,904.72,balanceimport,taxareacode,100187,J100187,L100187,0.1332,2023,3
+US-CA,Long Beach,Los Angeles,PizzaHut,District-32,3237.53,469.77,balanceimport,taxareacode,100188,J100188,L100188,0.1451,2022,7
+US-NC,Greensboro,Guilford,DeMart,District-13,2288.53,325.43,balanceimport,taxareacode,100189,J100189,L100189,0.1422,2023,8
+US-GA,Lawrenceville,Gwinnett,PizzaHut,District-96,1856.54,189.37,balanceimport,taxareacode,100190,J100190,L100190,0.102,2023,6
+US-NC,Raleigh,Wake,Reliance,District-82,1168.64,163.03,balanceimport,taxareacode,100191,J100191,L100191,0.1395,2024,5
+US-FL,West Palm Beach,Palm Beach,DeMart,District-79,5107.94,656.37,reclassin,reclass,100192,J100192,L100192,0.1285,2022,8
+US-PA,Norristown,Montgomery,Reliance,District-97,5132.77,306.94,balanceimport,taxareacode,100193,J100193,L100193,0.0598,2024,6
+US-OH,Cleveland,Cuyahoga,DeMart,District-25,7635.1,717.7,balanceimport,taxareacode,100194,J100194,L100194,0.094,2023,8
+US-MI,Detroit,Wayne,Reliance,District-65,2851.23,198.45,balanceimport,taxareacode,100195,J100195,L100195,0.0696,2023,3
+US-TX,Arlington,Tarrant,Reliance,District-21,7357.41,501.78,balanceimport,taxareacode,100196,J100196,L100196,0.0682,2024,7
+US-TX,Houston,Harris,Reliance,District-36,151.77,18.33,balanceimport,taxareacode,100197,J100197,L100197,0.1208,2023,10
+US-PA,Chestnut Hill,Philadelphia,DeMart,District-34,7610.9,1115.76,balanceimport,taxareacode,100198,J100198,L100198,0.1466,2024,4
+US-NY,Harlem,New York,PizzaHut,District-56,5070.3,563.82,balanceimport,taxareacode,100199,J100199,L100199,0.1112,2024,10
+US-FL,Fort Lauderdale,Broward,DeMart,District-26,3976.1,344.33,balanceimport,taxareacode,100200,J100200,L100200,0.0866,2023,5
+US-GA,Smyrna,Cobb,Reliance,District-38,1752.16,257.57,balanceimport,taxareacode,100201,J100201,L100201,0.147,2022,12
+US-FL,Miami,Miami-Dade,PizzaHut,District-4,5150.09,329.09,balanceimport,taxareacode,100202,J100202,L100202,0.0639,2022,3
+US-MI,Sterling Heights,Macomb,DeMart,District-34,6033.75,801.89,balanceimport,taxareacode,100203,J100203,L100203,0.1329,2024,3
+US-NY,Williamsburg,Kings,PizzaHut,District-83,679.65,54.64,balanceimport,taxareacode,100204,J100204,L100204,0.0804,2023,12
+US-MI,Troy,Oakland,Reliance,District-64,5250.94,433.2,reclassin,reclass,100205,J100205,L100205,0.0825,2023,4
+US-OH,Cleveland,Cuyahoga,PizzaHut,District-18,3777.08,355.05,balanceimport,taxareacode,100206,J100206,L100206,0.094,2024,1
+US-NC,Raleigh,Wake,Reliance,District-17,6411.78,894.44,balanceimport,taxareacode,100207,J100207,L100207,0.1395,2024,4
+US-PA,Pottstown,Montgomery,DeMart,District-75,7425.87,879.22,balanceimport,taxareacode,100208,J100208,L100208,0.1184,2022,10
+US-NC,Matthews,Mecklenburg,DeMart,District-3,359.35,51.71,balanceimport,taxareacode,100209,J100209,L100209,0.1439,2023,1
+US-PA,Philadelphia,Philadelphia,DeMart,District-51,9412.72,1363.9,reclassin,reclass,100210,J100210,L100210,0.1449,2024,10
+US-MI,Warren,Macomb,Reliance,District-64,1942.4,149.76,balanceimport,taxareacode,100211,J100211,L100211,0.0771,2022,1
+US-MI,Livonia,Wayne,DeMart,District-4,593.44,32.34,balanceimport,taxareacode,100212,J100212,L100212,0.0545,2023,7
+US-NY,Williamsburg,Kings,Reliance,District-70,667.07,53.63,balanceimport,taxareacode,100213,J100213,L100213,0.0804,2022,12
+US-FL,Hialeah,Miami-Dade,Reliance,District-24,664.84,52.66,balanceimport,taxareacode,100214,J100214,L100214,0.0792,2024,6
+US-NY,Harlem,New York,DeMart,District-10,2792.3,310.5,reclassin,reclass,100215,J100215,L100215,0.1112,2024,6
+US-MI,Livonia,Wayne,Reliance,District-44,1648.18,89.83,balanceimport,taxareacode,100216,J100216,L100216,0.0545,2024,4
+US-FL,Fort Lauderdale,Broward,DeMart,District-57,3524.61,305.23,balanceimport,taxareacode,100217,J100217,L100217,0.0866,2022,2
+US-OH,Columbus,Franklin,PizzaHut,District-82,7351.24,731.45,reclassin,reclass,100218,J100218,L100218,0.0995,2024,11
+US-OH,Parma,Cuyahoga,DeMart,District-14,7335.13,456.25,balanceimport,taxareacode,100219,J100219,L100219,0.0622,2022,10
+US-TX,Houston,Harris,PizzaHut,District-90,1992.79,240.73,balanceimport,taxareacode,100220,J100220,L100220,0.1208,2024,1
+US-NY,Williamsburg,Kings,Reliance,District-12,3560.11,286.23,balanceimport,taxareacode,100221,J100221,L100221,0.0804,2022,9
+US-TX,Pasadena,Harris,PizzaHut,District-71,6869.17,357.88,balanceimport,taxareacode,100222,J100222,L100222,0.0521,2022,1
+US-GA,Sandy Springs,Fulton,Reliance,District-28,7255.86,589.18,balanceimport,taxareacode,100223,J100223,L100223,0.0812,2024,9
+US-PA,Chestnut Hill,Philadelphia,Reliance,District-70,2338.86,342.88,balanceimport,taxareacode,100224,J100224,L100224,0.1466,2022,2
+US-MI,Livonia,Wayne,Reliance,District-22,8514.76,464.05,balanceimport,taxareacode,100225,J100225,L100225,0.0545,2023,2
+US-TX,Fort Worth,Tarrant,Reliance,District-86,2976.82,211.95,balanceimport,taxareacode,100226,J100226,L100226,0.0712,2023,8
+US-MI,Warren,Macomb,PizzaHut,District-49,2093.5,161.41,balanceimport,taxareacode,100227,J100227,L100227,0.0771,2022,7
+US-FL,Pembroke Pines,Broward,PizzaHut,District-86,277.66,26.54,balanceimport,taxareacode,100228,J100228,L100228,0.0956,2022,8
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-40,9851.4,1288.56,balanceimport,taxareacode,100229,J100229,L100229,0.1308,2022,10
+US-TX,Houston,Harris,DeMart,District-72,2896.07,349.85,balanceimport,taxareacode,100230,J100230,L100230,0.1208,2024,10
+US-PA,Norristown,Montgomery,PizzaHut,District-50,1024.74,61.28,balanceimport,taxareacode,100231,J100231,L100231,0.0598,2024,5
+US-GA,Duluth,Gwinnett,Reliance,District-85,3192.26,334.23,balanceimport,taxareacode,100232,J100232,L100232,0.1047,2024,9
+US-GA,Duluth,Gwinnett,DeMart,District-84,5622.42,588.67,balanceimport,taxareacode,100233,J100233,L100233,0.1047,2024,2
+US-NY,Brooklyn,Kings,PizzaHut,District-40,5119.81,349.68,balanceimport,taxareacode,100234,J100234,L100234,0.0683,2022,12
+US-OH,Cleveland,Cuyahoga,PizzaHut,District-4,8006.07,752.57,balanceimport,taxareacode,100235,J100235,L100235,0.094,2024,6
+US-NC,Greensboro,Guilford,DeMart,District-16,9885.32,1405.69,balanceimport,taxareacode,100236,J100236,L100236,0.1422,2022,7
+US-IL,Wheaton,DuPage,Reliance,District-4,9971.07,1104.79,balanceimport,taxareacode,100237,J100237,L100237,0.1108,2024,10
+US-OH,Cincinnati,Hamilton,Reliance,District-3,5321.26,749.77,balanceimport,taxareacode,100238,J100238,L100238,0.1409,2023,9
+US-MI,Troy,Oakland,DeMart,District-99,1955.38,161.32,balanceimport,taxareacode,100239,J100239,L100239,0.0825,2023,9
+US-TX,Irving,Dallas,PizzaHut,District-44,9881.85,1316.26,balanceimport,taxareacode,100240,J100240,L100240,0.1332,2024,2
+US-NC,Matthews,Mecklenburg,DeMart,District-3,8810.24,1267.79,balanceimport,taxareacode,100241,J100241,L100241,0.1439,2022,10
+US-GA,Lawrenceville,Gwinnett,DeMart,District-85,4259.18,434.44,balanceimport,taxareacode,100242,J100242,L100242,0.102,2022,2
+US-NY,Harlem,New York,DeMart,District-75,6546.36,727.96,reclassin,reclass,100243,J100243,L100243,0.1112,2022,6
+US-IL,Waukegan,Lake,DeMart,District-91,6378.01,427.96,balanceimport,taxareacode,100244,J100244,L100244,0.0671,2022,4
+US-TX,Irving,Dallas,PizzaHut,District-28,6848.53,912.22,balanceimport,taxareacode,100245,J100245,L100245,0.1332,2022,6
+US-FL,Miami,Miami-Dade,PizzaHut,District-63,3469.76,221.72,balanceimport,taxareacode,100246,J100246,L100246,0.0639,2022,10
+US-PA,Norristown,Montgomery,PizzaHut,District-99,7655.24,457.78,reclassin,reclass,100247,J100247,L100247,0.0598,2023,5
+US-FL,Fort Lauderdale,Broward,Reliance,District-9,7905.63,684.63,balanceimport,taxareacode,100248,J100248,L100248,0.0866,2024,2
+US-CA,Oceanside,San Diego,PizzaHut,District-23,1773.9,116.37,balanceimport,taxareacode,100249,J100249,L100249,0.0656,2023,2
+US-PA,Monroeville,Allegheny,Reliance,District-62,3865.97,311.21,balanceimport,taxareacode,100250,J100250,L100250,0.0805,2022,11
+US-NC,Cary,Wake,DeMart,District-87,1361.79,149.52,balanceimport,taxareacode,100251,J100251,L100251,0.1098,2024,9
+US-NY,Manhattan,New York,DeMart,District-73,8410.66,665.28,balanceimport,taxareacode,100252,J100252,L100252,0.0791,2023,7
+US-NC,Greensboro,Guilford,PizzaHut,District-19,8740.26,1242.86,balanceimport,taxareacode,100253,J100253,L100253,0.1422,2023,8
+US-IL,Cicero,Cook,Reliance,District-9,222.8,24.33,balanceimport,taxareacode,100254,J100254,L100254,0.1092,2022,8
+US-IL,Waukegan,Lake,Reliance,District-78,7457.61,500.41,balanceimport,taxareacode,100255,J100255,L100255,0.0671,2024,4
+US-FL,Fort Lauderdale,Broward,Reliance,District-86,8933.79,773.67,balanceimport,taxareacode,100256,J100256,L100256,0.0866,2022,7
+US-CA,Oceanside,San Diego,PizzaHut,District-64,7912.69,519.07,balanceimport,taxareacode,100257,J100257,L100257,0.0656,2024,5
+US-IL,Chicago,Cook,Reliance,District-44,1237.84,125.52,balanceimport,taxareacode,100258,J100258,L100258,0.1014,2022,9
+US-NC,High Point,Guilford,Reliance,District-88,9562.66,562.28,balanceimport,taxareacode,100259,J100259,L100259,0.0588,2022,8
+US-OH,Norwood,Hamilton,DeMart,District-46,7761.41,589.09,balanceimport,taxareacode,100260,J100260,L100260,0.0759,2024,9
+US-MI,Livonia,Wayne,DeMart,District-21,6349.94,346.07,balanceimport,taxareacode,100261,J100261,L100261,0.0545,2022,4
+US-NY,Harlem,New York,PizzaHut,District-28,2418.43,268.93,balanceimport,taxareacode,100262,J100262,L100262,0.1112,2022,12
+US-NY,Astoria,Queens,DeMart,District-34,4781.68,445.65,balanceimport,taxareacode,100263,J100263,L100263,0.0932,2022,9
+US-GA,Smyrna,Cobb,DeMart,District-86,2618.48,384.92,balanceimport,taxareacode,100264,J100264,L100264,0.147,2022,1
+US-PA,Monroeville,Allegheny,PizzaHut,District-83,2840.46,228.66,reclassin,reclass,100265,J100265,L100265,0.0805,2022,1
+US-CA,South San Francisco,San Francisco,DeMart,District-48,2878.76,316.95,balanceimport,taxareacode,100266,J100266,L100266,0.1101,2022,8
+US-PA,Philadelphia,Philadelphia,DeMart,District-62,8349.84,1209.89,balanceimport,taxareacode,100267,J100267,L100267,0.1449,2022,4
+US-MI,Warren,Macomb,Reliance,District-49,2263.25,174.5,balanceimport,taxareacode,100268,J100268,L100268,0.0771,2024,10
+US-PA,Pittsburgh,Allegheny,Reliance,District-88,962.22,125.86,balanceimport,taxareacode,100269,J100269,L100269,0.1308,2022,9
+US-GA,Atlanta,Fulton,PizzaHut,District-39,5790.32,673.41,balanceimport,taxareacode,100270,J100270,L100270,0.1163,2022,7
+US-NY,Manhattan,New York,Reliance,District-46,1735.52,137.28,balanceimport,taxareacode,100271,J100271,L100271,0.0791,2024,8
+US-GA,Atlanta,Fulton,Reliance,District-12,6778.62,788.35,balanceimport,taxareacode,100272,J100272,L100272,0.1163,2022,1
+US-MI,Warren,Macomb,DeMart,District-8,8642.52,666.34,reclassin,reclass,100273,J100273,L100273,0.0771,2023,7
+US-OH,Parma,Cuyahoga,PizzaHut,District-82,2641.27,164.29,balanceimport,taxareacode,100274,J100274,L100274,0.0622,2023,4
+US-CA,San Francisco,San Francisco,DeMart,District-19,6003.58,335.0,balanceimport,taxareacode,100275,J100275,L100275,0.0558,2022,8
+US-CA,Oceanside,San Diego,PizzaHut,District-41,9423.08,618.15,balanceimport,taxareacode,100276,J100276,L100276,0.0656,2023,9
+US-TX,Fort Worth,Tarrant,PizzaHut,District-10,5071.32,361.08,reclassin,reclass,100277,J100277,L100277,0.0712,2023,3
+US-NC,Matthews,Mecklenburg,PizzaHut,District-3,7267.33,1045.77,balanceimport,taxareacode,100278,J100278,L100278,0.1439,2022,11
+US-TX,Houston,Harris,DeMart,District-16,9913.51,1197.55,balanceimport,taxareacode,100279,J100279,L100279,0.1208,2022,2
+US-NC,Raleigh,Wake,PizzaHut,District-65,935.48,130.5,reclassin,reclass,100280,J100280,L100280,0.1395,2022,10
+US-IL,Naperville,DuPage,Reliance,District-95,4719.42,257.68,balanceimport,taxareacode,100281,J100281,L100281,0.0546,2022,8
+US-PA,Philadelphia,Philadelphia,DeMart,District-18,4098.59,593.89,balanceimport,taxareacode,100282,J100282,L100282,0.1449,2022,7
+US-IL,Wheaton,DuPage,DeMart,District-60,2340.16,259.29,balanceimport,taxareacode,100283,J100283,L100283,0.1108,2024,3
+US-NC,High Point,Guilford,PizzaHut,District-75,5863.77,344.79,balanceimport,taxareacode,100284,J100284,L100284,0.0588,2024,10
+US-NC,Cary,Wake,Reliance,District-39,5165.65,567.19,balanceimport,taxareacode,100285,J100285,L100285,0.1098,2022,12
+US-OH,Cleveland,Cuyahoga,Reliance,District-47,1629.15,153.14,balanceimport,taxareacode,100286,J100286,L100286,0.094,2023,10
+US-NY,Manhattan,New York,PizzaHut,District-91,4155.33,328.69,balanceimport,taxareacode,100287,J100287,L100287,0.0791,2022,1
+US-PA,Chestnut Hill,Philadelphia,DeMart,District-56,9881.56,1448.64,balanceimport,taxareacode,100288,J100288,L100288,0.1466,2024,1
+US-FL,Hialeah,Miami-Dade,Reliance,District-69,2362.02,187.07,reclassin,reclass,100289,J100289,L100289,0.0792,2024,8
+US-NY,Harlem,New York,Reliance,District-26,486.06,54.05,balanceimport,taxareacode,100290,J100290,L100290,0.1112,2024,6
+US-MI,Sterling Heights,Macomb,DeMart,District-59,1555.91,206.78,balanceimport,taxareacode,100291,J100291,L100291,0.1329,2023,5
+US-MI,Detroit,Wayne,DeMart,District-37,9563.6,665.63,balanceimport,taxareacode,100292,J100292,L100292,0.0696,2024,5
+US-OH,Dublin,Franklin,DeMart,District-73,9841.73,525.55,balanceimport,taxareacode,100293,J100293,L100293,0.0534,2024,11
+US-FL,Hialeah,Miami-Dade,Reliance,District-22,5459.94,432.43,reclassin,reclass,100294,J100294,L100294,0.0792,2022,5
+US-CA,Los Angeles,Los Angeles,DeMart,District-86,2544.38,222.63,reclassin,reclass,100295,J100295,L100295,0.0875,2024,7
+US-NY,Astoria,Queens,DeMart,District-51,1853.99,172.79,reclassin,reclass,100296,J100296,L100296,0.0932,2023,5
+US-IL,Mundelein,Lake,PizzaHut,District-1,5846.63,330.33,balanceimport,taxareacode,100297,J100297,L100297,0.0565,2022,8
+US-NY,Williamsburg,Kings,PizzaHut,District-11,2152.36,173.05,reclassin,reclass,100298,J100298,L100298,0.0804,2024,1
+US-TX,Irving,Dallas,Reliance,District-19,2092.99,278.79,balanceimport,taxareacode,100299,J100299,L100299,0.1332,2022,5
+US-CA,Glendale,Los Angeles,DeMart,District-64,5970.84,735.61,balanceimport,taxareacode,100300,J100300,L100300,0.1232,2024,2
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-21,7484.01,1097.16,balanceimport,taxareacode,100301,J100301,L100301,0.1466,2022,7
+US-CA,Long Beach,Los Angeles,DeMart,District-12,9699.12,1407.34,balanceimport,taxareacode,100302,J100302,L100302,0.1451,2024,3
+US-MI,Troy,Oakland,PizzaHut,District-75,2111.91,174.23,balanceimport,taxareacode,100303,J100303,L100303,0.0825,2024,8
+US-NC,Greensboro,Guilford,DeMart,District-51,8955.08,1273.41,balanceimport,taxareacode,100304,J100304,L100304,0.1422,2023,11
+US-NY,Manhattan,New York,PizzaHut,District-4,8085.23,639.54,balanceimport,taxareacode,100305,J100305,L100305,0.0791,2024,3
+US-NC,Charlotte,Mecklenburg,Reliance,District-97,8941.59,1140.05,reclassin,reclass,100306,J100306,L100306,0.1275,2024,3
+US-PA,Norristown,Montgomery,PizzaHut,District-13,9718.18,581.15,balanceimport,taxareacode,100307,J100307,L100307,0.0598,2023,7
+US-PA,Philadelphia,Philadelphia,DeMart,District-67,6956.07,1007.93,balanceimport,taxareacode,100308,J100308,L100308,0.1449,2023,10
+US-IL,Wheaton,DuPage,Reliance,District-35,2185.98,242.21,reclassin,reclass,100309,J100309,L100309,0.1108,2023,9
+US-NY,Harlem,New York,DeMart,District-26,8301.85,923.17,balanceimport,taxareacode,100310,J100310,L100310,0.1112,2023,7
+US-OH,Norwood,Hamilton,Reliance,District-25,6365.77,483.16,balanceimport,taxareacode,100311,J100311,L100311,0.0759,2022,5
+US-GA,Atlanta,Fulton,Reliance,District-1,8474.62,985.6,reclassin,reclass,100312,J100312,L100312,0.1163,2024,2
+US-GA,Smyrna,Cobb,Reliance,District-46,2875.31,422.67,balanceimport,taxareacode,100313,J100313,L100313,0.147,2023,4
+US-PA,Pottstown,Montgomery,PizzaHut,District-3,6357.69,752.75,balanceimport,taxareacode,100314,J100314,L100314,0.1184,2022,2
+US-NY,Harlem,New York,DeMart,District-66,860.93,95.74,balanceimport,taxareacode,100315,J100315,L100315,0.1112,2023,7
+US-MI,Pontiac,Oakland,DeMart,District-90,4088.45,363.46,balanceimport,taxareacode,100316,J100316,L100316,0.0889,2023,12
+US-OH,Norwood,Hamilton,PizzaHut,District-55,9070.5,688.45,balanceimport,taxareacode,100317,J100317,L100317,0.0759,2022,7
+US-OH,Cleveland,Cuyahoga,Reliance,District-30,9791.91,920.44,reclassin,reclass,100318,J100318,L100318,0.094,2024,5
+US-IL,Waukegan,Lake,Reliance,District-86,1959.64,131.49,balanceimport,taxareacode,100319,J100319,L100319,0.0671,2024,7
+US-MI,Pontiac,Oakland,DeMart,District-20,6857.91,609.67,balanceimport,taxareacode,100320,J100320,L100320,0.0889,2023,2
+US-FL,Hialeah,Miami-Dade,PizzaHut,District-30,5249.68,415.77,balanceimport,taxareacode,100321,J100321,L100321,0.0792,2024,11
+US-GA,Lawrenceville,Gwinnett,PizzaHut,District-78,8831.72,900.84,balanceimport,taxareacode,100322,J100322,L100322,0.102,2023,8
+US-NC,Charlotte,Mecklenburg,PizzaHut,District-95,1971.49,251.36,balanceimport,taxareacode,100323,J100323,L100323,0.1275,2023,10
+US-PA,Pittsburgh,Allegheny,Reliance,District-88,8409.45,1099.96,balanceimport,taxareacode,100324,J100324,L100324,0.1308,2023,9
+US-IL,Cicero,Cook,Reliance,District-11,8284.48,904.67,balanceimport,taxareacode,100325,J100325,L100325,0.1092,2024,11
+US-NC,High Point,Guilford,DeMart,District-68,7910.43,465.13,balanceimport,taxareacode,100326,J100326,L100326,0.0588,2022,3
+US-NY,Williamsburg,Kings,DeMart,District-56,9644.38,775.41,balanceimport,taxareacode,100327,J100327,L100327,0.0804,2022,5
+US-MI,Warren,Macomb,DeMart,District-33,9308.69,717.7,reclassin,reclass,100328,J100328,L100328,0.0771,2024,9
+US-MI,Warren,Macomb,PizzaHut,District-21,8767.56,675.98,balanceimport,taxareacode,100329,J100329,L100329,0.0771,2022,5
+US-GA,Smyrna,Cobb,Reliance,District-47,9445.42,1388.48,balanceimport,taxareacode,100330,J100330,L100330,0.147,2022,9
+US-FL,Boca Raton,Palm Beach,PizzaHut,District-37,577.04,40.39,balanceimport,taxareacode,100331,J100331,L100331,0.07,2023,5
+US-OH,Cleveland,Cuyahoga,PizzaHut,District-18,6380.8,599.8,balanceimport,taxareacode,100332,J100332,L100332,0.094,2022,3
+US-OH,Parma,Cuyahoga,Reliance,District-13,4216.4,262.26,balanceimport,taxareacode,100333,J100333,L100333,0.0622,2022,2
+US-NC,Cary,Wake,PizzaHut,District-56,6512.36,715.06,balanceimport,taxareacode,100334,J100334,L100334,0.1098,2022,4
+US-OH,Parma,Cuyahoga,Reliance,District-9,1452.35,90.34,balanceimport,taxareacode,100335,J100335,L100335,0.0622,2023,7
+US-NY,Astoria,Queens,Reliance,District-54,2072.23,193.13,balanceimport,taxareacode,100336,J100336,L100336,0.0932,2022,4
+US-NY,Brooklyn,Kings,Reliance,District-54,5207.03,355.64,balanceimport,taxareacode,100337,J100337,L100337,0.0683,2024,12
+US-IL,Naperville,DuPage,DeMart,District-37,9119.58,497.93,balanceimport,taxareacode,100338,J100338,L100338,0.0546,2023,2
+US-CA,Oceanside,San Diego,DeMart,District-25,7388.38,484.68,balanceimport,taxareacode,100339,J100339,L100339,0.0656,2022,6
+US-PA,Philadelphia,Philadelphia,PizzaHut,District-60,4036.71,584.92,balanceimport,taxareacode,100340,J100340,L100340,0.1449,2024,1
+US-CA,Chula Vista,San Diego,PizzaHut,District-53,856.21,56.17,balanceimport,taxareacode,100341,J100341,L100341,0.0656,2023,9
+US-IL,Wheaton,DuPage,PizzaHut,District-96,3003.76,332.82,balanceimport,taxareacode,100342,J100342,L100342,0.1108,2024,1
+US-MI,Sterling Heights,Macomb,Reliance,District-12,113.4,15.07,balanceimport,taxareacode,100343,J100343,L100343,0.1329,2022,11
+US-FL,Hialeah,Miami-Dade,PizzaHut,District-51,333.59,26.42,balanceimport,taxareacode,100344,J100344,L100344,0.0792,2022,11
+US-OH,Parma,Cuyahoga,Reliance,District-59,3098.87,192.75,balanceimport,taxareacode,100345,J100345,L100345,0.0622,2022,3
+US-NC,Matthews,Mecklenburg,DeMart,District-28,4786.67,688.8,reclassin,reclass,100346,J100346,L100346,0.1439,2024,12
+US-MI,Troy,Oakland,Reliance,District-5,5354.3,441.73,balanceimport,taxareacode,100347,J100347,L100347,0.0825,2023,4
+US-PA,Philadelphia,Philadelphia,Reliance,District-90,2038.75,295.41,balanceimport,taxareacode,100348,J100348,L100348,0.1449,2022,10
+US-MI,Detroit,Wayne,DeMart,District-45,2834.75,197.3,balanceimport,taxareacode,100349,J100349,L100349,0.0696,2024,5
+US-CA,Long Beach,Los Angeles,PizzaHut,District-88,7277.31,1055.94,balanceimport,taxareacode,100350,J100350,L100350,0.1451,2024,9
+US-NC,Cary,Wake,DeMart,District-5,5023.39,551.57,balanceimport,taxareacode,100351,J100351,L100351,0.1098,2024,9
+US-GA,Duluth,Gwinnett,Reliance,District-38,5343.63,559.48,balanceimport,taxareacode,100352,J100352,L100352,0.1047,2022,10
+US-IL,Wheaton,DuPage,DeMart,District-86,7632.46,845.68,balanceimport,taxareacode,100353,J100353,L100353,0.1108,2023,10
+US-NY,Queens,Queens,DeMart,District-8,2170.94,222.52,balanceimport,taxareacode,100354,J100354,L100354,0.1025,2022,11
+US-CA,Daly City,San Francisco,Reliance,District-11,3979.4,543.59,balanceimport,taxareacode,100355,J100355,L100355,0.1366,2023,12
+US-NC,High Point,Guilford,PizzaHut,District-62,5738.44,337.42,balanceimport,taxareacode,100356,J100356,L100356,0.0588,2022,11
+US-NC,Raleigh,Wake,PizzaHut,District-55,2218.17,309.43,balanceimport,taxareacode,100357,J100357,L100357,0.1395,2023,2
+US-PA,Norristown,Montgomery,Reliance,District-98,7013.28,419.39,balanceimport,taxareacode,100358,J100358,L100358,0.0598,2022,11
+US-TX,Irving,Dallas,PizzaHut,District-13,8556.8,1139.77,balanceimport,taxareacode,100359,J100359,L100359,0.1332,2024,4
+US-CA,San Francisco,San Francisco,PizzaHut,District-59,9605.66,536.0,balanceimport,taxareacode,100360,J100360,L100360,0.0558,2023,2
+US-PA,Chestnut Hill,Philadelphia,Reliance,District-36,3634.59,532.83,reclassin,reclass,100361,J100361,L100361,0.1466,2023,12
+US-IL,Naperville,DuPage,DeMart,District-72,8101.93,442.37,balanceimport,taxareacode,100362,J100362,L100362,0.0546,2022,6
+US-NC,Matthews,Mecklenburg,PizzaHut,District-13,104.38,15.02,balanceimport,taxareacode,100363,J100363,L100363,0.1439,2022,4
+US-PA,Pottstown,Montgomery,PizzaHut,District-1,544.62,64.48,balanceimport,taxareacode,100364,J100364,L100364,0.1184,2022,7
+US-NY,Brooklyn,Kings,DeMart,District-99,9514.19,649.82,balanceimport,taxareacode,100365,J100365,L100365,0.0683,2023,11
+US-CA,San Diego,San Diego,Reliance,District-84,5781.03,635.34,balanceimport,taxareacode,100366,J100366,L100366,0.1099,2022,2
+US-TX,Pasadena,Harris,DeMart,District-20,1107.86,57.72,reclassin,reclass,100367,J100367,L100367,0.0521,2024,10
+US-NC,Matthews,Mecklenburg,Reliance,District-65,1834.7,264.01,balanceimport,taxareacode,100368,J100368,L100368,0.1439,2022,2
+US-NC,Matthews,Mecklenburg,Reliance,District-11,5676.91,816.91,balanceimport,taxareacode,100369,J100369,L100369,0.1439,2024,5
+US-MI,Warren,Macomb,PizzaHut,District-60,4358.02,336.0,reclassin,reclass,100370,J100370,L100370,0.0771,2024,7
+US-MI,Livonia,Wayne,Reliance,District-4,8249.29,449.59,balanceimport,taxareacode,100371,J100371,L100371,0.0545,2024,4
+US-TX,Pasadena,Harris,Reliance,District-41,3027.38,157.73,balanceimport,taxareacode,100372,J100372,L100372,0.0521,2023,7
+US-NC,Greensboro,Guilford,DeMart,District-99,5118.51,727.85,balanceimport,taxareacode,100373,J100373,L100373,0.1422,2024,3
+US-GA,Marietta,Cobb,PizzaHut,District-36,6966.82,477.23,balanceimport,taxareacode,100374,J100374,L100374,0.0685,2023,8
+US-FL,West Palm Beach,Palm Beach,DeMart,District-49,5437.04,698.66,balanceimport,taxareacode,100375,J100375,L100375,0.1285,2024,8
+US-IL,Waukegan,Lake,DeMart,District-62,5367.01,360.13,balanceimport,taxareacode,100376,J100376,L100376,0.0671,2023,9
+US-PA,Chestnut Hill,Philadelphia,Reliance,District-40,2338.64,342.84,balanceimport,taxareacode,100377,J100377,L100377,0.1466,2022,6
+US-FL,Boca Raton,Palm Beach,PizzaHut,District-47,1992.08,139.45,balanceimport,taxareacode,100378,J100378,L100378,0.07,2023,12
+US-NY,Manhattan,New York,PizzaHut,District-69,7614.78,602.33,balanceimport,taxareacode,100379,J100379,L100379,0.0791,2023,10
+US-IL,Chicago,Cook,PizzaHut,District-78,1341.03,135.98,reclassin,reclass,100380,J100380,L100380,0.1014,2024,11
+US-PA,Norristown,Montgomery,DeMart,District-54,5947.31,355.65,balanceimport,taxareacode,100381,J100381,L100381,0.0598,2024,1
+US-OH,Norwood,Hamilton,DeMart,District-32,1756.48,133.32,balanceimport,taxareacode,100382,J100382,L100382,0.0759,2022,9
+US-MI,Troy,Oakland,Reliance,District-68,9497.17,783.52,balanceimport,taxareacode,100383,J100383,L100383,0.0825,2024,9
+US-IL,Chicago,Cook,DeMart,District-65,7114.05,721.36,balanceimport,taxareacode,100384,J100384,L100384,0.1014,2022,3
+US-NC,High Point,Guilford,DeMart,District-15,7171.83,421.7,balanceimport,taxareacode,100385,J100385,L100385,0.0588,2023,11
+US-CA,Daly City,San Francisco,PizzaHut,District-39,8519.67,1163.79,balanceimport,taxareacode,100386,J100386,L100386,0.1366,2022,9
+US-TX,Fort Worth,Tarrant,Reliance,District-73,3518.89,250.54,balanceimport,taxareacode,100387,J100387,L100387,0.0712,2022,6
+US-NY,Brooklyn,Kings,PizzaHut,District-76,6743.45,460.58,balanceimport,taxareacode,100388,J100388,L100388,0.0683,2022,7
+US-CA,South San Francisco,San Francisco,DeMart,District-32,3933.65,433.09,balanceimport,taxareacode,100389,J100389,L100389,0.1101,2023,4
+US-CA,South San Francisco,San Francisco,PizzaHut,District-78,7066.63,778.04,balanceimport,taxareacode,100390,J100390,L100390,0.1101,2022,2
+US-OH,Cincinnati,Hamilton,Reliance,District-6,5509.66,776.31,balanceimport,taxareacode,100391,J100391,L100391,0.1409,2024,1
+US-IL,Chicago,Cook,Reliance,District-80,8640.14,876.11,balanceimport,taxareacode,100392,J100392,L100392,0.1014,2024,3
+US-MI,Livonia,Wayne,PizzaHut,District-44,2971.45,161.94,balanceimport,taxareacode,100393,J100393,L100393,0.0545,2023,8
+US-NY,Williamsburg,Kings,Reliance,District-7,3197.35,257.07,balanceimport,taxareacode,100394,J100394,L100394,0.0804,2024,7
+US-TX,Fort Worth,Tarrant,PizzaHut,District-82,2550.35,181.58,balanceimport,taxareacode,100395,J100395,L100395,0.0712,2022,8
+US-CA,Oceanside,San Diego,Reliance,District-5,3594.29,235.79,balanceimport,taxareacode,100396,J100396,L100396,0.0656,2023,1
+US-CA,Long Beach,Los Angeles,Reliance,District-69,776.7,112.7,balanceimport,taxareacode,100397,J100397,L100397,0.1451,2022,11
+US-TX,Pasadena,Harris,PizzaHut,District-69,813.9,42.4,balanceimport,taxareacode,100398,J100398,L100398,0.0521,2022,7
+US-FL,Fort Lauderdale,Broward,PizzaHut,District-87,2070.02,179.26,balanceimport,taxareacode,100399,J100399,L100399,0.0866,2023,3
+US-GA,Atlanta,Fulton,DeMart,District-74,9155.84,1064.82,balanceimport,taxareacode,100400,J100400,L100400,0.1163,2023,8
+US-MI,Livonia,Wayne,DeMart,District-58,1221.7,66.58,balanceimport,taxareacode,100401,J100401,L100401,0.0545,2022,9
+US-TX,Dallas,Dallas,Reliance,District-91,5245.07,771.03,balanceimport,taxareacode,100402,J100402,L100402,0.147,2024,7
+US-NY,Queens,Queens,DeMart,District-35,2758.48,282.74,balanceimport,taxareacode,100403,J100403,L100403,0.1025,2023,12
+US-PA,Pittsburgh,Allegheny,DeMart,District-55,862.1,112.76,balanceimport,taxareacode,100404,J100404,L100404,0.1308,2024,6
+US-NC,Cary,Wake,PizzaHut,District-99,6520.2,715.92,balanceimport,taxareacode,100405,J100405,L100405,0.1098,2023,5
+US-PA,Norristown,Montgomery,DeMart,District-27,6792.66,406.2,balanceimport,taxareacode,100406,J100406,L100406,0.0598,2023,1
+US-NC,High Point,Guilford,PizzaHut,District-2,8674.35,510.05,balanceimport,taxareacode,100407,J100407,L100407,0.0588,2024,1
+US-MI,Detroit,Wayne,DeMart,District-79,2209.54,153.78,balanceimport,taxareacode,100408,J100408,L100408,0.0696,2022,3
+US-GA,Duluth,Gwinnett,DeMart,District-25,599.84,62.8,balanceimport,taxareacode,100409,J100409,L100409,0.1047,2022,1
+US-FL,West Palm Beach,Palm Beach,Reliance,District-36,9402.55,1208.23,balanceimport,taxareacode,100410,J100410,L100410,0.1285,2022,10
+US-MI,Troy,Oakland,DeMart,District-74,182.37,15.05,balanceimport,taxareacode,100411,J100411,L100411,0.0825,2023,6
+US-NY,Manhattan,New York,Reliance,District-25,4396.81,347.79,balanceimport,taxareacode,100412,J100412,L100412,0.0791,2022,4
+US-NC,Greensboro,Guilford,DeMart,District-92,6171.59,877.6,reclassin,reclass,100413,J100413,L100413,0.1422,2022,9
+US-MI,Pontiac,Oakland,Reliance,District-39,2072.78,184.27,balanceimport,taxareacode,100414,J100414,L100414,0.0889,2024,7
+US-FL,West Palm Beach,Palm Beach,PizzaHut,District-69,863.74,110.99,balanceimport,taxareacode,100415,J100415,L100415,0.1285,2024,2
+US-TX,Arlington,Tarrant,DeMart,District-33,6761.43,461.13,balanceimport,taxareacode,100416,J100416,L100416,0.0682,2023,2
+US-OH,Dublin,Franklin,DeMart,District-19,4985.66,266.23,balanceimport,taxareacode,100417,J100417,L100417,0.0534,2023,8
+US-NY,Queens,Queens,DeMart,District-91,5262.35,539.39,balanceimport,taxareacode,100418,J100418,L100418,0.1025,2023,3
+US-MI,Detroit,Wayne,Reliance,District-6,8017.22,558.0,balanceimport,taxareacode,100419,J100419,L100419,0.0696,2022,7
+US-CA,San Diego,San Diego,Reliance,District-82,7895.13,867.67,reclassin,reclass,100420,J100420,L100420,0.1099,2023,5
+US-MI,Sterling Heights,Macomb,PizzaHut,District-40,4481.2,595.55,balanceimport,taxareacode,100421,J100421,L100421,0.1329,2024,12
+US-IL,Mundelein,Lake,DeMart,District-63,2994.59,169.19,balanceimport,taxareacode,100422,J100422,L100422,0.0565,2023,11
+US-NC,Matthews,Mecklenburg,DeMart,District-7,656.14,94.42,balanceimport,taxareacode,100423,J100423,L100423,0.1439,2024,6
+US-CA,Daly City,San Francisco,PizzaHut,District-38,6586.22,899.68,balanceimport,taxareacode,100424,J100424,L100424,0.1366,2023,1
+US-PA,Philadelphia,Philadelphia,Reliance,District-74,9431.06,1366.56,balanceimport,taxareacode,100425,J100425,L100425,0.1449,2024,2
+US-NY,Williamsburg,Kings,PizzaHut,District-83,1193.28,95.94,balanceimport,taxareacode,100426,J100426,L100426,0.0804,2022,5
+US-FL,West Palm Beach,Palm Beach,DeMart,District-25,3633.17,466.86,balanceimport,taxareacode,100427,J100427,L100427,0.1285,2022,10
+US-OH,Dublin,Franklin,PizzaHut,District-5,3334.75,178.08,reclassin,reclass,100428,J100428,L100428,0.0534,2022,10
+US-MI,Pontiac,Oakland,PizzaHut,District-97,3254.23,289.3,balanceimport,taxareacode,100429,J100429,L100429,0.0889,2023,9
+US-NY,Brooklyn,Kings,PizzaHut,District-22,5263.83,359.52,reclassin,reclass,100430,J100430,L100430,0.0683,2023,5
+US-OH,Parma,Cuyahoga,PizzaHut,District-67,4203.71,261.47,balanceimport,taxareacode,100431,J100431,L100431,0.0622,2022,6
+US-IL,Mundelein,Lake,Reliance,District-46,3909.56,220.89,balanceimport,taxareacode,100432,J100432,L100432,0.0565,2022,7
+US-CA,Daly City,San Francisco,Reliance,District-6,7915.38,1081.24,balanceimport,taxareacode,100433,J100433,L100433,0.1366,2023,6
+US-CA,Chula Vista,San Diego,Reliance,District-32,8919.47,585.12,balanceimport,taxareacode,100434,J100434,L100434,0.0656,2023,10
+US-NY,Astoria,Queens,Reliance,District-28,3178.92,296.28,reclassin,reclass,100435,J100435,L100435,0.0932,2024,7
+US-PA,Pottstown,Montgomery,PizzaHut,District-15,7518.97,890.25,reclassin,reclass,100436,J100436,L100436,0.1184,2024,8
+US-NC,High Point,Guilford,Reliance,District-97,5454.96,320.75,balanceimport,taxareacode,100437,J100437,L100437,0.0588,2024,10
+US-MI,Livonia,Wayne,Reliance,District-98,4178.39,227.72,balanceimport,taxareacode,100438,J100438,L100438,0.0545,2022,6
+US-TX,Houston,Harris,PizzaHut,District-48,6095.82,736.38,balanceimport,taxareacode,100439,J100439,L100439,0.1208,2023,7
+US-CA,San Francisco,San Francisco,Reliance,District-26,8967.18,500.37,balanceimport,taxareacode,100440,J100440,L100440,0.0558,2023,7
+US-CA,San Francisco,San Francisco,Reliance,District-62,7948.31,443.52,balanceimport,taxareacode,100441,J100441,L100441,0.0558,2024,9
+US-NY,Manhattan,New York,Reliance,District-32,7174.95,567.54,balanceimport,taxareacode,100442,J100442,L100442,0.0791,2023,9
+US-NC,Charlotte,Mecklenburg,Reliance,District-86,8448.93,1077.24,balanceimport,taxareacode,100443,J100443,L100443,0.1275,2024,3
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-29,1916.08,280.9,balanceimport,taxareacode,100444,J100444,L100444,0.1466,2022,2
+US-NY,Harlem,New York,Reliance,District-30,6512.96,724.24,balanceimport,taxareacode,100445,J100445,L100445,0.1112,2024,2
+US-TX,Irving,Dallas,DeMart,District-57,7456.51,993.21,balanceimport,taxareacode,100446,J100446,L100446,0.1332,2022,12
+US-CA,Long Beach,Los Angeles,DeMart,District-77,8057.76,1169.18,balanceimport,taxareacode,100447,J100447,L100447,0.1451,2022,4
+US-MI,Detroit,Wayne,PizzaHut,District-3,3570.15,248.48,balanceimport,taxareacode,100448,J100448,L100448,0.0696,2024,8
+US-OH,Dublin,Franklin,PizzaHut,District-75,6601.62,352.53,balanceimport,taxareacode,100449,J100449,L100449,0.0534,2024,11
+US-TX,Dallas,Dallas,Reliance,District-92,6356.69,934.43,balanceimport,taxareacode,100450,J100450,L100450,0.147,2022,2
+US-GA,Smyrna,Cobb,Reliance,District-8,4318.1,634.76,balanceimport,taxareacode,100451,J100451,L100451,0.147,2022,10
+US-OH,Columbus,Franklin,Reliance,District-83,6242.69,621.15,balanceimport,taxareacode,100452,J100452,L100452,0.0995,2024,11
+US-NC,Greensboro,Guilford,DeMart,District-58,9091.46,1292.81,balanceimport,taxareacode,100453,J100453,L100453,0.1422,2024,7
+US-NY,Williamsburg,Kings,DeMart,District-86,7606.85,611.59,balanceimport,taxareacode,100454,J100454,L100454,0.0804,2023,12
+US-PA,Pottstown,Montgomery,Reliance,District-59,8628.99,1021.67,balanceimport,taxareacode,100455,J100455,L100455,0.1184,2023,12
+US-CA,Chula Vista,San Diego,DeMart,District-12,4494.21,294.82,balanceimport,taxareacode,100456,J100456,L100456,0.0656,2023,7
+US-CA,San Diego,San Diego,DeMart,District-67,9396.78,1032.71,balanceimport,taxareacode,100457,J100457,L100457,0.1099,2023,1
+US-IL,Naperville,DuPage,DeMart,District-27,5993.5,327.25,reclassin,reclass,100458,J100458,L100458,0.0546,2023,6
+US-OH,Cleveland,Cuyahoga,PizzaHut,District-4,4669.08,438.89,balanceimport,taxareacode,100459,J100459,L100459,0.094,2023,7
+US-GA,Duluth,Gwinnett,Reliance,District-76,1591.02,166.58,balanceimport,taxareacode,100460,J100460,L100460,0.1047,2022,8
+US-IL,Mundelein,Lake,DeMart,District-21,8895.79,502.61,balanceimport,taxareacode,100461,J100461,L100461,0.0565,2023,5
+US-TX,Irving,Dallas,Reliance,District-59,5190.59,691.39,balanceimport,taxareacode,100462,J100462,L100462,0.1332,2022,7
+US-PA,Monroeville,Allegheny,DeMart,District-75,8145.86,655.74,balanceimport,taxareacode,100463,J100463,L100463,0.0805,2024,6
+US-FL,West Palm Beach,Palm Beach,Reliance,District-91,8085.98,1039.05,balanceimport,taxareacode,100464,J100464,L100464,0.1285,2024,10
+US-NY,Harlem,New York,PizzaHut,District-13,1387.8,154.32,balanceimport,taxareacode,100465,J100465,L100465,0.1112,2024,4
+US-IL,Waukegan,Lake,DeMart,District-30,3196.5,214.49,balanceimport,taxareacode,100466,J100466,L100466,0.0671,2024,5
+US-PA,Monroeville,Allegheny,PizzaHut,District-24,6275.06,505.14,balanceimport,taxareacode,100467,J100467,L100467,0.0805,2024,4
+US-MI,Sterling Heights,Macomb,PizzaHut,District-69,8657.89,1150.63,balanceimport,taxareacode,100468,J100468,L100468,0.1329,2024,10
+US-NC,Charlotte,Mecklenburg,Reliance,District-19,4478.71,571.04,balanceimport,taxareacode,100469,J100469,L100469,0.1275,2022,10
+US-NC,High Point,Guilford,PizzaHut,District-11,9298.48,546.75,balanceimport,taxareacode,100470,J100470,L100470,0.0588,2022,7
+US-IL,Mundelein,Lake,Reliance,District-50,6530.14,368.95,balanceimport,taxareacode,100471,J100471,L100471,0.0565,2023,1
+US-FL,Pembroke Pines,Broward,Reliance,District-75,9497.09,907.92,balanceimport,taxareacode,100472,J100472,L100472,0.0956,2024,2
+US-OH,Dublin,Franklin,DeMart,District-87,9257.97,494.38,balanceimport,taxareacode,100473,J100473,L100473,0.0534,2022,12
+US-OH,Cleveland,Cuyahoga,PizzaHut,District-89,6521.53,613.02,balanceimport,taxareacode,100474,J100474,L100474,0.094,2023,10
+US-NY,Williamsburg,Kings,PizzaHut,District-65,1875.62,150.8,balanceimport,taxareacode,100475,J100475,L100475,0.0804,2023,12
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-93,9492.57,1241.63,balanceimport,taxareacode,100476,J100476,L100476,0.1308,2023,2
+US-CA,South San Francisco,San Francisco,PizzaHut,District-79,8397.73,924.59,balanceimport,taxareacode,100477,J100477,L100477,0.1101,2023,6
+US-PA,Pottstown,Montgomery,DeMart,District-13,1621.54,191.99,balanceimport,taxareacode,100478,J100478,L100478,0.1184,2022,5
+US-PA,Monroeville,Allegheny,DeMart,District-75,5969.12,480.51,balanceimport,taxareacode,100479,J100479,L100479,0.0805,2024,8
+US-PA,Chestnut Hill,Philadelphia,DeMart,District-81,6107.78,895.4,balanceimport,taxareacode,100480,J100480,L100480,0.1466,2024,4
+US-OH,Cleveland,Cuyahoga,PizzaHut,District-56,2046.87,192.41,balanceimport,taxareacode,100481,J100481,L100481,0.094,2024,5
+US-GA,Marietta,Cobb,Reliance,District-51,397.26,27.21,reclassin,reclass,100482,J100482,L100482,0.0685,2022,10
+US-OH,Cleveland,Cuyahoga,PizzaHut,District-94,1366.58,128.46,balanceimport,taxareacode,100483,J100483,L100483,0.094,2024,12
+US-IL,Waukegan,Lake,Reliance,District-64,8929.74,599.19,balanceimport,taxareacode,100484,J100484,L100484,0.0671,2023,3
+US-TX,Irving,Dallas,PizzaHut,District-58,2370.72,315.78,balanceimport,taxareacode,100485,J100485,L100485,0.1332,2023,4
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-84,9733.46,1273.14,balanceimport,taxareacode,100486,J100486,L100486,0.1308,2024,9
+US-GA,Smyrna,Cobb,DeMart,District-8,2275.1,334.44,balanceimport,taxareacode,100487,J100487,L100487,0.147,2023,8
+US-OH,Cleveland,Cuyahoga,Reliance,District-96,9756.2,917.08,balanceimport,taxareacode,100488,J100488,L100488,0.094,2023,10
+US-FL,Boca Raton,Palm Beach,DeMart,District-38,8660.12,606.21,balanceimport,taxareacode,100489,J100489,L100489,0.07,2024,8
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-11,5677.74,742.65,reclassin,reclass,100490,J100490,L100490,0.1308,2023,5
+US-MI,Pontiac,Oakland,PizzaHut,District-60,4929.56,438.24,balanceimport,taxareacode,100491,J100491,L100491,0.0889,2022,1
+US-OH,Norwood,Hamilton,PizzaHut,District-57,7180.35,544.99,balanceimport,taxareacode,100492,J100492,L100492,0.0759,2023,5
+US-NC,Raleigh,Wake,Reliance,District-48,5517.65,769.71,balanceimport,taxareacode,100493,J100493,L100493,0.1395,2022,12
+US-MI,Warren,Macomb,PizzaHut,District-39,5669.3,437.1,balanceimport,taxareacode,100494,J100494,L100494,0.0771,2023,9
+US-IL,Wheaton,DuPage,Reliance,District-73,4976.43,551.39,balanceimport,taxareacode,100495,J100495,L100495,0.1108,2023,12
+US-NY,Manhattan,New York,Reliance,District-48,4127.37,326.47,balanceimport,taxareacode,100496,J100496,L100496,0.0791,2024,7
+US-FL,Boca Raton,Palm Beach,Reliance,District-62,9042.65,632.99,reclassin,reclass,100497,J100497,L100497,0.07,2022,1
+US-IL,Naperville,DuPage,PizzaHut,District-60,4947.28,270.12,balanceimport,taxareacode,100498,J100498,L100498,0.0546,2024,6
+US-GA,Sandy Springs,Fulton,Reliance,District-59,1498.11,121.65,reclassin,reclass,100499,J100499,L100499,0.0812,2022,6
+US-NY,Harlem,New York,Reliance,District-98,9041.59,1005.42,balanceimport,taxareacode,100500,J100500,L100500,0.1112,2024,6
+US-GA,Duluth,Gwinnett,Reliance,District-78,2602.7,272.5,balanceimport,taxareacode,100501,J100501,L100501,0.1047,2024,10
+US-CA,San Francisco,San Francisco,PizzaHut,District-69,1833.72,102.32,balanceimport,taxareacode,100502,J100502,L100502,0.0558,2024,9
+US-NC,Greensboro,Guilford,DeMart,District-84,2571.72,365.7,balanceimport,taxareacode,100503,J100503,L100503,0.1422,2022,6
+US-MI,Pontiac,Oakland,Reliance,District-77,2397.35,213.12,balanceimport,taxareacode,100504,J100504,L100504,0.0889,2022,4
+US-CA,San Francisco,San Francisco,Reliance,District-24,4912.69,274.13,balanceimport,taxareacode,100505,J100505,L100505,0.0558,2024,2
+US-OH,Dublin,Franklin,PizzaHut,District-59,5940.48,317.22,reclassin,reclass,100506,J100506,L100506,0.0534,2022,5
+US-NC,Matthews,Mecklenburg,PizzaHut,District-82,5177.93,745.1,balanceimport,taxareacode,100507,J100507,L100507,0.1439,2022,7
+US-TX,Pasadena,Harris,DeMart,District-82,1790.01,93.26,balanceimport,taxareacode,100508,J100508,L100508,0.0521,2023,5
+US-IL,Mundelein,Lake,Reliance,District-83,6189.78,349.72,balanceimport,taxareacode,100509,J100509,L100509,0.0565,2023,9
+US-IL,Waukegan,Lake,DeMart,District-57,4437.97,297.79,balanceimport,taxareacode,100510,J100510,L100510,0.0671,2024,6
+US-CA,Daly City,San Francisco,PizzaHut,District-80,2451.04,334.81,balanceimport,taxareacode,100511,J100511,L100511,0.1366,2022,12
+US-NC,Matthews,Mecklenburg,PizzaHut,District-12,3859.54,555.39,balanceimport,taxareacode,100512,J100512,L100512,0.1439,2023,8
+US-NY,Manhattan,New York,PizzaHut,District-95,7750.44,613.06,balanceimport,taxareacode,100513,J100513,L100513,0.0791,2022,10
+US-IL,Cicero,Cook,PizzaHut,District-6,3722.27,406.47,balanceimport,taxareacode,100514,J100514,L100514,0.1092,2022,6
+US-NY,Queens,Queens,Reliance,District-99,4243.96,435.01,balanceimport,taxareacode,100515,J100515,L100515,0.1025,2022,8
+US-IL,Waukegan,Lake,DeMart,District-83,6407.24,429.93,balanceimport,taxareacode,100516,J100516,L100516,0.0671,2022,11
+US-PA,Pottstown,Montgomery,DeMart,District-66,6234.2,738.13,balanceimport,taxareacode,100517,J100517,L100517,0.1184,2024,5
+US-FL,Fort Lauderdale,Broward,DeMart,District-43,3463.73,299.96,balanceimport,taxareacode,100518,J100518,L100518,0.0866,2023,4
+US-CA,Long Beach,Los Angeles,PizzaHut,District-83,3187.61,462.52,reclassin,reclass,100519,J100519,L100519,0.1451,2023,3
+US-GA,Smyrna,Cobb,Reliance,District-82,9917.79,1457.92,balanceimport,taxareacode,100520,J100520,L100520,0.147,2024,1
+US-GA,Duluth,Gwinnett,DeMart,District-27,1014.37,106.2,balanceimport,taxareacode,100521,J100521,L100521,0.1047,2024,8
+US-GA,Marietta,Cobb,DeMart,District-25,9141.0,626.16,balanceimport,taxareacode,100522,J100522,L100522,0.0685,2023,3
+US-GA,Duluth,Gwinnett,DeMart,District-73,7536.65,789.09,balanceimport,taxareacode,100523,J100523,L100523,0.1047,2023,8
+US-NY,Manhattan,New York,Reliance,District-58,9421.18,745.22,balanceimport,taxareacode,100524,J100524,L100524,0.0791,2024,1
+US-NY,Williamsburg,Kings,Reliance,District-26,7199.49,578.84,balanceimport,taxareacode,100525,J100525,L100525,0.0804,2024,7
+US-TX,Arlington,Tarrant,PizzaHut,District-55,1159.87,79.1,balanceimport,taxareacode,100526,J100526,L100526,0.0682,2022,6
+US-TX,Irving,Dallas,PizzaHut,District-21,4356.58,580.3,balanceimport,taxareacode,100527,J100527,L100527,0.1332,2023,1
+US-IL,Naperville,DuPage,Reliance,District-38,6853.32,374.19,balanceimport,taxareacode,100528,J100528,L100528,0.0546,2023,10
+US-FL,West Palm Beach,Palm Beach,DeMart,District-21,5877.69,755.28,balanceimport,taxareacode,100529,J100529,L100529,0.1285,2022,10
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-47,250.25,36.69,balanceimport,taxareacode,100530,J100530,L100530,0.1466,2023,11
+US-IL,Mundelein,Lake,DeMart,District-23,7026.93,397.02,balanceimport,taxareacode,100531,J100531,L100531,0.0565,2023,8
+US-MI,Livonia,Wayne,Reliance,District-75,8029.71,437.62,balanceimport,taxareacode,100532,J100532,L100532,0.0545,2023,5
+US-IL,Mundelein,Lake,Reliance,District-59,9807.63,554.13,balanceimport,taxareacode,100533,J100533,L100533,0.0565,2022,5
+US-TX,Pasadena,Harris,PizzaHut,District-11,5369.69,279.76,balanceimport,taxareacode,100534,J100534,L100534,0.0521,2024,12
+US-MI,Livonia,Wayne,PizzaHut,District-63,5656.43,308.28,balanceimport,taxareacode,100535,J100535,L100535,0.0545,2023,6
+US-NC,High Point,Guilford,PizzaHut,District-85,2476.7,145.63,balanceimport,taxareacode,100536,J100536,L100536,0.0588,2024,2
+US-FL,Miami,Miami-Dade,Reliance,District-22,2342.56,149.69,balanceimport,taxareacode,100537,J100537,L100537,0.0639,2022,1
+US-NC,High Point,Guilford,DeMart,District-42,8253.17,485.29,balanceimport,taxareacode,100538,J100538,L100538,0.0588,2023,1
+US-PA,Pottstown,Montgomery,Reliance,District-8,1667.21,197.4,balanceimport,taxareacode,100539,J100539,L100539,0.1184,2022,1
+US-PA,Pittsburgh,Allegheny,Reliance,District-38,4720.26,617.41,balanceimport,taxareacode,100540,J100540,L100540,0.1308,2024,6
+US-GA,Sandy Springs,Fulton,PizzaHut,District-27,7836.91,636.36,reclassin,reclass,100541,J100541,L100541,0.0812,2024,5
+US-PA,Chestnut Hill,Philadelphia,DeMart,District-49,4265.54,625.33,balanceimport,taxareacode,100542,J100542,L100542,0.1466,2023,2
+US-IL,Wheaton,DuPage,DeMart,District-59,6598.46,731.11,balanceimport,taxareacode,100543,J100543,L100543,0.1108,2022,2
+US-NC,Raleigh,Wake,DeMart,District-7,4234.9,590.77,balanceimport,taxareacode,100544,J100544,L100544,0.1395,2024,7
+US-NY,Manhattan,New York,PizzaHut,District-35,860.35,68.05,balanceimport,taxareacode,100545,J100545,L100545,0.0791,2024,3
+US-MI,Detroit,Wayne,Reliance,District-71,2627.83,182.9,balanceimport,taxareacode,100546,J100546,L100546,0.0696,2024,1
+US-FL,Hialeah,Miami-Dade,DeMart,District-14,2853.19,225.97,balanceimport,taxareacode,100547,J100547,L100547,0.0792,2024,4
+US-FL,Hialeah,Miami-Dade,DeMart,District-96,8805.37,697.39,balanceimport,taxareacode,100548,J100548,L100548,0.0792,2023,3
+US-GA,Marietta,Cobb,PizzaHut,District-73,3199.2,219.15,balanceimport,taxareacode,100549,J100549,L100549,0.0685,2024,2
+US-GA,Smyrna,Cobb,PizzaHut,District-57,2928.43,430.48,balanceimport,taxareacode,100550,J100550,L100550,0.147,2023,10
+US-TX,Dallas,Dallas,Reliance,District-93,4042.46,594.24,reclassin,reclass,100551,J100551,L100551,0.147,2024,2
+US-OH,Parma,Cuyahoga,DeMart,District-56,8462.19,526.35,reclassin,reclass,100552,J100552,L100552,0.0622,2022,12
+US-OH,Dublin,Franklin,DeMart,District-15,4891.8,261.22,balanceimport,taxareacode,100553,J100553,L100553,0.0534,2022,9
+US-MI,Troy,Oakland,PizzaHut,District-67,8302.03,684.92,balanceimport,taxareacode,100554,J100554,L100554,0.0825,2022,11
+US-FL,West Palm Beach,Palm Beach,Reliance,District-83,3523.48,452.77,balanceimport,taxareacode,100555,J100555,L100555,0.1285,2023,6
+US-NY,Astoria,Queens,Reliance,District-22,7854.65,732.05,balanceimport,taxareacode,100556,J100556,L100556,0.0932,2022,11
+US-MI,Sterling Heights,Macomb,Reliance,District-76,6629.11,881.01,balanceimport,taxareacode,100557,J100557,L100557,0.1329,2023,1
+US-CA,San Francisco,San Francisco,Reliance,District-23,750.35,41.87,balanceimport,taxareacode,100558,J100558,L100558,0.0558,2024,5
+US-FL,West Palm Beach,Palm Beach,DeMart,District-28,1391.96,178.87,balanceimport,taxareacode,100559,J100559,L100559,0.1285,2024,8
+US-NC,Cary,Wake,DeMart,District-58,3471.39,381.16,balanceimport,taxareacode,100560,J100560,L100560,0.1098,2022,9
+US-NY,Queens,Queens,DeMart,District-75,334.71,34.31,reclassin,reclass,100561,J100561,L100561,0.1025,2023,5
+US-OH,Norwood,Hamilton,Reliance,District-64,2849.42,216.27,balanceimport,taxareacode,100562,J100562,L100562,0.0759,2023,9
+US-TX,Dallas,Dallas,PizzaHut,District-16,5782.1,849.97,balanceimport,taxareacode,100563,J100563,L100563,0.147,2024,2
+US-IL,Mundelein,Lake,DeMart,District-6,7837.99,442.85,reclassin,reclass,100564,J100564,L100564,0.0565,2024,11
+US-MI,Livonia,Wayne,PizzaHut,District-2,712.67,38.84,balanceimport,taxareacode,100565,J100565,L100565,0.0545,2024,11
+US-GA,Marietta,Cobb,PizzaHut,District-46,2025.03,138.71,reclassin,reclass,100566,J100566,L100566,0.0685,2022,12
+US-CA,San Francisco,San Francisco,Reliance,District-36,8191.32,457.08,balanceimport,taxareacode,100567,J100567,L100567,0.0558,2023,5
+US-FL,Fort Lauderdale,Broward,Reliance,District-76,2944.53,255.0,balanceimport,taxareacode,100568,J100568,L100568,0.0866,2023,7
+US-MI,Sterling Heights,Macomb,Reliance,District-37,7302.54,970.51,balanceimport,taxareacode,100569,J100569,L100569,0.1329,2024,4
+US-FL,Boca Raton,Palm Beach,Reliance,District-21,8073.78,565.16,balanceimport,taxareacode,100570,J100570,L100570,0.07,2024,11
+US-FL,Hialeah,Miami-Dade,Reliance,District-63,3674.64,291.03,balanceimport,taxareacode,100571,J100571,L100571,0.0792,2023,6
+US-IL,Naperville,DuPage,DeMart,District-19,7001.92,382.3,balanceimport,taxareacode,100572,J100572,L100572,0.0546,2023,11
+US-PA,Chestnut Hill,Philadelphia,DeMart,District-52,3187.93,467.35,balanceimport,taxareacode,100573,J100573,L100573,0.1466,2024,9
+US-NY,Harlem,New York,DeMart,District-79,8278.04,920.52,balanceimport,taxareacode,100574,J100574,L100574,0.1112,2023,9
+US-TX,Pasadena,Harris,PizzaHut,District-75,3668.7,191.14,balanceimport,taxareacode,100575,J100575,L100575,0.0521,2022,10
+US-TX,Houston,Harris,DeMart,District-95,9885.37,1194.15,balanceimport,taxareacode,100576,J100576,L100576,0.1208,2023,3
+US-NY,Brooklyn,Kings,Reliance,District-31,2965.45,202.54,balanceimport,taxareacode,100577,J100577,L100577,0.0683,2023,5
+US-FL,Pembroke Pines,Broward,DeMart,District-60,6687.12,639.29,balanceimport,taxareacode,100578,J100578,L100578,0.0956,2022,7
+US-GA,Atlanta,Fulton,PizzaHut,District-85,7817.22,909.14,balanceimport,taxareacode,100579,J100579,L100579,0.1163,2024,10
+US-TX,Fort Worth,Tarrant,Reliance,District-75,9920.43,706.33,balanceimport,taxareacode,100580,J100580,L100580,0.0712,2024,1
+US-IL,Wheaton,DuPage,PizzaHut,District-24,5165.22,572.31,reclassin,reclass,100581,J100581,L100581,0.1108,2023,3
+US-GA,Lawrenceville,Gwinnett,PizzaHut,District-67,3310.86,337.71,balanceimport,taxareacode,100582,J100582,L100582,0.102,2024,10
+US-CA,San Diego,San Diego,DeMart,District-16,153.51,16.87,reclassin,reclass,100583,J100583,L100583,0.1099,2023,6
+US-FL,Pembroke Pines,Broward,Reliance,District-10,6954.31,664.83,balanceimport,taxareacode,100584,J100584,L100584,0.0956,2022,8
+US-GA,Sandy Springs,Fulton,DeMart,District-47,693.44,56.31,reclassin,reclass,100585,J100585,L100585,0.0812,2022,6
+US-FL,Fort Lauderdale,Broward,PizzaHut,District-41,9969.4,863.35,balanceimport,taxareacode,100586,J100586,L100586,0.0866,2022,10
+US-TX,Houston,Harris,DeMart,District-10,907.83,109.67,balanceimport,taxareacode,100587,J100587,L100587,0.1208,2024,2
+US-TX,Pasadena,Harris,PizzaHut,District-36,1829.01,95.29,balanceimport,taxareacode,100588,J100588,L100588,0.0521,2023,11
+US-NC,Raleigh,Wake,DeMart,District-15,8914.8,1243.61,balanceimport,taxareacode,100589,J100589,L100589,0.1395,2022,12
+US-OH,Parma,Cuyahoga,DeMart,District-78,8414.22,523.36,balanceimport,taxareacode,100590,J100590,L100590,0.0622,2023,8
+US-TX,Irving,Dallas,DeMart,District-70,7175.72,955.81,balanceimport,taxareacode,100591,J100591,L100591,0.1332,2023,4
+US-FL,Miami,Miami-Dade,Reliance,District-36,6183.41,395.12,balanceimport,taxareacode,100592,J100592,L100592,0.0639,2024,6
+US-OH,Parma,Cuyahoga,PizzaHut,District-59,9250.44,575.38,balanceimport,taxareacode,100593,J100593,L100593,0.0622,2024,5
+US-OH,Norwood,Hamilton,DeMart,District-12,3302.95,250.69,balanceimport,taxareacode,100594,J100594,L100594,0.0759,2023,7
+US-OH,Dublin,Franklin,PizzaHut,District-17,8332.03,444.93,reclassin,reclass,100595,J100595,L100595,0.0534,2023,12
+US-IL,Cicero,Cook,PizzaHut,District-87,7316.5,798.96,balanceimport,taxareacode,100596,J100596,L100596,0.1092,2023,11
+US-CA,Glendale,Los Angeles,PizzaHut,District-17,5588.13,688.46,balanceimport,taxareacode,100597,J100597,L100597,0.1232,2023,6
+US-OH,Parma,Cuyahoga,PizzaHut,District-35,8998.0,559.68,balanceimport,taxareacode,100598,J100598,L100598,0.0622,2024,6
+US-NC,High Point,Guilford,DeMart,District-45,9889.47,581.5,balanceimport,taxareacode,100599,J100599,L100599,0.0588,2022,11
+US-GA,Smyrna,Cobb,Reliance,District-44,1056.78,155.35,balanceimport,taxareacode,100600,J100600,L100600,0.147,2024,11
+US-PA,Pottstown,Montgomery,Reliance,District-90,751.54,88.98,reclassin,reclass,100601,J100601,L100601,0.1184,2023,4
+US-NY,Williamsburg,Kings,PizzaHut,District-53,3126.87,251.4,balanceimport,taxareacode,100602,J100602,L100602,0.0804,2023,1
+US-FL,Pembroke Pines,Broward,Reliance,District-51,3710.24,354.7,balanceimport,taxareacode,100603,J100603,L100603,0.0956,2024,12
+US-IL,Mundelein,Lake,Reliance,District-73,8060.55,455.42,balanceimport,taxareacode,100604,J100604,L100604,0.0565,2023,3
+US-NY,Queens,Queens,PizzaHut,District-43,1947.74,199.64,balanceimport,taxareacode,100605,J100605,L100605,0.1025,2022,12
+US-PA,Norristown,Montgomery,Reliance,District-86,2402.16,143.65,balanceimport,taxareacode,100606,J100606,L100606,0.0598,2023,8
+US-MI,Warren,Macomb,DeMart,District-43,2850.67,219.79,balanceimport,taxareacode,100607,J100607,L100607,0.0771,2024,9
+US-OH,Cincinnati,Hamilton,PizzaHut,District-55,2414.03,340.14,balanceimport,taxareacode,100608,J100608,L100608,0.1409,2023,10
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-64,4051.75,529.97,balanceimport,taxareacode,100609,J100609,L100609,0.1308,2023,4
+US-CA,Oceanside,San Diego,Reliance,District-72,5872.99,385.27,balanceimport,taxareacode,100610,J100610,L100610,0.0656,2024,6
+US-GA,Marietta,Cobb,PizzaHut,District-61,9966.0,682.67,balanceimport,taxareacode,100611,J100611,L100611,0.0685,2023,12
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-37,307.25,40.19,balanceimport,taxareacode,100612,J100612,L100612,0.1308,2022,8
+US-NC,Matthews,Mecklenburg,DeMart,District-57,9668.82,1391.34,balanceimport,taxareacode,100613,J100613,L100613,0.1439,2024,4
+US-CA,Daly City,San Francisco,DeMart,District-11,3763.24,514.06,reclassin,reclass,100614,J100614,L100614,0.1366,2024,9
+US-OH,Columbus,Franklin,PizzaHut,District-57,3840.61,382.14,balanceimport,taxareacode,100615,J100615,L100615,0.0995,2022,6
+US-NY,Williamsburg,Kings,DeMart,District-35,6615.21,531.86,reclassin,reclass,100616,J100616,L100616,0.0804,2024,1
+US-FL,Miami,Miami-Dade,Reliance,District-89,4206.77,268.81,balanceimport,taxareacode,100617,J100617,L100617,0.0639,2024,10
+US-IL,Wheaton,DuPage,DeMart,District-64,8155.86,903.67,balanceimport,taxareacode,100618,J100618,L100618,0.1108,2024,10
+US-PA,Philadelphia,Philadelphia,DeMart,District-41,1887.13,273.45,balanceimport,taxareacode,100619,J100619,L100619,0.1449,2024,9
+US-TX,Irving,Dallas,PizzaHut,District-33,1355.56,180.56,balanceimport,taxareacode,100620,J100620,L100620,0.1332,2023,5
+US-FL,Hialeah,Miami-Dade,PizzaHut,District-90,2227.67,176.43,balanceimport,taxareacode,100621,J100621,L100621,0.0792,2023,7
+US-TX,Houston,Harris,Reliance,District-8,3520.26,425.25,balanceimport,taxareacode,100622,J100622,L100622,0.1208,2023,3
+US-FL,West Palm Beach,Palm Beach,PizzaHut,District-32,9089.38,1167.99,balanceimport,taxareacode,100623,J100623,L100623,0.1285,2022,2
+US-NY,Manhattan,New York,PizzaHut,District-31,5997.23,474.38,balanceimport,taxareacode,100624,J100624,L100624,0.0791,2024,1
+US-MI,Sterling Heights,Macomb,Reliance,District-30,893.85,118.79,balanceimport,taxareacode,100625,J100625,L100625,0.1329,2023,11
+US-FL,Fort Lauderdale,Broward,DeMart,District-71,6817.06,590.36,balanceimport,taxareacode,100626,J100626,L100626,0.0866,2023,10
+US-OH,Dublin,Franklin,Reliance,District-70,6073.01,324.3,balanceimport,taxareacode,100627,J100627,L100627,0.0534,2023,8
+US-NY,Brooklyn,Kings,DeMart,District-30,6755.28,461.39,balanceimport,taxareacode,100628,J100628,L100628,0.0683,2023,1
+US-IL,Naperville,DuPage,DeMart,District-39,9826.96,536.55,balanceimport,taxareacode,100629,J100629,L100629,0.0546,2024,5
+US-CA,San Francisco,San Francisco,DeMart,District-15,6142.74,342.76,balanceimport,taxareacode,100630,J100630,L100630,0.0558,2022,7
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-43,4647.38,607.88,reclassin,reclass,100631,J100631,L100631,0.1308,2022,6
+US-MI,Detroit,Wayne,PizzaHut,District-11,8280.77,576.34,balanceimport,taxareacode,100632,J100632,L100632,0.0696,2022,2
+US-TX,Pasadena,Harris,DeMart,District-44,9360.24,487.67,balanceimport,taxareacode,100633,J100633,L100633,0.0521,2022,10
+US-OH,Cleveland,Cuyahoga,Reliance,District-16,8676.3,815.57,reclassin,reclass,100634,J100634,L100634,0.094,2024,7
+US-OH,Parma,Cuyahoga,Reliance,District-45,8214.13,510.92,balanceimport,taxareacode,100635,J100635,L100635,0.0622,2024,5
+US-IL,Wheaton,DuPage,Reliance,District-59,2345.05,259.83,balanceimport,taxareacode,100636,J100636,L100636,0.1108,2023,7
+US-OH,Cleveland,Cuyahoga,PizzaHut,District-3,1926.14,181.06,balanceimport,taxareacode,100637,J100637,L100637,0.094,2022,12
+US-NY,Astoria,Queens,PizzaHut,District-77,9528.91,888.09,balanceimport,taxareacode,100638,J100638,L100638,0.0932,2024,3
+US-MI,Warren,Macomb,PizzaHut,District-67,804.44,62.02,balanceimport,taxareacode,100639,J100639,L100639,0.0771,2022,7
+US-NY,Brooklyn,Kings,DeMart,District-71,1070.28,73.1,balanceimport,taxareacode,100640,J100640,L100640,0.0683,2023,6
+US-NC,Raleigh,Wake,Reliance,District-44,551.29,76.9,balanceimport,taxareacode,100641,J100641,L100641,0.1395,2023,11
+US-GA,Sandy Springs,Fulton,Reliance,District-12,9841.91,799.16,balanceimport,taxareacode,100642,J100642,L100642,0.0812,2023,12
+US-NC,Charlotte,Mecklenburg,PizzaHut,District-6,6874.71,876.53,reclassin,reclass,100643,J100643,L100643,0.1275,2022,11
+US-TX,Dallas,Dallas,Reliance,District-78,2930.42,430.77,balanceimport,taxareacode,100644,J100644,L100644,0.147,2024,11
+US-NC,High Point,Guilford,PizzaHut,District-9,4212.89,247.72,balanceimport,taxareacode,100645,J100645,L100645,0.0588,2022,4
+US-FL,Pembroke Pines,Broward,Reliance,District-67,9681.25,925.53,balanceimport,taxareacode,100646,J100646,L100646,0.0956,2024,6
+US-IL,Cicero,Cook,DeMart,District-82,6807.7,743.4,balanceimport,taxareacode,100647,J100647,L100647,0.1092,2022,7
+US-TX,Arlington,Tarrant,PizzaHut,District-77,2877.95,196.28,balanceimport,taxareacode,100648,J100648,L100648,0.0682,2024,9
+US-NY,Manhattan,New York,PizzaHut,District-26,8755.64,692.57,balanceimport,taxareacode,100649,J100649,L100649,0.0791,2022,6
+US-GA,Atlanta,Fulton,Reliance,District-43,9784.38,1137.92,balanceimport,taxareacode,100650,J100650,L100650,0.1163,2023,7
+US-NY,Astoria,Queens,PizzaHut,District-92,7342.46,684.32,balanceimport,taxareacode,100651,J100651,L100651,0.0932,2024,1
+US-FL,Miami,Miami-Dade,DeMart,District-37,6951.3,444.19,reclassin,reclass,100652,J100652,L100652,0.0639,2024,2
+US-NY,Astoria,Queens,Reliance,District-87,5728.67,533.91,balanceimport,taxareacode,100653,J100653,L100653,0.0932,2024,6
+US-GA,Smyrna,Cobb,PizzaHut,District-85,4397.12,646.38,balanceimport,taxareacode,100654,J100654,L100654,0.147,2022,5
+US-NC,Charlotte,Mecklenburg,DeMart,District-64,7335.71,935.3,balanceimport,taxareacode,100655,J100655,L100655,0.1275,2024,11
+US-TX,Fort Worth,Tarrant,PizzaHut,District-21,4770.22,339.64,reclassin,reclass,100656,J100656,L100656,0.0712,2024,7
+US-TX,Arlington,Tarrant,PizzaHut,District-51,3612.84,246.4,balanceimport,taxareacode,100657,J100657,L100657,0.0682,2024,2
+US-PA,Norristown,Montgomery,Reliance,District-57,7982.81,477.37,balanceimport,taxareacode,100658,J100658,L100658,0.0598,2022,10
+US-CA,Daly City,San Francisco,Reliance,District-92,6033.06,824.12,balanceimport,taxareacode,100659,J100659,L100659,0.1366,2023,9
+US-NC,Raleigh,Wake,DeMart,District-6,9089.35,1267.96,balanceimport,taxareacode,100660,J100660,L100660,0.1395,2023,6
+US-TX,Fort Worth,Tarrant,PizzaHut,District-99,702.93,50.05,reclassin,reclass,100661,J100661,L100661,0.0712,2023,3
+US-CA,Glendale,Los Angeles,Reliance,District-62,6456.66,795.46,balanceimport,taxareacode,100662,J100662,L100662,0.1232,2022,9
+US-CA,Chula Vista,San Diego,PizzaHut,District-89,3229.17,211.83,balanceimport,taxareacode,100663,J100663,L100663,0.0656,2024,3
+US-NY,Brooklyn,Kings,DeMart,District-73,5764.02,393.68,balanceimport,taxareacode,100664,J100664,L100664,0.0683,2022,3
+US-TX,Arlington,Tarrant,DeMart,District-89,5595.82,381.63,balanceimport,taxareacode,100665,J100665,L100665,0.0682,2022,6
+US-MI,Pontiac,Oakland,Reliance,District-39,7258.41,645.27,balanceimport,taxareacode,100666,J100666,L100666,0.0889,2023,10
+US-NC,Raleigh,Wake,Reliance,District-95,237.24,33.09,balanceimport,taxareacode,100667,J100667,L100667,0.1395,2022,8
+US-NC,Cary,Wake,Reliance,District-15,1622.46,178.15,reclassin,reclass,100668,J100668,L100668,0.1098,2022,4
+US-OH,Parma,Cuyahoga,PizzaHut,District-2,8179.18,508.74,balanceimport,taxareacode,100669,J100669,L100669,0.0622,2023,4
+US-MI,Detroit,Wayne,PizzaHut,District-8,6421.04,446.9,balanceimport,taxareacode,100670,J100670,L100670,0.0696,2023,9
+US-IL,Waukegan,Lake,PizzaHut,District-42,8605.21,577.41,balanceimport,taxareacode,100671,J100671,L100671,0.0671,2022,8
+US-IL,Wheaton,DuPage,Reliance,District-71,3194.72,353.97,balanceimport,taxareacode,100672,J100672,L100672,0.1108,2024,8
+US-OH,Cincinnati,Hamilton,Reliance,District-29,3103.52,437.29,balanceimport,taxareacode,100673,J100673,L100673,0.1409,2022,3
+US-OH,Cincinnati,Hamilton,Reliance,District-50,3352.73,472.4,balanceimport,taxareacode,100674,J100674,L100674,0.1409,2022,7
+US-TX,Pasadena,Harris,Reliance,District-92,2147.5,111.88,reclassin,reclass,100675,J100675,L100675,0.0521,2024,6
+US-MI,Warren,Macomb,DeMart,District-84,7477.63,576.53,balanceimport,taxareacode,100676,J100676,L100676,0.0771,2023,3
+US-NY,Astoria,Queens,PizzaHut,District-16,8139.57,758.61,balanceimport,taxareacode,100677,J100677,L100677,0.0932,2024,9
+US-NC,Greensboro,Guilford,PizzaHut,District-14,1909.85,271.58,balanceimport,taxareacode,100678,J100678,L100678,0.1422,2024,6
+US-NY,Williamsburg,Kings,Reliance,District-51,2560.54,205.87,balanceimport,taxareacode,100679,J100679,L100679,0.0804,2024,12
+US-MI,Detroit,Wayne,PizzaHut,District-77,8726.02,607.33,balanceimport,taxareacode,100680,J100680,L100680,0.0696,2023,10
+US-FL,Hialeah,Miami-Dade,DeMart,District-18,9455.74,748.89,balanceimport,taxareacode,100681,J100681,L100681,0.0792,2024,9
+US-CA,Chula Vista,San Diego,PizzaHut,District-98,730.48,47.92,balanceimport,taxareacode,100682,J100682,L100682,0.0656,2023,11
+US-NY,Astoria,Queens,Reliance,District-56,2432.67,226.72,balanceimport,taxareacode,100683,J100683,L100683,0.0932,2024,11
+US-FL,Fort Lauderdale,Broward,PizzaHut,District-9,9866.97,854.48,balanceimport,taxareacode,100684,J100684,L100684,0.0866,2023,8
+US-FL,West Palm Beach,Palm Beach,PizzaHut,District-7,7202.9,925.57,balanceimport,taxareacode,100685,J100685,L100685,0.1285,2023,11
+US-OH,Cincinnati,Hamilton,Reliance,District-75,6798.78,957.95,balanceimport,taxareacode,100686,J100686,L100686,0.1409,2023,1
+US-FL,Miami,Miami-Dade,Reliance,District-81,4662.89,297.96,balanceimport,taxareacode,100687,J100687,L100687,0.0639,2024,5
+US-FL,West Palm Beach,Palm Beach,DeMart,District-14,6743.03,866.48,balanceimport,taxareacode,100688,J100688,L100688,0.1285,2024,1
+US-TX,Irving,Dallas,DeMart,District-79,802.07,106.84,balanceimport,taxareacode,100689,J100689,L100689,0.1332,2024,11
+US-TX,Fort Worth,Tarrant,PizzaHut,District-62,9426.38,671.16,balanceimport,taxareacode,100690,J100690,L100690,0.0712,2023,9
+US-GA,Sandy Springs,Fulton,DeMart,District-13,9760.21,792.53,balanceimport,taxareacode,100691,J100691,L100691,0.0812,2023,12
+US-NC,Matthews,Mecklenburg,DeMart,District-71,8811.15,1267.92,balanceimport,taxareacode,100692,J100692,L100692,0.1439,2023,9
+US-GA,Smyrna,Cobb,DeMart,District-81,4567.54,671.43,reclassin,reclass,100693,J100693,L100693,0.147,2023,9
+US-FL,Miami,Miami-Dade,Reliance,District-22,2037.56,130.2,balanceimport,taxareacode,100694,J100694,L100694,0.0639,2023,2
+US-CA,Daly City,San Francisco,Reliance,District-2,9315.16,1272.45,balanceimport,taxareacode,100695,J100695,L100695,0.1366,2023,7
+US-PA,Philadelphia,Philadelphia,PizzaHut,District-69,2670.07,386.89,balanceimport,taxareacode,100696,J100696,L100696,0.1449,2022,3
+US-IL,Cicero,Cook,Reliance,District-57,1143.51,124.87,balanceimport,taxareacode,100697,J100697,L100697,0.1092,2023,11
+US-PA,Pittsburgh,Allegheny,DeMart,District-29,1291.6,168.94,balanceimport,taxareacode,100698,J100698,L100698,0.1308,2023,1
+US-OH,Cleveland,Cuyahoga,PizzaHut,District-1,1279.49,120.27,balanceimport,taxareacode,100699,J100699,L100699,0.094,2022,4
+US-TX,Fort Worth,Tarrant,PizzaHut,District-32,7138.91,508.29,balanceimport,taxareacode,100700,J100700,L100700,0.0712,2022,10
+US-OH,Dublin,Franklin,DeMart,District-34,632.92,33.8,balanceimport,taxareacode,100701,J100701,L100701,0.0534,2022,10
+US-GA,Lawrenceville,Gwinnett,DeMart,District-43,6788.31,692.41,balanceimport,taxareacode,100702,J100702,L100702,0.102,2022,10
+US-TX,Fort Worth,Tarrant,DeMart,District-30,7802.66,555.55,balanceimport,taxareacode,100703,J100703,L100703,0.0712,2024,10
+US-OH,Columbus,Franklin,DeMart,District-40,2866.51,285.22,balanceimport,taxareacode,100704,J100704,L100704,0.0995,2022,10
+US-FL,Pembroke Pines,Broward,Reliance,District-29,7093.08,678.1,balanceimport,taxareacode,100705,J100705,L100705,0.0956,2024,9
+US-MI,Sterling Heights,Macomb,PizzaHut,District-20,8292.48,1102.07,balanceimport,taxareacode,100706,J100706,L100706,0.1329,2022,6
+US-PA,Chestnut Hill,Philadelphia,Reliance,District-47,1930.71,283.04,reclassin,reclass,100707,J100707,L100707,0.1466,2024,6
+US-NC,High Point,Guilford,PizzaHut,District-30,4442.61,261.23,balanceimport,taxareacode,100708,J100708,L100708,0.0588,2023,11
+US-NY,Williamsburg,Kings,DeMart,District-65,9538.69,766.91,balanceimport,taxareacode,100709,J100709,L100709,0.0804,2024,2
+US-MI,Livonia,Wayne,DeMart,District-87,1726.44,94.09,balanceimport,taxareacode,100710,J100710,L100710,0.0545,2023,8
+US-NY,Manhattan,New York,PizzaHut,District-44,305.5,24.17,balanceimport,taxareacode,100711,J100711,L100711,0.0791,2022,2
+US-CA,Long Beach,Los Angeles,Reliance,District-37,1801.58,261.41,reclassin,reclass,100712,J100712,L100712,0.1451,2024,1
+US-IL,Chicago,Cook,PizzaHut,District-54,230.97,23.42,balanceimport,taxareacode,100713,J100713,L100713,0.1014,2022,12
+US-FL,Fort Lauderdale,Broward,PizzaHut,District-59,8893.09,770.14,reclassin,reclass,100714,J100714,L100714,0.0866,2022,12
+US-OH,Norwood,Hamilton,DeMart,District-68,7569.92,574.56,balanceimport,taxareacode,100715,J100715,L100715,0.0759,2024,7
+US-TX,Dallas,Dallas,DeMart,District-81,5083.12,747.22,balanceimport,taxareacode,100716,J100716,L100716,0.147,2023,6
+US-NC,Charlotte,Mecklenburg,DeMart,District-58,965.72,123.13,balanceimport,taxareacode,100717,J100717,L100717,0.1275,2023,2
+US-CA,Daly City,San Francisco,PizzaHut,District-77,9560.93,1306.02,reclassin,reclass,100718,J100718,L100718,0.1366,2024,12
+US-MI,Livonia,Wayne,PizzaHut,District-55,3982.96,217.07,balanceimport,taxareacode,100719,J100719,L100719,0.0545,2022,9
+US-TX,Fort Worth,Tarrant,DeMart,District-80,9814.45,698.79,balanceimport,taxareacode,100720,J100720,L100720,0.0712,2023,7
+US-MI,Warren,Macomb,PizzaHut,District-87,6369.31,491.07,balanceimport,taxareacode,100721,J100721,L100721,0.0771,2022,1
+US-NC,Greensboro,Guilford,PizzaHut,District-58,6291.79,894.69,balanceimport,taxareacode,100722,J100722,L100722,0.1422,2024,2
+US-OH,Cleveland,Cuyahoga,Reliance,District-14,6746.92,634.21,reclassin,reclass,100723,J100723,L100723,0.094,2024,6
+US-MI,Sterling Heights,Macomb,DeMart,District-30,8162.4,1084.78,balanceimport,taxareacode,100724,J100724,L100724,0.1329,2022,12
+US-CA,Oceanside,San Diego,PizzaHut,District-42,5687.51,373.1,balanceimport,taxareacode,100725,J100725,L100725,0.0656,2022,12
+US-CA,Chula Vista,San Diego,PizzaHut,District-58,1883.57,123.56,balanceimport,taxareacode,100726,J100726,L100726,0.0656,2023,4
+US-OH,Cleveland,Cuyahoga,PizzaHut,District-87,4182.43,393.15,balanceimport,taxareacode,100727,J100727,L100727,0.094,2022,10
+US-MI,Livonia,Wayne,Reliance,District-43,962.0,52.43,balanceimport,taxareacode,100728,J100728,L100728,0.0545,2022,9
+US-GA,Lawrenceville,Gwinnett,Reliance,District-88,9117.18,929.95,balanceimport,taxareacode,100729,J100729,L100729,0.102,2022,2
+US-GA,Atlanta,Fulton,Reliance,District-50,9661.74,1123.66,balanceimport,taxareacode,100730,J100730,L100730,0.1163,2023,8
+US-IL,Chicago,Cook,DeMart,District-29,5584.53,566.27,balanceimport,taxareacode,100731,J100731,L100731,0.1014,2023,1
+US-MI,Livonia,Wayne,Reliance,District-17,3783.61,206.21,balanceimport,taxareacode,100732,J100732,L100732,0.0545,2022,1
+US-FL,Pembroke Pines,Broward,PizzaHut,District-47,8820.86,843.27,balanceimport,taxareacode,100733,J100733,L100733,0.0956,2022,9
+US-IL,Mundelein,Lake,PizzaHut,District-52,4925.11,278.27,reclassin,reclass,100734,J100734,L100734,0.0565,2023,10
+US-CA,Oceanside,San Diego,Reliance,District-66,9180.48,602.24,balanceimport,taxareacode,100735,J100735,L100735,0.0656,2022,3
+US-CA,Glendale,Los Angeles,PizzaHut,District-49,8499.87,1047.18,balanceimport,taxareacode,100736,J100736,L100736,0.1232,2022,3
+US-PA,Pottstown,Montgomery,DeMart,District-16,506.57,59.98,balanceimport,taxareacode,100737,J100737,L100737,0.1184,2023,6
+US-CA,Long Beach,Los Angeles,Reliance,District-80,3935.92,571.1,balanceimport,taxareacode,100738,J100738,L100738,0.1451,2022,8
+US-OH,Columbus,Franklin,PizzaHut,District-78,5502.39,547.49,balanceimport,taxareacode,100739,J100739,L100739,0.0995,2023,10
+US-OH,Cleveland,Cuyahoga,DeMart,District-45,3866.77,363.48,reclassin,reclass,100740,J100740,L100740,0.094,2022,3
+US-MI,Sterling Heights,Macomb,DeMart,District-30,3066.72,407.57,balanceimport,taxareacode,100741,J100741,L100741,0.1329,2022,10
+US-GA,Duluth,Gwinnett,DeMart,District-26,5158.61,540.11,balanceimport,taxareacode,100742,J100742,L100742,0.1047,2023,4
+US-MI,Detroit,Wayne,PizzaHut,District-77,6666.78,464.01,balanceimport,taxareacode,100743,J100743,L100743,0.0696,2023,12
+US-FL,West Palm Beach,Palm Beach,DeMart,District-55,7339.38,943.11,balanceimport,taxareacode,100744,J100744,L100744,0.1285,2023,2
+US-NY,Astoria,Queens,Reliance,District-6,5022.81,468.13,balanceimport,taxareacode,100745,J100745,L100745,0.0932,2023,4
+US-TX,Arlington,Tarrant,DeMart,District-51,1998.19,136.28,balanceimport,taxareacode,100746,J100746,L100746,0.0682,2023,3
+US-FL,West Palm Beach,Palm Beach,Reliance,District-48,3625.32,465.85,balanceimport,taxareacode,100747,J100747,L100747,0.1285,2024,5
+US-NY,Queens,Queens,Reliance,District-53,5399.94,553.49,balanceimport,taxareacode,100748,J100748,L100748,0.1025,2022,3
+US-PA,Philadelphia,Philadelphia,DeMart,District-72,3288.47,476.5,balanceimport,taxareacode,100749,J100749,L100749,0.1449,2023,11
+US-GA,Lawrenceville,Gwinnett,Reliance,District-14,2724.3,277.88,balanceimport,taxareacode,100750,J100750,L100750,0.102,2023,10
+US-OH,Columbus,Franklin,DeMart,District-10,7288.24,725.18,balanceimport,taxareacode,100751,J100751,L100751,0.0995,2024,1
+US-NY,Williamsburg,Kings,PizzaHut,District-42,1745.93,140.37,balanceimport,taxareacode,100752,J100752,L100752,0.0804,2022,10
+US-PA,Philadelphia,Philadelphia,DeMart,District-19,9233.78,1337.97,balanceimport,taxareacode,100753,J100753,L100753,0.1449,2023,1
+US-TX,Dallas,Dallas,Reliance,District-11,6271.46,921.9,balanceimport,taxareacode,100754,J100754,L100754,0.147,2022,12
+US-TX,Irving,Dallas,PizzaHut,District-53,7307.32,973.34,balanceimport,taxareacode,100755,J100755,L100755,0.1332,2022,5
+US-MI,Livonia,Wayne,DeMart,District-54,7524.54,410.09,balanceimport,taxareacode,100756,J100756,L100756,0.0545,2022,6
+US-TX,Irving,Dallas,PizzaHut,District-88,3939.56,524.75,balanceimport,taxareacode,100757,J100757,L100757,0.1332,2022,9
+US-MI,Pontiac,Oakland,DeMart,District-61,4800.21,426.74,balanceimport,taxareacode,100758,J100758,L100758,0.0889,2023,12
+US-OH,Dublin,Franklin,DeMart,District-17,6272.84,334.97,balanceimport,taxareacode,100759,J100759,L100759,0.0534,2024,6
+US-MI,Detroit,Wayne,DeMart,District-57,2442.44,169.99,balanceimport,taxareacode,100760,J100760,L100760,0.0696,2022,8
+US-TX,Houston,Harris,DeMart,District-74,5098.62,615.91,balanceimport,taxareacode,100761,J100761,L100761,0.1208,2023,4
+US-MI,Troy,Oakland,Reliance,District-23,460.96,38.03,balanceimport,taxareacode,100762,J100762,L100762,0.0825,2023,4
+US-OH,Parma,Cuyahoga,PizzaHut,District-71,4435.21,275.87,balanceimport,taxareacode,100763,J100763,L100763,0.0622,2023,5
+US-TX,Fort Worth,Tarrant,Reliance,District-98,6205.46,441.83,balanceimport,taxareacode,100764,J100764,L100764,0.0712,2023,3
+US-PA,Monroeville,Allegheny,DeMart,District-88,6210.47,499.94,balanceimport,taxareacode,100765,J100765,L100765,0.0805,2022,12
+US-MI,Warren,Macomb,Reliance,District-66,9703.74,748.16,balanceimport,taxareacode,100766,J100766,L100766,0.0771,2022,4
+US-GA,Atlanta,Fulton,DeMart,District-82,4610.93,536.25,balanceimport,taxareacode,100767,J100767,L100767,0.1163,2023,3
+US-OH,Norwood,Hamilton,DeMart,District-65,1046.84,79.46,balanceimport,taxareacode,100768,J100768,L100768,0.0759,2022,2
+US-NC,Cary,Wake,Reliance,District-5,1729.53,189.9,balanceimport,taxareacode,100769,J100769,L100769,0.1098,2022,6
+US-NY,Williamsburg,Kings,PizzaHut,District-58,5195.95,417.75,balanceimport,taxareacode,100770,J100770,L100770,0.0804,2023,12
+US-TX,Pasadena,Harris,Reliance,District-76,889.18,46.33,balanceimport,taxareacode,100771,J100771,L100771,0.0521,2024,5
+US-MI,Pontiac,Oakland,PizzaHut,District-60,8040.18,714.77,balanceimport,taxareacode,100772,J100772,L100772,0.0889,2022,5
+US-IL,Mundelein,Lake,DeMart,District-77,2788.35,157.54,balanceimport,taxareacode,100773,J100773,L100773,0.0565,2024,2
+US-MI,Sterling Heights,Macomb,PizzaHut,District-28,6796.34,903.23,balanceimport,taxareacode,100774,J100774,L100774,0.1329,2022,4
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-26,9447.67,1385.03,balanceimport,taxareacode,100775,J100775,L100775,0.1466,2022,7
+US-IL,Chicago,Cook,Reliance,District-91,8487.97,860.68,balanceimport,taxareacode,100776,J100776,L100776,0.1014,2024,7
+US-FL,Boca Raton,Palm Beach,Reliance,District-25,186.89,13.08,balanceimport,taxareacode,100777,J100777,L100777,0.07,2022,10
+US-CA,Long Beach,Los Angeles,Reliance,District-54,6249.74,906.84,balanceimport,taxareacode,100778,J100778,L100778,0.1451,2022,3
+US-TX,Dallas,Dallas,DeMart,District-58,3697.7,543.56,balanceimport,taxareacode,100779,J100779,L100779,0.147,2023,10
+US-FL,Miami,Miami-Dade,Reliance,District-56,6311.93,403.33,balanceimport,taxareacode,100780,J100780,L100780,0.0639,2024,5
+US-MI,Warren,Macomb,Reliance,District-38,3172.04,244.56,balanceimport,taxareacode,100781,J100781,L100781,0.0771,2023,3
+US-NY,Astoria,Queens,DeMart,District-95,6463.5,602.4,balanceimport,taxareacode,100782,J100782,L100782,0.0932,2022,8
+US-OH,Columbus,Franklin,Reliance,District-9,8708.38,866.48,balanceimport,taxareacode,100783,J100783,L100783,0.0995,2024,2
+US-NY,Queens,Queens,PizzaHut,District-98,7586.3,777.6,balanceimport,taxareacode,100784,J100784,L100784,0.1025,2022,4
+US-NC,High Point,Guilford,Reliance,District-79,2987.77,175.68,balanceimport,taxareacode,100785,J100785,L100785,0.0588,2022,12
+US-TX,Dallas,Dallas,Reliance,District-96,3612.49,531.04,balanceimport,taxareacode,100786,J100786,L100786,0.147,2024,11
+US-GA,Smyrna,Cobb,DeMart,District-39,264.94,38.95,balanceimport,taxareacode,100787,J100787,L100787,0.147,2024,6
+US-PA,Philadelphia,Philadelphia,PizzaHut,District-68,5095.91,738.4,balanceimport,taxareacode,100788,J100788,L100788,0.1449,2022,2
+US-GA,Marietta,Cobb,DeMart,District-31,7528.27,515.69,balanceimport,taxareacode,100789,J100789,L100789,0.0685,2024,3
+US-TX,Arlington,Tarrant,Reliance,District-90,5862.49,399.82,balanceimport,taxareacode,100790,J100790,L100790,0.0682,2023,11
+US-FL,West Palm Beach,Palm Beach,DeMart,District-86,8650.05,1111.53,balanceimport,taxareacode,100791,J100791,L100791,0.1285,2024,2
+US-CA,South San Francisco,San Francisco,Reliance,District-44,2119.55,233.36,balanceimport,taxareacode,100792,J100792,L100792,0.1101,2023,7
+US-IL,Mundelein,Lake,PizzaHut,District-16,5174.89,292.38,balanceimport,taxareacode,100793,J100793,L100793,0.0565,2023,1
+US-IL,Cicero,Cook,PizzaHut,District-45,2007.5,219.22,balanceimport,taxareacode,100794,J100794,L100794,0.1092,2024,4
+US-OH,Parma,Cuyahoga,Reliance,District-34,8223.39,511.49,balanceimport,taxareacode,100795,J100795,L100795,0.0622,2023,7
+US-MI,Detroit,Wayne,Reliance,District-69,4557.34,317.19,balanceimport,taxareacode,100796,J100796,L100796,0.0696,2023,10
+US-NY,Williamsburg,Kings,Reliance,District-78,1924.58,154.74,balanceimport,taxareacode,100797,J100797,L100797,0.0804,2022,5
+US-NC,Matthews,Mecklenburg,Reliance,District-57,1969.06,283.35,balanceimport,taxareacode,100798,J100798,L100798,0.1439,2022,4
+US-GA,Lawrenceville,Gwinnett,PizzaHut,District-19,7856.66,801.38,balanceimport,taxareacode,100799,J100799,L100799,0.102,2022,1
+US-GA,Atlanta,Fulton,DeMart,District-43,5401.87,628.24,balanceimport,taxareacode,100800,J100800,L100800,0.1163,2023,10
+US-PA,Philadelphia,Philadelphia,Reliance,District-58,4925.32,713.68,balanceimport,taxareacode,100801,J100801,L100801,0.1449,2024,12
+US-GA,Duluth,Gwinnett,PizzaHut,District-20,5518.32,577.77,balanceimport,taxareacode,100802,J100802,L100802,0.1047,2022,9
+US-GA,Atlanta,Fulton,DeMart,District-70,9526.22,1107.9,balanceimport,taxareacode,100803,J100803,L100803,0.1163,2022,3
+US-CA,Long Beach,Los Angeles,PizzaHut,District-21,3983.44,578.0,balanceimport,taxareacode,100804,J100804,L100804,0.1451,2024,8
+US-NC,High Point,Guilford,Reliance,District-55,835.91,49.15,balanceimport,taxareacode,100805,J100805,L100805,0.0588,2022,12
+US-TX,Pasadena,Harris,PizzaHut,District-87,3989.8,207.87,balanceimport,taxareacode,100806,J100806,L100806,0.0521,2022,5
+US-CA,San Francisco,San Francisco,Reliance,District-66,9382.63,523.55,balanceimport,taxareacode,100807,J100807,L100807,0.0558,2024,8
+US-PA,Pottstown,Montgomery,DeMart,District-59,5421.65,641.92,balanceimport,taxareacode,100808,J100808,L100808,0.1184,2024,1
+US-TX,Arlington,Tarrant,DeMart,District-19,7358.29,501.84,balanceimport,taxareacode,100809,J100809,L100809,0.0682,2023,7
+US-IL,Naperville,DuPage,PizzaHut,District-81,8837.89,482.55,balanceimport,taxareacode,100810,J100810,L100810,0.0546,2022,8
+US-FL,Fort Lauderdale,Broward,Reliance,District-30,5033.5,435.9,balanceimport,taxareacode,100811,J100811,L100811,0.0866,2022,8
+US-NC,Greensboro,Guilford,DeMart,District-18,996.54,141.71,balanceimport,taxareacode,100812,J100812,L100812,0.1422,2023,3
+US-CA,Oceanside,San Diego,PizzaHut,District-23,3906.71,256.28,reclassin,reclass,100813,J100813,L100813,0.0656,2022,12
+US-GA,Sandy Springs,Fulton,PizzaHut,District-27,3486.49,283.1,balanceimport,taxareacode,100814,J100814,L100814,0.0812,2022,12
+US-IL,Chicago,Cook,Reliance,District-10,2682.41,272.0,balanceimport,taxareacode,100815,J100815,L100815,0.1014,2023,11
+US-OH,Dublin,Franklin,DeMart,District-46,888.09,47.42,balanceimport,taxareacode,100816,J100816,L100816,0.0534,2023,12
+US-OH,Parma,Cuyahoga,Reliance,District-44,4556.09,283.39,balanceimport,taxareacode,100817,J100817,L100817,0.0622,2024,2
+US-FL,Fort Lauderdale,Broward,DeMart,District-9,8683.9,752.03,balanceimport,taxareacode,100818,J100818,L100818,0.0866,2024,8
+US-NY,Manhattan,New York,DeMart,District-14,3545.71,280.47,reclassin,reclass,100819,J100819,L100819,0.0791,2024,4
+US-FL,Miami,Miami-Dade,DeMart,District-78,6908.92,441.48,balanceimport,taxareacode,100820,J100820,L100820,0.0639,2022,7
+US-PA,Pottstown,Montgomery,PizzaHut,District-89,3599.38,426.17,balanceimport,taxareacode,100821,J100821,L100821,0.1184,2024,9
+US-MI,Livonia,Wayne,DeMart,District-12,5189.41,282.82,balanceimport,taxareacode,100822,J100822,L100822,0.0545,2023,2
+US-MI,Livonia,Wayne,PizzaHut,District-41,7188.25,391.76,balanceimport,taxareacode,100823,J100823,L100823,0.0545,2024,12
+US-OH,Norwood,Hamilton,PizzaHut,District-70,4971.71,377.35,balanceimport,taxareacode,100824,J100824,L100824,0.0759,2024,10
+US-TX,Arlington,Tarrant,DeMart,District-50,4232.18,288.63,reclassin,reclass,100825,J100825,L100825,0.0682,2024,3
+US-PA,Pittsburgh,Allegheny,DeMart,District-67,782.39,102.34,balanceimport,taxareacode,100826,J100826,L100826,0.1308,2024,1
+US-GA,Lawrenceville,Gwinnett,DeMart,District-88,2463.64,251.29,balanceimport,taxareacode,100827,J100827,L100827,0.102,2024,6
+US-IL,Naperville,DuPage,Reliance,District-77,3730.12,203.66,balanceimport,taxareacode,100828,J100828,L100828,0.0546,2023,8
+US-FL,West Palm Beach,Palm Beach,PizzaHut,District-68,2492.42,320.28,balanceimport,taxareacode,100829,J100829,L100829,0.1285,2023,8
+US-NY,Harlem,New York,Reliance,District-77,8597.4,956.03,balanceimport,taxareacode,100830,J100830,L100830,0.1112,2023,11
+US-CA,Los Angeles,Los Angeles,PizzaHut,District-2,197.29,17.26,reclassin,reclass,100831,J100831,L100831,0.0875,2023,4
+US-FL,Boca Raton,Palm Beach,PizzaHut,District-22,3110.54,217.74,balanceimport,taxareacode,100832,J100832,L100832,0.07,2024,7
+US-NY,Astoria,Queens,Reliance,District-39,620.49,57.83,balanceimport,taxareacode,100833,J100833,L100833,0.0932,2022,9
+US-GA,Lawrenceville,Gwinnett,Reliance,District-40,4368.98,445.64,balanceimport,taxareacode,100834,J100834,L100834,0.102,2024,3
+US-GA,Atlanta,Fulton,DeMart,District-71,1824.15,212.15,balanceimport,taxareacode,100835,J100835,L100835,0.1163,2023,10
+US-FL,Pembroke Pines,Broward,PizzaHut,District-31,2405.3,229.95,balanceimport,taxareacode,100836,J100836,L100836,0.0956,2022,7
+US-TX,Dallas,Dallas,Reliance,District-32,6559.51,964.25,balanceimport,taxareacode,100837,J100837,L100837,0.147,2023,2
+US-NC,Greensboro,Guilford,PizzaHut,District-45,8690.25,1235.75,balanceimport,taxareacode,100838,J100838,L100838,0.1422,2024,7
+US-PA,Monroeville,Allegheny,DeMart,District-86,6321.23,508.86,balanceimport,taxareacode,100839,J100839,L100839,0.0805,2022,12
+US-GA,Sandy Springs,Fulton,Reliance,District-33,4637.8,376.59,balanceimport,taxareacode,100840,J100840,L100840,0.0812,2024,5
+US-TX,Dallas,Dallas,DeMart,District-37,4406.64,647.78,reclassin,reclass,100841,J100841,L100841,0.147,2024,10
+US-MI,Warren,Macomb,DeMart,District-97,1121.84,86.49,balanceimport,taxareacode,100842,J100842,L100842,0.0771,2024,6
+US-TX,Dallas,Dallas,DeMart,District-41,2744.73,403.48,balanceimport,taxareacode,100843,J100843,L100843,0.147,2024,5
+US-IL,Mundelein,Lake,Reliance,District-24,6466.73,365.37,balanceimport,taxareacode,100844,J100844,L100844,0.0565,2022,10
+US-MI,Warren,Macomb,DeMart,District-53,1421.99,109.64,balanceimport,taxareacode,100845,J100845,L100845,0.0771,2024,5
+US-TX,Pasadena,Harris,PizzaHut,District-26,5119.3,266.72,balanceimport,taxareacode,100846,J100846,L100846,0.0521,2022,3
+US-PA,Philadelphia,Philadelphia,DeMart,District-39,9976.96,1445.66,balanceimport,taxareacode,100847,J100847,L100847,0.1449,2022,3
+US-FL,Boca Raton,Palm Beach,Reliance,District-58,842.1,58.95,balanceimport,taxareacode,100848,J100848,L100848,0.07,2022,1
+US-OH,Norwood,Hamilton,DeMart,District-66,746.24,56.64,balanceimport,taxareacode,100849,J100849,L100849,0.0759,2024,11
+US-TX,Fort Worth,Tarrant,Reliance,District-99,5437.99,387.18,balanceimport,taxareacode,100850,J100850,L100850,0.0712,2024,12
+US-CA,Long Beach,Los Angeles,PizzaHut,District-84,495.48,71.89,balanceimport,taxareacode,100851,J100851,L100851,0.1451,2023,3
+US-TX,Irving,Dallas,Reliance,District-74,645.51,85.98,balanceimport,taxareacode,100852,J100852,L100852,0.1332,2023,2
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-76,4039.81,592.24,balanceimport,taxareacode,100853,J100853,L100853,0.1466,2022,5
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-5,3617.31,530.3,balanceimport,taxareacode,100854,J100854,L100854,0.1466,2022,5
+US-MI,Pontiac,Oakland,PizzaHut,District-26,3225.12,286.71,balanceimport,taxareacode,100855,J100855,L100855,0.0889,2022,11
+US-IL,Waukegan,Lake,PizzaHut,District-13,4545.47,305.0,balanceimport,taxareacode,100856,J100856,L100856,0.0671,2024,7
+US-IL,Naperville,DuPage,DeMart,District-38,5060.3,276.29,balanceimport,taxareacode,100857,J100857,L100857,0.0546,2023,11
+US-NC,Greensboro,Guilford,Reliance,District-71,2005.68,285.21,balanceimport,taxareacode,100858,J100858,L100858,0.1422,2024,5
+US-PA,Pottstown,Montgomery,Reliance,District-20,5188.83,614.36,balanceimport,taxareacode,100859,J100859,L100859,0.1184,2022,2
+US-NC,High Point,Guilford,DeMart,District-10,5866.11,344.93,balanceimport,taxareacode,100860,J100860,L100860,0.0588,2022,4
+US-PA,Philadelphia,Philadelphia,DeMart,District-23,4026.25,583.4,balanceimport,taxareacode,100861,J100861,L100861,0.1449,2023,6
+US-IL,Chicago,Cook,Reliance,District-91,2814.71,285.41,balanceimport,taxareacode,100862,J100862,L100862,0.1014,2022,10
+US-NY,Williamsburg,Kings,PizzaHut,District-92,7184.65,577.65,balanceimport,taxareacode,100863,J100863,L100863,0.0804,2023,5
+US-OH,Columbus,Franklin,Reliance,District-58,1385.58,137.87,balanceimport,taxareacode,100864,J100864,L100864,0.0995,2022,9
+US-IL,Waukegan,Lake,Reliance,District-74,5177.07,347.38,balanceimport,taxareacode,100865,J100865,L100865,0.0671,2023,9
+US-NY,Astoria,Queens,Reliance,District-70,7791.25,726.14,balanceimport,taxareacode,100866,J100866,L100866,0.0932,2023,10
+US-TX,Arlington,Tarrant,DeMart,District-22,7500.45,511.53,balanceimport,taxareacode,100867,J100867,L100867,0.0682,2022,7
+US-CA,Los Angeles,Los Angeles,PizzaHut,District-94,2178.19,190.59,balanceimport,taxareacode,100868,J100868,L100868,0.0875,2023,3
+US-OH,Norwood,Hamilton,DeMart,District-45,9156.87,695.01,balanceimport,taxareacode,100869,J100869,L100869,0.0759,2024,1
+US-MI,Warren,Macomb,PizzaHut,District-54,8961.26,690.91,balanceimport,taxareacode,100870,J100870,L100870,0.0771,2023,9
+US-CA,South San Francisco,San Francisco,DeMart,District-68,4534.92,499.29,balanceimport,taxareacode,100871,J100871,L100871,0.1101,2022,3
+US-MI,Sterling Heights,Macomb,DeMart,District-41,3610.03,479.77,balanceimport,taxareacode,100872,J100872,L100872,0.1329,2024,7
+US-OH,Cincinnati,Hamilton,PizzaHut,District-26,2047.01,288.42,balanceimport,taxareacode,100873,J100873,L100873,0.1409,2022,2
+US-OH,Dublin,Franklin,Reliance,District-32,6800.52,363.15,balanceimport,taxareacode,100874,J100874,L100874,0.0534,2024,1
+US-PA,Philadelphia,Philadelphia,PizzaHut,District-80,4287.14,621.21,balanceimport,taxareacode,100875,J100875,L100875,0.1449,2022,1
+US-NY,Queens,Queens,PizzaHut,District-53,5495.32,563.27,balanceimport,taxareacode,100876,J100876,L100876,0.1025,2022,4
+US-TX,Irving,Dallas,Reliance,District-22,2371.0,315.82,reclassin,reclass,100877,J100877,L100877,0.1332,2024,4
+US-OH,Parma,Cuyahoga,DeMart,District-85,4366.74,271.61,balanceimport,taxareacode,100878,J100878,L100878,0.0622,2024,12
+US-NY,Williamsburg,Kings,PizzaHut,District-49,1719.8,138.27,balanceimport,taxareacode,100879,J100879,L100879,0.0804,2023,4
+US-CA,South San Francisco,San Francisco,DeMart,District-58,2511.79,276.55,balanceimport,taxareacode,100880,J100880,L100880,0.1101,2023,4
+US-NY,Brooklyn,Kings,PizzaHut,District-82,3890.05,265.69,balanceimport,taxareacode,100881,J100881,L100881,0.0683,2022,12
+US-OH,Dublin,Franklin,PizzaHut,District-99,5776.98,308.49,balanceimport,taxareacode,100882,J100882,L100882,0.0534,2023,10
+US-MI,Warren,Macomb,Reliance,District-45,2469.39,190.39,balanceimport,taxareacode,100883,J100883,L100883,0.0771,2022,1
+US-FL,Pembroke Pines,Broward,Reliance,District-57,136.65,13.06,balanceimport,taxareacode,100884,J100884,L100884,0.0956,2023,2
+US-NC,High Point,Guilford,DeMart,District-42,378.4,22.25,balanceimport,taxareacode,100885,J100885,L100885,0.0588,2023,4
+US-TX,Pasadena,Harris,Reliance,District-80,9360.71,487.69,balanceimport,taxareacode,100886,J100886,L100886,0.0521,2024,3
+US-TX,Irving,Dallas,DeMart,District-45,5838.01,777.62,balanceimport,taxareacode,100887,J100887,L100887,0.1332,2024,10
+US-FL,Fort Lauderdale,Broward,Reliance,District-77,2725.19,236.0,balanceimport,taxareacode,100888,J100888,L100888,0.0866,2022,1
+US-GA,Duluth,Gwinnett,Reliance,District-69,9776.64,1023.61,balanceimport,taxareacode,100889,J100889,L100889,0.1047,2023,9
+US-CA,Chula Vista,San Diego,PizzaHut,District-76,7839.12,514.25,balanceimport,taxareacode,100890,J100890,L100890,0.0656,2022,10
+US-NC,Cary,Wake,DeMart,District-3,6333.87,695.46,balanceimport,taxareacode,100891,J100891,L100891,0.1098,2024,9
+US-OH,Cincinnati,Hamilton,PizzaHut,District-9,283.46,39.94,balanceimport,taxareacode,100892,J100892,L100892,0.1409,2022,6
+US-TX,Irving,Dallas,Reliance,District-69,4514.28,601.3,balanceimport,taxareacode,100893,J100893,L100893,0.1332,2023,12
+US-GA,Marietta,Cobb,PizzaHut,District-34,6409.29,439.04,balanceimport,taxareacode,100894,J100894,L100894,0.0685,2024,7
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-13,440.59,57.63,balanceimport,taxareacode,100895,J100895,L100895,0.1308,2023,9
+US-GA,Atlanta,Fulton,DeMart,District-60,5994.61,697.17,balanceimport,taxareacode,100896,J100896,L100896,0.1163,2022,10
+US-FL,Fort Lauderdale,Broward,PizzaHut,District-98,4232.09,366.5,balanceimport,taxareacode,100897,J100897,L100897,0.0866,2023,5
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-30,5109.84,749.1,balanceimport,taxareacode,100898,J100898,L100898,0.1466,2024,9
+US-NC,Greensboro,Guilford,Reliance,District-5,3499.44,497.62,balanceimport,taxareacode,100899,J100899,L100899,0.1422,2024,8
+US-OH,Cincinnati,Hamilton,DeMart,District-62,5299.02,746.63,balanceimport,taxareacode,100900,J100900,L100900,0.1409,2023,2
+US-OH,Cleveland,Cuyahoga,Reliance,District-83,2764.98,259.91,reclassin,reclass,100901,J100901,L100901,0.094,2024,7
+US-MI,Livonia,Wayne,DeMart,District-69,5824.36,317.43,balanceimport,taxareacode,100902,J100902,L100902,0.0545,2023,5
+US-CA,San Francisco,San Francisco,PizzaHut,District-18,2122.14,118.42,balanceimport,taxareacode,100903,J100903,L100903,0.0558,2022,10
+US-OH,Parma,Cuyahoga,DeMart,District-65,1393.66,86.69,balanceimport,taxareacode,100904,J100904,L100904,0.0622,2022,2
+US-PA,Monroeville,Allegheny,DeMart,District-88,5981.95,481.55,balanceimport,taxareacode,100905,J100905,L100905,0.0805,2023,9
+US-CA,San Francisco,San Francisco,DeMart,District-58,9156.94,510.96,reclassin,reclass,100906,J100906,L100906,0.0558,2023,6
+US-PA,Monroeville,Allegheny,PizzaHut,District-99,6407.15,515.78,balanceimport,taxareacode,100907,J100907,L100907,0.0805,2024,3
+US-OH,Columbus,Franklin,Reliance,District-85,4524.05,450.14,balanceimport,taxareacode,100908,J100908,L100908,0.0995,2024,5
+US-NC,Greensboro,Guilford,DeMart,District-13,9342.45,1328.5,balanceimport,taxareacode,100909,J100909,L100909,0.1422,2023,10
+US-NY,Queens,Queens,PizzaHut,District-59,6697.43,686.49,balanceimport,taxareacode,100910,J100910,L100910,0.1025,2024,1
+US-NY,Queens,Queens,PizzaHut,District-76,6515.5,667.84,balanceimport,taxareacode,100911,J100911,L100911,0.1025,2022,11
+US-FL,Miami,Miami-Dade,Reliance,District-92,6183.54,395.13,balanceimport,taxareacode,100912,J100912,L100912,0.0639,2022,2
+US-NC,Raleigh,Wake,Reliance,District-80,9881.34,1378.45,balanceimport,taxareacode,100913,J100913,L100913,0.1395,2023,3
+US-FL,Boca Raton,Palm Beach,PizzaHut,District-46,8471.86,593.03,balanceimport,taxareacode,100914,J100914,L100914,0.07,2024,6
+US-MI,Livonia,Wayne,PizzaHut,District-74,1126.0,61.37,balanceimport,taxareacode,100915,J100915,L100915,0.0545,2023,3
+US-GA,Smyrna,Cobb,DeMart,District-31,8271.85,1215.96,reclassin,reclass,100916,J100916,L100916,0.147,2022,10
+US-NY,Astoria,Queens,DeMart,District-25,411.98,38.4,balanceimport,taxareacode,100917,J100917,L100917,0.0932,2024,5
+US-PA,Pittsburgh,Allegheny,DeMart,District-38,7720.34,1009.82,balanceimport,taxareacode,100918,J100918,L100918,0.1308,2022,9
+US-IL,Waukegan,Lake,DeMart,District-70,5250.3,352.3,balanceimport,taxareacode,100919,J100919,L100919,0.0671,2022,12
+US-CA,Daly City,San Francisco,PizzaHut,District-3,8272.79,1130.06,balanceimport,taxareacode,100920,J100920,L100920,0.1366,2023,12
+US-GA,Lawrenceville,Gwinnett,DeMart,District-30,1563.74,159.5,balanceimport,taxareacode,100921,J100921,L100921,0.102,2024,5
+US-IL,Waukegan,Lake,PizzaHut,District-66,5422.05,363.82,balanceimport,taxareacode,100922,J100922,L100922,0.0671,2024,1
+US-IL,Waukegan,Lake,PizzaHut,District-87,2652.01,177.95,balanceimport,taxareacode,100923,J100923,L100923,0.0671,2022,8
+US-NY,Queens,Queens,PizzaHut,District-21,3482.58,356.96,balanceimport,taxareacode,100924,J100924,L100924,0.1025,2022,4
+US-IL,Chicago,Cook,PizzaHut,District-38,6706.59,680.05,balanceimport,taxareacode,100925,J100925,L100925,0.1014,2023,9
+US-NC,Raleigh,Wake,DeMart,District-67,6517.74,909.22,balanceimport,taxareacode,100926,J100926,L100926,0.1395,2022,3
+US-NY,Brooklyn,Kings,Reliance,District-35,5231.82,357.33,balanceimport,taxareacode,100927,J100927,L100927,0.0683,2023,5
+US-PA,Norristown,Montgomery,Reliance,District-47,1282.54,76.7,balanceimport,taxareacode,100928,J100928,L100928,0.0598,2022,12
+US-FL,Boca Raton,Palm Beach,Reliance,District-33,1411.46,98.8,balanceimport,taxareacode,100929,J100929,L100929,0.07,2023,2
+US-FL,Hialeah,Miami-Dade,Reliance,District-39,9634.63,763.06,reclassin,reclass,100930,J100930,L100930,0.0792,2024,8
+US-NC,Cary,Wake,PizzaHut,District-50,6269.06,688.34,reclassin,reclass,100931,J100931,L100931,0.1098,2023,11
+US-FL,Miami,Miami-Dade,PizzaHut,District-86,3268.56,208.86,balanceimport,taxareacode,100932,J100932,L100932,0.0639,2023,10
+US-CA,Chula Vista,San Diego,PizzaHut,District-69,1358.39,89.11,balanceimport,taxareacode,100933,J100933,L100933,0.0656,2023,3
+US-TX,Houston,Harris,PizzaHut,District-14,5855.08,707.29,balanceimport,taxareacode,100934,J100934,L100934,0.1208,2022,1
+US-IL,Chicago,Cook,PizzaHut,District-81,3651.4,370.25,balanceimport,taxareacode,100935,J100935,L100935,0.1014,2023,4
+US-NY,Williamsburg,Kings,PizzaHut,District-77,8074.12,649.16,balanceimport,taxareacode,100936,J100936,L100936,0.0804,2024,1
+US-GA,Lawrenceville,Gwinnett,Reliance,District-32,4970.09,506.95,balanceimport,taxareacode,100937,J100937,L100937,0.102,2024,1
+US-PA,Pottstown,Montgomery,Reliance,District-84,5618.67,665.25,balanceimport,taxareacode,100938,J100938,L100938,0.1184,2023,10
+US-GA,Atlanta,Fulton,PizzaHut,District-16,1771.71,206.05,balanceimport,taxareacode,100939,J100939,L100939,0.1163,2024,1
+US-NY,Astoria,Queens,DeMart,District-35,4528.3,422.04,balanceimport,taxareacode,100940,J100940,L100940,0.0932,2024,2
+US-FL,Hialeah,Miami-Dade,Reliance,District-88,2831.89,224.29,balanceimport,taxareacode,100941,J100941,L100941,0.0792,2023,9
+US-NC,Matthews,Mecklenburg,Reliance,District-3,4943.86,711.42,balanceimport,taxareacode,100942,J100942,L100942,0.1439,2022,7
+US-OH,Parma,Cuyahoga,Reliance,District-45,7445.75,463.13,balanceimport,taxareacode,100943,J100943,L100943,0.0622,2022,10
+US-MI,Pontiac,Oakland,PizzaHut,District-31,3260.33,289.84,balanceimport,taxareacode,100944,J100944,L100944,0.0889,2022,10
+US-GA,Lawrenceville,Gwinnett,Reliance,District-91,3824.97,390.15,balanceimport,taxareacode,100945,J100945,L100945,0.102,2023,4
+US-TX,Houston,Harris,DeMart,District-99,9892.34,1194.99,balanceimport,taxareacode,100946,J100946,L100946,0.1208,2023,4
+US-MI,Pontiac,Oakland,PizzaHut,District-53,1189.73,105.77,balanceimport,taxareacode,100947,J100947,L100947,0.0889,2024,11
+US-CA,South San Francisco,San Francisco,DeMart,District-19,1597.52,175.89,balanceimport,taxareacode,100948,J100948,L100948,0.1101,2022,11
+US-IL,Mundelein,Lake,Reliance,District-26,3203.43,180.99,balanceimport,taxareacode,100949,J100949,L100949,0.0565,2024,4
+US-FL,Pembroke Pines,Broward,DeMart,District-23,8509.7,813.53,balanceimport,taxareacode,100950,J100950,L100950,0.0956,2024,3
+US-GA,Duluth,Gwinnett,PizzaHut,District-29,1268.26,132.79,balanceimport,taxareacode,100951,J100951,L100951,0.1047,2024,2
+US-TX,Irving,Dallas,DeMart,District-99,9936.42,1323.53,balanceimport,taxareacode,100952,J100952,L100952,0.1332,2024,11
+US-NY,Williamsburg,Kings,PizzaHut,District-56,1954.73,157.16,balanceimport,taxareacode,100953,J100953,L100953,0.0804,2022,7
+US-IL,Naperville,DuPage,PizzaHut,District-83,6689.94,365.27,balanceimport,taxareacode,100954,J100954,L100954,0.0546,2023,5
+US-OH,Parma,Cuyahoga,Reliance,District-92,4940.61,307.31,balanceimport,taxareacode,100955,J100955,L100955,0.0622,2022,9
+US-NY,Manhattan,New York,Reliance,District-58,3095.97,244.89,balanceimport,taxareacode,100956,J100956,L100956,0.0791,2024,8
+US-CA,Glendale,Los Angeles,PizzaHut,District-98,8867.04,1092.42,balanceimport,taxareacode,100957,J100957,L100957,0.1232,2022,3
+US-TX,Dallas,Dallas,PizzaHut,District-29,2180.17,320.48,balanceimport,taxareacode,100958,J100958,L100958,0.147,2023,7
+US-CA,Oceanside,San Diego,DeMart,District-88,1442.7,94.64,balanceimport,taxareacode,100959,J100959,L100959,0.0656,2022,2
+US-GA,Duluth,Gwinnett,DeMart,District-47,121.62,12.73,balanceimport,taxareacode,100960,J100960,L100960,0.1047,2023,6
+US-GA,Sandy Springs,Fulton,DeMart,District-76,2172.13,176.38,balanceimport,taxareacode,100961,J100961,L100961,0.0812,2024,12
+US-OH,Cleveland,Cuyahoga,DeMart,District-86,2700.43,253.84,balanceimport,taxareacode,100962,J100962,L100962,0.094,2022,4
+US-MI,Sterling Heights,Macomb,DeMart,District-82,7910.56,1051.31,balanceimport,taxareacode,100963,J100963,L100963,0.1329,2023,8
+US-PA,Chestnut Hill,Philadelphia,Reliance,District-4,3572.03,523.66,balanceimport,taxareacode,100964,J100964,L100964,0.1466,2022,5
+US-CA,Oceanside,San Diego,DeMart,District-63,3796.2,249.03,balanceimport,taxareacode,100965,J100965,L100965,0.0656,2022,9
+US-TX,Arlington,Tarrant,PizzaHut,District-92,8112.76,553.29,balanceimport,taxareacode,100966,J100966,L100966,0.0682,2024,7
+US-IL,Wheaton,DuPage,DeMart,District-82,3613.82,400.41,balanceimport,taxareacode,100967,J100967,L100967,0.1108,2024,9
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-95,3899.35,571.64,balanceimport,taxareacode,100968,J100968,L100968,0.1466,2024,10
+US-GA,Marietta,Cobb,PizzaHut,District-23,9205.95,630.61,balanceimport,taxareacode,100969,J100969,L100969,0.0685,2023,2
+US-NY,Astoria,Queens,Reliance,District-82,1775.11,165.44,balanceimport,taxareacode,100970,J100970,L100970,0.0932,2022,10
+US-FL,Fort Lauderdale,Broward,Reliance,District-39,1822.38,157.82,balanceimport,taxareacode,100971,J100971,L100971,0.0866,2023,11
+US-FL,West Palm Beach,Palm Beach,PizzaHut,District-28,6668.55,856.91,balanceimport,taxareacode,100972,J100972,L100972,0.1285,2023,1
+US-NY,Queens,Queens,DeMart,District-82,8441.13,865.22,reclassin,reclass,100973,J100973,L100973,0.1025,2023,2
+US-PA,Pottstown,Montgomery,PizzaHut,District-93,9414.71,1114.7,balanceimport,taxareacode,100974,J100974,L100974,0.1184,2022,2
+US-TX,Pasadena,Harris,Reliance,District-98,9619.97,501.2,balanceimport,taxareacode,100975,J100975,L100975,0.0521,2022,8
+US-PA,Chestnut Hill,Philadelphia,PizzaHut,District-19,5137.96,753.22,balanceimport,taxareacode,100976,J100976,L100976,0.1466,2024,1
+US-FL,Hialeah,Miami-Dade,DeMart,District-32,8690.46,688.28,balanceimport,taxareacode,100977,J100977,L100977,0.0792,2022,8
+US-MI,Pontiac,Oakland,Reliance,District-87,3955.4,351.64,balanceimport,taxareacode,100978,J100978,L100978,0.0889,2024,7
+US-IL,Naperville,DuPage,DeMart,District-67,3566.85,194.75,balanceimport,taxareacode,100979,J100979,L100979,0.0546,2023,7
+US-GA,Duluth,Gwinnett,DeMart,District-11,7061.68,739.36,balanceimport,taxareacode,100980,J100980,L100980,0.1047,2024,7
+US-NY,Williamsburg,Kings,DeMart,District-8,4486.96,360.75,balanceimport,taxareacode,100981,J100981,L100981,0.0804,2023,11
+US-CA,Long Beach,Los Angeles,PizzaHut,District-52,7311.38,1060.88,balanceimport,taxareacode,100982,J100982,L100982,0.1451,2022,9
+US-CA,Los Angeles,Los Angeles,Reliance,District-58,6512.43,569.84,balanceimport,taxareacode,100983,J100983,L100983,0.0875,2023,10
+US-GA,Marietta,Cobb,Reliance,District-65,859.56,58.88,reclassin,reclass,100984,J100984,L100984,0.0685,2023,8
+US-NC,Charlotte,Mecklenburg,Reliance,District-11,4720.16,601.82,balanceimport,taxareacode,100985,J100985,L100985,0.1275,2022,9
+US-CA,Long Beach,Los Angeles,PizzaHut,District-36,5136.19,745.26,balanceimport,taxareacode,100986,J100986,L100986,0.1451,2023,10
+US-OH,Parma,Cuyahoga,DeMart,District-30,6681.7,415.6,balanceimport,taxareacode,100987,J100987,L100987,0.0622,2022,3
+US-FL,West Palm Beach,Palm Beach,DeMart,District-87,4235.31,544.24,balanceimport,taxareacode,100988,J100988,L100988,0.1285,2023,7
+US-GA,Atlanta,Fulton,DeMart,District-64,172.84,20.1,balanceimport,taxareacode,100989,J100989,L100989,0.1163,2024,12
+US-OH,Norwood,Hamilton,DeMart,District-90,5451.47,413.77,balanceimport,taxareacode,100990,J100990,L100990,0.0759,2023,9
+US-OH,Norwood,Hamilton,Reliance,District-44,2478.43,188.11,balanceimport,taxareacode,100991,J100991,L100991,0.0759,2024,2
+US-GA,Smyrna,Cobb,Reliance,District-42,6673.72,981.04,balanceimport,taxareacode,100992,J100992,L100992,0.147,2024,9
+US-GA,Lawrenceville,Gwinnett,PizzaHut,District-77,7209.21,735.34,balanceimport,taxareacode,100993,J100993,L100993,0.102,2023,5
+US-PA,Chestnut Hill,Philadelphia,Reliance,District-43,375.63,55.07,balanceimport,taxareacode,100994,J100994,L100994,0.1466,2024,3
+US-OH,Norwood,Hamilton,DeMart,District-67,9919.13,752.86,balanceimport,taxareacode,100995,J100995,L100995,0.0759,2022,7
+US-OH,Dublin,Franklin,DeMart,District-8,4195.29,224.03,reclassin,reclass,100996,J100996,L100996,0.0534,2022,11
+US-CA,Chula Vista,San Diego,DeMart,District-27,3362.35,220.57,balanceimport,taxareacode,100997,J100997,L100997,0.0656,2023,7
+US-CA,San Francisco,San Francisco,DeMart,District-20,9606.16,536.02,balanceimport,taxareacode,100998,J100998,L100998,0.0558,2023,3
+US-PA,Philadelphia,Philadelphia,Reliance,District-90,2161.95,313.27,balanceimport,taxareacode,100999,J100999,L100999,0.1449,2024,12
+US-MI,Detroit,Macomb,Reliance,District-85,-362.67,-25.24,reclassout,reclass,100023,J100999,J100999,0.0696,2022,3
+US-TX,Pasadena,Harris,Reliance,District-76,-2143.57,-111.68,reclassout,reclass,100031,J100999,J100999,0.0521,2023,10
+US-TX,Pasadena,Tarrant,PizzaHut,District-46,-3572.05,-186.1,reclassout,reclass,100051,J100999,J100999,0.0521,2022,1
+US-OH,Dublin,Hamilton,DeMart,District-11,-9046.87,-483.1,reclassout,reclass,100056,J100999,J100999,0.0534,2022,2
+US-PA,Philadelphia,Montgomery,PizzaHut,District-9,-9284.75,-1345.36,reclassout,reclass,100059,J100999,J100999,0.1449,2022,10
+US-OH,Parma,Franklin,Reliance,District-27,-9813.74,-610.41,reclassout,reclass,100070,J100999,J100999,0.0622,2024,1
+US-CA,Daly City,Los Angeles,DeMart,District-64,-4015.9,-548.57,reclassout,reclass,100086,J100999,J100999,0.1366,2024,6
+US-NC,Raleigh,Mecklenburg,DeMart,District-8,-7270.42,-1014.22,reclassout,reclass,100087,J100999,J100999,0.1395,2022,3
+US-CA,Chula Vista,Los Angeles,DeMart,District-80,-4875.33,-319.82,reclassout,reclass,100088,J100999,J100999,0.0656,2022,12
+US-IL,Wheaton,DuPage,DeMart,District-34,-7950.27,-880.89,reclassout,reclass,100101,J100999,J100999,0.1108,2023,7
+US-OH,Dublin,Hamilton,PizzaHut,District-10,-827.62,-44.19,reclassout,reclass,100107,J100999,J100999,0.0534,2022,10
+US-NC,Cary,Wake,Reliance,District-37,-3631.65,-398.76,reclassout,reclass,100109,J100999,J100999,0.1098,2022,12
+US-MI,Troy,Wayne,DeMart,District-43,-272.06,-22.44,reclassout,reclass,100113,J100999,J100999,0.0825,2023,9
+US-NY,Brooklyn,Queens,Reliance,District-69,-1763.34,-120.44,reclassout,reclass,100139,J100999,J100999,0.0683,2023,3
+US-MI,Sterling Heights,Wayne,DeMart,District-57,-5017.99,-666.89,reclassout,reclass,100141,J100999,J100999,0.1329,2024,2
+US-TX,Pasadena,Tarrant,DeMart,District-82,-9577.5,-498.99,reclassout,reclass,100158,J100999,J100999,0.0521,2023,2
+US-PA,Philadelphia,Allegheny,PizzaHut,District-86,-9641.84,-1397.1,reclassout,reclass,100168,J100999,J100999,0.1449,2023,7
+US-GA,Lawrenceville,Fulton,Reliance,District-43,-6624.45,-675.69,reclassout,reclass,100178,J100999,J100999,0.102,2024,3
+US-FL,Pembroke Pines,Palm Beach,DeMart,District-79,-5107.94,-488.32,reclassout,reclass,100192,J100999,J100999,0.0956,2022,8
+US-MI,Pontiac,Oakland,Reliance,District-64,-5250.94,-466.81,reclassout,reclass,100205,J100999,J100999,0.0889,2023,4
+US-PA,Pittsburgh,Philadelphia,DeMart,District-51,-9412.72,-1231.18,reclassout,reclass,100210,J100999,J100999,0.1308,2024,10
+US-NY,Brooklyn,New York,DeMart,District-10,-2792.3,-190.71,reclassout,reclass,100215,J100999,J100999,0.0683,2024,6
+US-OH,Cincinnati,Franklin,PizzaHut,District-82,-7351.24,-1035.79,reclassout,reclass,100218,J100999,J100999,0.1409,2024,11
+US-NY,Manhattan,New York,DeMart,District-75,-6546.36,-517.82,reclassout,reclass,100243,J100999,J100999,0.0791,2022,6
+US-PA,Monroeville,Montgomery,PizzaHut,District-99,-7655.24,-616.25,reclassout,reclass,100247,J100999,J100999,0.0805,2023,5
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-83,-2840.46,-371.53,reclassout,reclass,100265,J100999,J100999,0.1308,2022,1
+US-MI,Pontiac,Macomb,DeMart,District-8,-8642.52,-768.32,reclassout,reclass,100273,J100999,J100999,0.0889,2023,7
+US-TX,Arlington,Tarrant,PizzaHut,District-10,-5071.32,-345.86,reclassout,reclass,100277,J100999,J100999,0.0682,2023,3
+US-NC,Charlotte,Wake,PizzaHut,District-65,-935.48,-119.27,reclassout,reclass,100280,J100999,J100999,0.1275,2022,10
+US-FL,Fort Lauderdale,Miami-Dade,Reliance,District-69,-2362.02,-204.55,reclassout,reclass,100289,J100999,J100999,0.0866,2024,8
+US-FL,Pembroke Pines,Miami-Dade,Reliance,District-22,-5459.94,-521.97,reclassout,reclass,100294,J100999,J100999,0.0956,2022,5
+US-CA,Oceanside,Los Angeles,DeMart,District-86,-2544.38,-166.91,reclassout,reclass,100295,J100999,J100999,0.0656,2024,7
+US-NY,Queens,Queens,DeMart,District-51,-1853.99,-190.03,reclassout,reclass,100296,J100999,J100999,0.1025,2023,5
+US-NY,Manhattan,Kings,PizzaHut,District-11,-2152.36,-170.25,reclassout,reclass,100298,J100999,J100999,0.0791,2024,1
+US-NC,Cary,Mecklenburg,Reliance,District-97,-8941.59,-981.79,reclassout,reclass,100306,J100999,J100999,0.1098,2024,3
+US-IL,Mundelein,DuPage,Reliance,District-35,-2185.98,-123.51,reclassout,reclass,100309,J100999,J100999,0.0565,2023,9
+US-GA,Lawrenceville,Fulton,Reliance,District-1,-8474.62,-864.41,reclassout,reclass,100312,J100999,J100999,0.102,2024,2
+US-OH,Columbus,Cuyahoga,Reliance,District-30,-9791.91,-974.3,reclassout,reclass,100318,J100999,J100999,0.0995,2024,5
+US-MI,Troy,Macomb,DeMart,District-33,-9308.69,-767.97,reclassout,reclass,100328,J100999,J100999,0.0825,2024,9
+US-NC,Charlotte,Mecklenburg,DeMart,District-28,-4786.67,-610.3,reclassout,reclass,100346,J100999,J100999,0.1275,2024,12
+US-PA,Monroeville,Philadelphia,Reliance,District-36,-3634.59,-292.58,reclassout,reclass,100361,J100999,J100999,0.0805,2023,12
+US-TX,Fort Worth,Harris,DeMart,District-20,-1107.86,-78.88,reclassout,reclass,100367,J100999,J100999,0.0712,2024,10
+US-MI,Livonia,Macomb,PizzaHut,District-60,-4358.02,-237.51,reclassout,reclass,100370,J100999,J100999,0.0545,2024,7
+US-IL,Naperville,Cook,PizzaHut,District-78,-1341.03,-73.22,reclassout,reclass,100380,J100999,J100999,0.0546,2024,11
+US-NC,Matthews,Guilford,DeMart,District-92,-6171.59,-888.09,reclassout,reclass,100413,J100999,J100999,0.1439,2022,9
+US-CA,Los Angeles,San Diego,Reliance,District-82,-7895.13,-690.82,reclassout,reclass,100420,J100999,J100999,0.0875,2023,5
+US-OH,Cleveland,Franklin,PizzaHut,District-5,-3334.75,-313.47,reclassout,reclass,100428,J100999,J100999,0.094,2022,10
+US-NY,Harlem,Kings,PizzaHut,District-22,-5263.83,-585.34,reclassout,reclass,100430,J100999,J100999,0.1112,2023,5
+US-NY,Queens,Queens,Reliance,District-28,-3178.92,-325.84,reclassout,reclass,100435,J100999,J100999,0.1025,2024,7
+US-PA,Pittsburgh,Montgomery,PizzaHut,District-15,-7518.97,-983.48,reclassout,reclass,100436,J100999,J100999,0.1308,2024,8
+US-IL,Waukegan,DuPage,DeMart,District-27,-5993.5,-402.16,reclassout,reclass,100458,J100999,J100999,0.0671,2023,6
+US-GA,Sandy Springs,Cobb,Reliance,District-51,-397.26,-32.26,reclassout,reclass,100482,J100999,J100999,0.0812,2022,10
+US-PA,Philadelphia,Allegheny,PizzaHut,District-11,-5677.74,-822.7,reclassout,reclass,100490,J100999,J100999,0.1449,2023,5
+US-FL,Pembroke Pines,Palm Beach,Reliance,District-62,-9042.65,-864.48,reclassout,reclass,100497,J100999,J100999,0.0956,2022,1
+US-GA,Marietta,Fulton,Reliance,District-59,-1498.11,-102.62,reclassout,reclass,100499,J100999,J100999,0.0685,2022,6
+US-OH,Cleveland,Franklin,PizzaHut,District-59,-5940.48,-558.41,reclassout,reclass,100506,J100999,J100999,0.094,2022,5
+US-CA,San Diego,Los Angeles,PizzaHut,District-83,-3187.61,-350.32,reclassout,reclass,100519,J100999,J100999,0.1099,2023,3
+US-GA,Lawrenceville,Fulton,PizzaHut,District-27,-7836.91,-799.36,reclassout,reclass,100541,J100999,J100999,0.102,2024,5
+US-TX,Irving,Dallas,Reliance,District-93,-4042.46,-538.46,reclassout,reclass,100551,J100999,J100999,0.1332,2024,2
+US-OH,Cincinnati,Cuyahoga,DeMart,District-56,-8462.19,-1192.32,reclassout,reclass,100552,J100999,J100999,0.1409,2022,12
+US-NY,Williamsburg,Queens,DeMart,District-75,-334.71,-26.91,reclassout,reclass,100561,J100999,J100999,0.0804,2023,5
+US-IL,Waukegan,Lake,DeMart,District-6,-7837.99,-525.93,reclassout,reclass,100564,J100999,J100999,0.0671,2024,11
+US-GA,Duluth,Cobb,PizzaHut,District-46,-2025.03,-212.02,reclassout,reclass,100566,J100999,J100999,0.1047,2022,12
+US-IL,Naperville,DuPage,PizzaHut,District-24,-5165.22,-282.02,reclassout,reclass,100581,J100999,J100999,0.0546,2023,3
+US-CA,Glendale,San Diego,DeMart,District-16,-153.51,-18.91,reclassout,reclass,100583,J100999,J100999,0.1232,2023,6
+US-GA,Duluth,Fulton,DeMart,District-47,-693.44,-72.6,reclassout,reclass,100585,J100999,J100999,0.1047,2022,6
+US-OH,Cleveland,Franklin,PizzaHut,District-17,-8332.03,-783.21,reclassout,reclass,100595,J100999,J100999,0.094,2023,12
+US-PA,Monroeville,Montgomery,Reliance,District-90,-751.54,-60.5,reclassout,reclass,100601,J100999,J100999,0.0805,2023,4
+US-CA,San Francisco,San Francisco,DeMart,District-11,-3763.24,-209.99,reclassout,reclass,100614,J100999,J100999,0.0558,2024,9
+US-NY,Queens,Kings,DeMart,District-35,-6615.21,-678.06,reclassout,reclass,100616,J100999,J100999,0.1025,2024,1
+US-PA,Monroeville,Allegheny,PizzaHut,District-43,-4647.38,-374.11,reclassout,reclass,100631,J100999,J100999,0.0805,2022,6
+US-OH,Dublin,Cuyahoga,Reliance,District-16,-8676.3,-463.31,reclassout,reclass,100634,J100999,J100999,0.0534,2024,7
+US-NC,Matthews,Mecklenburg,PizzaHut,District-6,-6874.71,-989.27,reclassout,reclass,100643,J100999,J100999,0.1439,2022,11
+US-FL,Fort Lauderdale,Miami-Dade,DeMart,District-37,-6951.3,-601.98,reclassout,reclass,100652,J100999,J100999,0.0866,2024,2
+US-TX,Irving,Tarrant,PizzaHut,District-21,-4770.22,-635.39,reclassout,reclass,100656,J100999,J100999,0.1332,2024,7
+US-TX,Arlington,Tarrant,PizzaHut,District-99,-702.93,-47.94,reclassout,reclass,100661,J100999,J100999,0.0682,2023,3
+US-NC,Charlotte,Wake,Reliance,District-15,-1622.46,-206.86,reclassout,reclass,100668,J100999,J100999,0.1275,2022,4
+US-TX,Fort Worth,Harris,Reliance,District-92,-2147.5,-152.9,reclassout,reclass,100675,J100999,J100999,0.0712,2024,6
+US-GA,Marietta,Cobb,DeMart,District-81,-4567.54,-312.88,reclassout,reclass,100693,J100999,J100999,0.0685,2023,9
+US-PA,Monroeville,Philadelphia,Reliance,District-47,-1930.71,-155.42,reclassout,reclass,100707,J100999,J100999,0.0805,2024,6
+US-CA,San Diego,Los Angeles,Reliance,District-37,-1801.58,-197.99,reclassout,reclass,100712,J100999,J100999,0.1099,2024,1
+US-FL,Hialeah,Broward,PizzaHut,District-59,-8893.09,-704.33,reclassout,reclass,100714,J100999,J100999,0.0792,2022,12
+US-CA,Chula Vista,San Francisco,PizzaHut,District-77,-9560.93,-627.2,reclassout,reclass,100718,J100999,J100999,0.0656,2024,12
+US-OH,Dublin,Cuyahoga,Reliance,District-14,-6746.92,-360.29,reclassout,reclass,100723,J100999,J100999,0.0534,2024,6
+US-IL,Naperville,Lake,PizzaHut,District-52,-4925.11,-268.91,reclassout,reclass,100734,J100999,J100999,0.0546,2023,10
+US-OH,Columbus,Cuyahoga,DeMart,District-45,-3866.77,-384.74,reclassout,reclass,100740,J100999,J100999,0.0995,2022,3
+US-CA,San Diego,San Diego,PizzaHut,District-23,-3906.71,-429.35,reclassout,reclass,100813,J100999,J100999,0.1099,2022,12
+US-NY,Queens,New York,DeMart,District-14,-3545.71,-363.44,reclassout,reclass,100819,J100999,J100999,0.1025,2024,4
+US-TX,Houston,Tarrant,DeMart,District-50,-4232.18,-511.25,reclassout,reclass,100825,J100999,J100999,0.1208,2024,3
+US-CA,Long Beach,Los Angeles,PizzaHut,District-2,-197.29,-28.63,reclassout,reclass,100831,J100999,J100999,0.1451,2023,4
+US-TX,Fort Worth,Dallas,DeMart,District-37,-4406.64,-313.75,reclassout,reclass,100841,J100999,J100999,0.0712,2024,10
+US-TX,Arlington,Dallas,Reliance,District-22,-2371.0,-161.7,reclassout,reclass,100877,J100999,J100999,0.0682,2024,4
+US-OH,Columbus,Cuyahoga,Reliance,District-83,-2764.98,-275.12,reclassout,reclass,100901,J100999,J100999,0.0995,2024,7
+US-CA,Daly City,San Francisco,DeMart,District-58,-9156.94,-1250.84,reclassout,reclass,100906,J100999,J100999,0.1366,2023,6
+US-GA,Atlanta,Cobb,DeMart,District-31,-8271.85,-962.02,reclassout,reclass,100916,J100999,J100999,0.1163,2022,10
+US-FL,Miami,Miami-Dade,Reliance,District-39,-9634.63,-615.65,reclassout,reclass,100930,J100999,J100999,0.0639,2024,8
+US-NC,Greensboro,Wake,PizzaHut,District-50,-6269.06,-891.46,reclassout,reclass,100931,J100999,J100999,0.1422,2023,11
+US-NY,Harlem,Queens,DeMart,District-82,-8441.13,-938.65,reclassout,reclass,100973,J100999,J100999,0.1112,2023,2
+US-GA,Smyrna,Cobb,Reliance,District-65,-859.56,-126.36,reclassout,reclass,100984,J100999,J100999,0.147,2023,8
+US-OH,Cincinnati,Franklin,DeMart,District-8,-4195.29,-591.12,reclassout,reclass,100996,J100999,J100999,0.1409,2022,11
+US-MI,Detroit,Macomb,Reliance,District-85,362.67,25.24,balanceimport,reclass,100023,J100999,J100999,0.0696,2022,3
+US-TX,Pasadena,Harris,Reliance,District-76,2143.57,111.68,balanceimport,reclass,100031,J100999,J100999,0.0521,2023,10
+US-TX,Pasadena,Tarrant,PizzaHut,District-46,3572.05,186.1,balanceimport,reclass,100051,J100999,J100999,0.0521,2022,1
+US-OH,Dublin,Hamilton,DeMart,District-11,9046.87,483.1,balanceimport,reclass,100056,J100999,J100999,0.0534,2022,2
+US-PA,Philadelphia,Montgomery,PizzaHut,District-9,9284.75,1345.36,balanceimport,reclass,100059,J100999,J100999,0.1449,2022,10
+US-OH,Parma,Franklin,Reliance,District-27,9813.74,610.41,balanceimport,reclass,100070,J100999,J100999,0.0622,2024,1
+US-CA,Daly City,Los Angeles,DeMart,District-64,4015.9,548.57,balanceimport,reclass,100086,J100999,J100999,0.1366,2024,6
+US-NC,Raleigh,Mecklenburg,DeMart,District-8,7270.42,1014.22,balanceimport,reclass,100087,J100999,J100999,0.1395,2022,3
+US-CA,Chula Vista,Los Angeles,DeMart,District-80,4875.33,319.82,balanceimport,reclass,100088,J100999,J100999,0.0656,2022,12
+US-IL,Wheaton,DuPage,DeMart,District-34,7950.27,880.89,balanceimport,reclass,100101,J100999,J100999,0.1108,2023,7
+US-OH,Dublin,Hamilton,PizzaHut,District-10,827.62,44.19,balanceimport,reclass,100107,J100999,J100999,0.0534,2022,10
+US-NC,Cary,Wake,Reliance,District-37,3631.65,398.76,balanceimport,reclass,100109,J100999,J100999,0.1098,2022,12
+US-MI,Troy,Wayne,DeMart,District-43,272.06,22.44,balanceimport,reclass,100113,J100999,J100999,0.0825,2023,9
+US-NY,Brooklyn,Queens,Reliance,District-69,1763.34,120.44,balanceimport,reclass,100139,J100999,J100999,0.0683,2023,3
+US-MI,Sterling Heights,Wayne,DeMart,District-57,5017.99,666.89,balanceimport,reclass,100141,J100999,J100999,0.1329,2024,2
+US-TX,Pasadena,Tarrant,DeMart,District-82,9577.5,498.99,balanceimport,reclass,100158,J100999,J100999,0.0521,2023,2
+US-PA,Philadelphia,Allegheny,PizzaHut,District-86,9641.84,1397.1,balanceimport,reclass,100168,J100999,J100999,0.1449,2023,7
+US-GA,Lawrenceville,Fulton,Reliance,District-43,6624.45,675.69,balanceimport,reclass,100178,J100999,J100999,0.102,2024,3
+US-FL,Pembroke Pines,Palm Beach,DeMart,District-79,5107.94,488.32,balanceimport,reclass,100192,J100999,J100999,0.0956,2022,8
+US-MI,Pontiac,Oakland,Reliance,District-64,5250.94,466.81,balanceimport,reclass,100205,J100999,J100999,0.0889,2023,4
+US-PA,Pittsburgh,Philadelphia,DeMart,District-51,9412.72,1231.18,balanceimport,reclass,100210,J100999,J100999,0.1308,2024,10
+US-NY,Brooklyn,New York,DeMart,District-10,2792.3,190.71,balanceimport,reclass,100215,J100999,J100999,0.0683,2024,6
+US-OH,Cincinnati,Franklin,PizzaHut,District-82,7351.24,1035.79,balanceimport,reclass,100218,J100999,J100999,0.1409,2024,11
+US-NY,Manhattan,New York,DeMart,District-75,6546.36,517.82,balanceimport,reclass,100243,J100999,J100999,0.0791,2022,6
+US-PA,Monroeville,Montgomery,PizzaHut,District-99,7655.24,616.25,balanceimport,reclass,100247,J100999,J100999,0.0805,2023,5
+US-PA,Pittsburgh,Allegheny,PizzaHut,District-83,2840.46,371.53,balanceimport,reclass,100265,J100999,J100999,0.1308,2022,1
+US-MI,Pontiac,Macomb,DeMart,District-8,8642.52,768.32,balanceimport,reclass,100273,J100999,J100999,0.0889,2023,7
+US-TX,Arlington,Tarrant,PizzaHut,District-10,5071.32,345.86,balanceimport,reclass,100277,J100999,J100999,0.0682,2023,3
+US-NC,Charlotte,Wake,PizzaHut,District-65,935.48,119.27,balanceimport,reclass,100280,J100999,J100999,0.1275,2022,10
+US-FL,Fort Lauderdale,Miami-Dade,Reliance,District-69,2362.02,204.55,balanceimport,reclass,100289,J100999,J100999,0.0866,2024,8
+US-FL,Pembroke Pines,Miami-Dade,Reliance,District-22,5459.94,521.97,balanceimport,reclass,100294,J100999,J100999,0.0956,2022,5
+US-CA,Oceanside,Los Angeles,DeMart,District-86,2544.38,166.91,balanceimport,reclass,100295,J100999,J100999,0.0656,2024,7
+US-NY,Queens,Queens,DeMart,District-51,1853.99,190.03,balanceimport,reclass,100296,J100999,J100999,0.1025,2023,5
+US-NY,Manhattan,Kings,PizzaHut,District-11,2152.36,170.25,balanceimport,reclass,100298,J100999,J100999,0.0791,2024,1
+US-NC,Cary,Mecklenburg,Reliance,District-97,8941.59,981.79,balanceimport,reclass,100306,J100999,J100999,0.1098,2024,3
+US-IL,Mundelein,DuPage,Reliance,District-35,2185.98,123.51,balanceimport,reclass,100309,J100999,J100999,0.0565,2023,9
+US-GA,Lawrenceville,Fulton,Reliance,District-1,8474.62,864.41,balanceimport,reclass,100312,J100999,J100999,0.102,2024,2
+US-OH,Columbus,Cuyahoga,Reliance,District-30,9791.91,974.3,balanceimport,reclass,100318,J100999,J100999,0.0995,2024,5
+US-MI,Troy,Macomb,DeMart,District-33,9308.69,767.97,balanceimport,reclass,100328,J100999,J100999,0.0825,2024,9
+US-NC,Charlotte,Mecklenburg,DeMart,District-28,4786.67,610.3,balanceimport,reclass,100346,J100999,J100999,0.1275,2024,12
+US-PA,Monroeville,Philadelphia,Reliance,District-36,3634.59,292.58,balanceimport,reclass,100361,J100999,J100999,0.0805,2023,12
+US-TX,Fort Worth,Harris,DeMart,District-20,1107.86,78.88,balanceimport,reclass,100367,J100999,J100999,0.0712,2024,10
+US-MI,Livonia,Macomb,PizzaHut,District-60,4358.02,237.51,balanceimport,reclass,100370,J100999,J100999,0.0545,2024,7
+US-IL,Naperville,Cook,PizzaHut,District-78,1341.03,73.22,balanceimport,reclass,100380,J100999,J100999,0.0546,2024,11
+US-NC,Matthews,Guilford,DeMart,District-92,6171.59,888.09,balanceimport,reclass,100413,J100999,J100999,0.1439,2022,9
+US-CA,Los Angeles,San Diego,Reliance,District-82,7895.13,690.82,balanceimport,reclass,100420,J100999,J100999,0.0875,2023,5
+US-OH,Cleveland,Franklin,PizzaHut,District-5,3334.75,313.47,balanceimport,reclass,100428,J100999,J100999,0.094,2022,10
+US-NY,Harlem,Kings,PizzaHut,District-22,5263.83,585.34,balanceimport,reclass,100430,J100999,J100999,0.1112,2023,5
+US-NY,Queens,Queens,Reliance,District-28,3178.92,325.84,balanceimport,reclass,100435,J100999,J100999,0.1025,2024,7
+US-PA,Pittsburgh,Montgomery,PizzaHut,District-15,7518.97,983.48,balanceimport,reclass,100436,J100999,J100999,0.1308,2024,8
+US-IL,Waukegan,DuPage,DeMart,District-27,5993.5,402.16,balanceimport,reclass,100458,J100999,J100999,0.0671,2023,6
+US-GA,Sandy Springs,Cobb,Reliance,District-51,397.26,32.26,balanceimport,reclass,100482,J100999,J100999,0.0812,2022,10
+US-PA,Philadelphia,Allegheny,PizzaHut,District-11,5677.74,822.7,balanceimport,reclass,100490,J100999,J100999,0.1449,2023,5
+US-FL,Pembroke Pines,Palm Beach,Reliance,District-62,9042.65,864.48,balanceimport,reclass,100497,J100999,J100999,0.0956,2022,1
+US-GA,Marietta,Fulton,Reliance,District-59,1498.11,102.62,balanceimport,reclass,100499,J100999,J100999,0.0685,2022,6
+US-OH,Cleveland,Franklin,PizzaHut,District-59,5940.48,558.41,balanceimport,reclass,100506,J100999,J100999,0.094,2022,5
+US-CA,San Diego,Los Angeles,PizzaHut,District-83,3187.61,350.32,balanceimport,reclass,100519,J100999,J100999,0.1099,2023,3
+US-GA,Lawrenceville,Fulton,PizzaHut,District-27,7836.91,799.36,balanceimport,reclass,100541,J100999,J100999,0.102,2024,5
+US-TX,Irving,Dallas,Reliance,District-93,4042.46,538.46,balanceimport,reclass,100551,J100999,J100999,0.1332,2024,2
+US-OH,Cincinnati,Cuyahoga,DeMart,District-56,8462.19,1192.32,balanceimport,reclass,100552,J100999,J100999,0.1409,2022,12
+US-NY,Williamsburg,Queens,DeMart,District-75,334.71,26.91,balanceimport,reclass,100561,J100999,J100999,0.0804,2023,5
+US-IL,Waukegan,Lake,DeMart,District-6,7837.99,525.93,balanceimport,reclass,100564,J100999,J100999,0.0671,2024,11
+US-GA,Duluth,Cobb,PizzaHut,District-46,2025.03,212.02,balanceimport,reclass,100566,J100999,J100999,0.1047,2022,12
+US-IL,Naperville,DuPage,PizzaHut,District-24,5165.22,282.02,balanceimport,reclass,100581,J100999,J100999,0.0546,2023,3
+US-CA,Glendale,San Diego,DeMart,District-16,153.51,18.91,balanceimport,reclass,100583,J100999,J100999,0.1232,2023,6
+US-GA,Duluth,Fulton,DeMart,District-47,693.44,72.6,balanceimport,reclass,100585,J100999,J100999,0.1047,2022,6
+US-OH,Cleveland,Franklin,PizzaHut,District-17,8332.03,783.21,balanceimport,reclass,100595,J100999,J100999,0.094,2023,12
+US-PA,Monroeville,Montgomery,Reliance,District-90,751.54,60.5,balanceimport,reclass,100601,J100999,J100999,0.0805,2023,4
+US-CA,San Francisco,San Francisco,DeMart,District-11,3763.24,209.99,balanceimport,reclass,100614,J100999,J100999,0.0558,2024,9
+US-NY,Queens,Kings,DeMart,District-35,6615.21,678.06,balanceimport,reclass,100616,J100999,J100999,0.1025,2024,1
+US-PA,Monroeville,Allegheny,PizzaHut,District-43,4647.38,374.11,balanceimport,reclass,100631,J100999,J100999,0.0805,2022,6
+US-OH,Dublin,Cuyahoga,Reliance,District-16,8676.3,463.31,balanceimport,reclass,100634,J100999,J100999,0.0534,2024,7
+US-NC,Matthews,Mecklenburg,PizzaHut,District-6,6874.71,989.27,balanceimport,reclass,100643,J100999,J100999,0.1439,2022,11
+US-FL,Fort Lauderdale,Miami-Dade,DeMart,District-37,6951.3,601.98,balanceimport,reclass,100652,J100999,J100999,0.0866,2024,2
+US-TX,Irving,Tarrant,PizzaHut,District-21,4770.22,635.39,balanceimport,reclass,100656,J100999,J100999,0.1332,2024,7
+US-TX,Arlington,Tarrant,PizzaHut,District-99,702.93,47.94,balanceimport,reclass,100661,J100999,J100999,0.0682,2023,3
+US-NC,Charlotte,Wake,Reliance,District-15,1622.46,206.86,balanceimport,reclass,100668,J100999,J100999,0.1275,2022,4
+US-TX,Fort Worth,Harris,Reliance,District-92,2147.5,152.9,balanceimport,reclass,100675,J100999,J100999,0.0712,2024,6
+US-GA,Marietta,Cobb,DeMart,District-81,4567.54,312.88,balanceimport,reclass,100693,J100999,J100999,0.0685,2023,9
+US-PA,Monroeville,Philadelphia,Reliance,District-47,1930.71,155.42,balanceimport,reclass,100707,J100999,J100999,0.0805,2024,6
+US-CA,San Diego,Los Angeles,Reliance,District-37,1801.58,197.99,balanceimport,reclass,100712,J100999,J100999,0.1099,2024,1
+US-FL,Hialeah,Broward,PizzaHut,District-59,8893.09,704.33,balanceimport,reclass,100714,J100999,J100999,0.0792,2022,12
+US-CA,Chula Vista,San Francisco,PizzaHut,District-77,9560.93,627.2,balanceimport,reclass,100718,J100999,J100999,0.0656,2024,12
+US-OH,Dublin,Cuyahoga,Reliance,District-14,6746.92,360.29,balanceimport,reclass,100723,J100999,J100999,0.0534,2024,6
+US-IL,Naperville,Lake,PizzaHut,District-52,4925.11,268.91,balanceimport,reclass,100734,J100999,J100999,0.0546,2023,10
+US-OH,Columbus,Cuyahoga,DeMart,District-45,3866.77,384.74,balanceimport,reclass,100740,J100999,J100999,0.0995,2022,3
+US-CA,San Diego,San Diego,PizzaHut,District-23,3906.71,429.35,balanceimport,reclass,100813,J100999,J100999,0.1099,2022,12
+US-NY,Queens,New York,DeMart,District-14,3545.71,363.44,balanceimport,reclass,100819,J100999,J100999,0.1025,2024,4
+US-TX,Houston,Tarrant,DeMart,District-50,4232.18,511.25,balanceimport,reclass,100825,J100999,J100999,0.1208,2024,3
+US-CA,Long Beach,Los Angeles,PizzaHut,District-2,197.29,28.63,balanceimport,reclass,100831,J100999,J100999,0.1451,2023,4
+US-TX,Fort Worth,Dallas,DeMart,District-37,4406.64,313.75,balanceimport,reclass,100841,J100999,J100999,0.0712,2024,10
+US-TX,Arlington,Dallas,Reliance,District-22,2371.0,161.7,balanceimport,reclass,100877,J100999,J100999,0.0682,2024,4
+US-OH,Columbus,Cuyahoga,Reliance,District-83,2764.98,275.12,balanceimport,reclass,100901,J100999,J100999,0.0995,2024,7
+US-CA,Daly City,San Francisco,DeMart,District-58,9156.94,1250.84,balanceimport,reclass,100906,J100999,J100999,0.1366,2023,6
+US-GA,Atlanta,Cobb,DeMart,District-31,8271.85,962.02,balanceimport,reclass,100916,J100999,J100999,0.1163,2022,10
+US-FL,Miami,Miami-Dade,Reliance,District-39,9634.63,615.65,balanceimport,reclass,100930,J100999,J100999,0.0639,2024,8
+US-NC,Greensboro,Wake,PizzaHut,District-50,6269.06,891.46,balanceimport,reclass,100931,J100999,J100999,0.1422,2023,11
+US-NY,Harlem,Queens,DeMart,District-82,8441.13,938.65,balanceimport,reclass,100973,J100999,J100999,0.1112,2023,2
+US-GA,Smyrna,Cobb,Reliance,District-65,859.56,126.36,balanceimport,reclass,100984,J100999,J100999,0.147,2023,8
+US-OH,Cincinnati,Franklin,DeMart,District-8,4195.29,591.12,balanceimport,reclass,100996,J100999,J100999,0.1409,2022,11
