@@ -5,3 +5,4 @@ scikit-learn
 ipykernel
 numpy
 flask-cors
+matplotlib
