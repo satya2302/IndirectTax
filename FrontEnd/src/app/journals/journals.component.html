@@ -12,23 +12,68 @@
   <div *ngIf="filteredData.length > 0">
     <div class="entities-grid">
       <div class="grid-row">
-        <div class="grid-cell header">Region</div>
-        <div class="grid-cell header">City</div>
-        <div class="grid-cell header">County</div>
-        <div class="grid-cell header">Entity</div>
-        <div class="grid-cell header">District</div>
-        <div class="grid-cell header">Gross</div>
-        <div class="grid-cell header">Taxable</div>
-        <div class="grid-cell header">Input Source</div>
-        <div class="grid-cell header">Place Determination</div>
-        <div class="grid-cell header">Entry Id</div>
-        <div class="grid-cell header">Id</div>
-        <div class="grid-cell header">Log Id</div>
-        <div class="grid-cell header">Tax Rate</div>
-        <div class="grid-cell header">Year</div>
-        <div class="grid-cell header">Month</div>
+        <div class="grid-cell header">
+          Region
+          <input type="text" [(ngModel)]="filters['region']" (input)="onFilterChange()" placeholder="Filter region...">
+        </div>
+        <div class="grid-cell header">
+          City
+          <input type="text" [(ngModel)]="filters['city']" (input)="onFilterChange()" placeholder="Filter city...">
+        </div>
+        <div class="grid-cell header">
+          County
+          <input type="text" [(ngModel)]="filters['county']" (input)="onFilterChange()" placeholder="Filter county...">
+        </div>
+        <div class="grid-cell header">
+          Entity
+          <input type="text" [(ngModel)]="filters['entity']" (input)="onFilterChange()" placeholder="Filter entity...">
+        </div>
+        <div class="grid-cell header">
+          District
+          <input type="text" [(ngModel)]="filters['district']" (input)="onFilterChange()" placeholder="Filter district...">
+        </div>
+        <div class="grid-cell header">
+          Gross
+          <input type="text" [(ngModel)]="filters['gross']" (input)="onFilterChange()" placeholder="Filter gross...">
+        </div>
+        <div class="grid-cell header">
+          Taxable
+          <input type="text" [(ngModel)]="filters['taxable']" (input)="onFilterChange()" placeholder="Filter taxable...">
+        </div>
+        <div class="grid-cell header">
+          Input Source
+          <input type="text" [(ngModel)]="filters['inputSource']" (input)="onFilterChange()" placeholder="Filter input source...">
+        </div>
+        <div class="grid-cell header">
+          Place Determination
+          <input type="text" [(ngModel)]="filters['placeDetermination']" (input)="onFilterChange()" placeholder="Filter place...">
+        </div>
+        <div class="grid-cell header">
+          Entry Id
+          <input type="text" [(ngModel)]="filters['entryId']" (input)="onFilterChange()" placeholder="Filter entry ID...">
+        </div>
+        <div class="grid-cell header">
+          Id
+          <input type="text" [(ngModel)]="filters['id']" (input)="onFilterChange()" placeholder="Filter ID...">
+        </div>
+        <div class="grid-cell header">
+          Log Id
+          <input type="text" [(ngModel)]="filters['logId']" (input)="onFilterChange()" placeholder="Filter log ID...">
+        </div>
+        <div class="grid-cell header">
+          Tax Rate
+          <input type="text" [(ngModel)]="filters['taxRate']" (input)="onFilterChange()" placeholder="Filter tax rate...">
+        </div>
+        <div class="grid-cell header">
+          Year
+          <input type="text" [(ngModel)]="filters['year']" (input)="onFilterChange()" placeholder="Filter year...">
+        </div>
+        <div class="grid-cell header">
+          Month
+          <input type="text" [(ngModel)]="filters['month']" (input)="onFilterChange()" placeholder="Filter month...">
+        </div>
       </div>
-      <div class="grid-row" *ngFor="let row of filteredData">
+      <div class="grid-row" *ngFor="let row of pagedData">
         <div class="grid-cell">{{ row.region }}</div>
         <div class="grid-cell">{{ row.city }}</div>
         <div class="grid-cell">{{ row.county }}</div>
@@ -45,6 +90,11 @@
         <div class="grid-cell">{{ row.year }}</div>
         <div class="grid-cell">{{ row.month }}</div>
       </div>
+    </div>
+    <div class="pagination-controls">
+      <button (click)="prevPage()" [disabled]="page === 1">Previous</button>
+      <span>Page {{ page }} of {{ totalPages }}</span>
+      <button (click)="nextPage()" [disabled]="page === totalPages">Next</button>
     </div>
   </div>
 </div>

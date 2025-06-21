@@ -18,6 +18,28 @@ export class JournalsComponent implements OnInit {
   loading = false;
   data: JournalSynthetic[] = [];
   filteredData: JournalSynthetic[] = [];
+  page = 1;
+  pageSize = 10;
+  pagedData: JournalSynthetic[] = [];
+  totalPages = 1;
+
+  filters: { [key: string]: string } = {
+    region: '',
+    city: '',
+    county: '',
+    entity: '',
+    district: '',
+    gross: '',
+    taxable: '',
+    inputSource: '',
+    placeDetermination: '',
+    entryId: '',
+    id: '',
+    logId: '',
+    taxRate: '',
+    year: '',
+    month: ''
+  };
 
   constructor(private readonly journalService: JournalSyntheticService) {}
 
@@ -26,11 +48,51 @@ export class JournalsComponent implements OnInit {
       next: (res: JournalSynthetic[]) => {
         this.data = res;
         this.filteredData = res;
+        this.updatePagedData();
       },
       error: (err) => {
         this.uploadError = 'Failed to load data.';
       }
     });
+  }
+
+  applyFilters() {
+    this.filteredData = this.data.filter(row => {
+      return Object.keys(this.filters).every(key => {
+        const filterValue = this.filters[key].toLowerCase();
+        if (!filterValue) return true;
+        
+        const cellValue = String(row[key as keyof JournalSynthetic] || '').toLowerCase();
+        return cellValue.includes(filterValue);
+      });
+    });
+    this.page = 1;
+    this.updatePagedData();
+  }
+
+  updatePagedData() {
+    this.totalPages = Math.ceil(this.filteredData.length / this.pageSize) || 1;
+    const start = (this.page - 1) * this.pageSize;
+    const end = start + this.pageSize;
+    this.pagedData = this.filteredData.slice(start, end);
+  }
+
+  goToPage(page: number) {
+    if (page < 1 || page > this.totalPages) return;
+    this.page = page;
+    this.updatePagedData();
+  }
+
+  nextPage() {
+    this.goToPage(this.page + 1);
+  }
+
+  prevPage() {
+    this.goToPage(this.page - 1);
+  }
+
+  onFilterChange() {
+    this.applyFilters();
   }
 
   onFileSelected(event: any) {

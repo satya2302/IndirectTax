@@ -8,15 +8,17 @@
   flex-direction: column;
   gap: 0.5rem;
   margin-top: 0;
+  overflow-x: auto;
 }
 .grid-row {
   display: grid;
-  grid-template-columns: repeat(15, 1fr);
+  grid-template-columns: 120px 120px 120px 120px 120px 120px 120px 200px 220px 120px 120px 140px 140px 80px 120px;
   background: #fff;
   box-shadow: 0 1px 3px rgba(0,0,0,0.04);
   padding: 0.5rem 0.5rem;
   transition: background 0.2s;
-  overflow-x: auto;
+  /* Remove per-row scroll */
+  overflow-x: unset;
 }
 .grid-row.selected {
   background: #e3f2fd;
@@ -25,11 +27,33 @@
   padding: 0.5rem 0.75rem;
   font-size: 1rem;
   overflow-wrap: anywhere;
+  min-width: 0;
+  max-width: unset;
+  word-break: break-word;
 }
 .grid-cell.header {
   font-weight: bold;
   background: #f0f0f0;
   border-radius: 4px 4px 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.grid-cell.header input {
+  width: 100%;
+  padding: 4px 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 12px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.grid-cell.header input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 2px rgba(0,123,255,0.25);
+}
+.grid-cell.header input::placeholder {
+  color: #999;
 }
 @media (max-width: 700px) {
   .grid-row {
@@ -49,9 +73,9 @@
 .toolbar-modern {
   display: flex;
   align-items: center;
-  gap: 2rem;
+  gap: 0.5rem;
   background: #f6f7fa;
-  padding: 1rem 0 1rem 0;
+  padding: 0.15rem 0 0.15rem 0;
   border-radius: 0.25rem;
   margin-bottom: 0;
 }
@@ -86,4 +110,30 @@
 .error {
   color: red;
   margin-top: 1rem;
+}
+.pagination-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.pagination-controls button {
+  padding: 0.4rem 1.2rem;
+  border: 1px solid #007bff;
+  background: #fff;
+  color: #007bff;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background 0.2s, color 0.2s;
+}
+.pagination-controls button:disabled {
+  color: #aaa;
+  border-color: #ccc;
+  cursor: not-allowed;
+  background: #f8f8f8;
+}
+.pagination-controls span {
+  font-size: 1rem;
 }
