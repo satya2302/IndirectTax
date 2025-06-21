@@ -10,9 +10,7 @@
         <div class="grid-cell header">Transactions</div>
         <div class="grid-cell header">Tax Returns</div>
         <div class="grid-cell header">EFilings</div>
-        <div class="grid-cell header">Users Transactions</div>
-        <div class="grid-cell header">Users Tax Returns</div>
-        <div class="grid-cell header">Users EFilings</div>
+      
       </div>
       <div class="grid-row" *ngFor="let pred of predictions">
         <div class="grid-cell">{{ pred.year }}</div>
@@ -20,9 +18,7 @@
         <div class="grid-cell">{{ pred.transactions }}</div>
         <div class="grid-cell">{{ pred.taxReturns }}</div>
         <div class="grid-cell">{{ pred.eFilings }}</div>
-        <div class="grid-cell">{{ pred.users_Transactions }}</div>
-        <div class="grid-cell">{{ pred.users_TaxReturns }}</div>
-        <div class="grid-cell">{{ pred.users_EFilings }}</div>
+       
       </div>
     </div>
   </div>

@@ -18,6 +18,16 @@ export class ImportsComponent {
   data: ReconcillationSynthetic[] = [];
   showUnreportedTaxOnly = false;
   filteredData: ReconcillationSynthetic[] = [];
+  filters: { [key: string]: string } = {
+    region: '',
+    city: '',
+    county: '',
+    entity: '',
+    gross: '',
+    taxable: '',
+    unreportedTax: '',
+    taxRate: ''
+  };
 
   constructor(private readonly reconcillationService: ReconcillationSyntheticService) {}
 
@@ -97,11 +107,23 @@ export class ImportsComponent {
   }
 
   applyFilter() {
+    let filtered = this.data;
     if (this.showUnreportedTaxOnly) {
-      this.filteredData = this.data.filter(row => row.unreportedTax > 0);
-    } else {
-      this.filteredData = this.data;
+      filtered = filtered.filter(row => row.unreportedTax > 0);
     }
+    // Apply column filters
+    this.filteredData = filtered.filter(row => {
+      return Object.keys(this.filters).every(key => {
+        const filterValue = this.filters[key].toLowerCase();
+        if (!filterValue) return true;
+        const cellValue = String(row[key as keyof ReconcillationSynthetic] || '').toLowerCase();
+        return cellValue.includes(filterValue);
+      });
+    });
+  }
+
+  onFilterChange() {
+    this.applyFilter();
   }
 
   onShowUnreportedTaxChange() {

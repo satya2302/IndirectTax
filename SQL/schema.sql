@@ -18,10 +18,8 @@ CREATE TABLE [dbo].[DataUsage](
 	[Month] [nchar](10) NULL,
 	[Transactions] [numeric](18, 0) NULL,
 	[TaxReturns] [numeric](18, 0) NULL,
-	[EFilings] [numeric](18, 0) NULL,
-	[Users_Transactions] [numeric](18, 0) NULL,
-	[Users_Returns] [numeric](18, 0) NULL,
-	[Users_efile] [numeric](18, 0) NULL
+	[EFilings] [numeric](18, 0) NULL
+	
 ) ON [PRIMARY]
 GO
 

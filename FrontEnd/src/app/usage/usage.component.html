@@ -5,30 +5,35 @@
       <span class="toolbar-icon">&#43;</span> <span class="toolbar-label">Predict</span>
     </button>
   </div>
-  
-  <div *ngIf="loading">Loading usage data...</div>
-  <div *ngIf="error" class="error">{{ error }}</div>
-  <div *ngIf="!loading && !error && usageList.length > 0">
-    <div class="entities-grid">
-      <div class="grid-row">
-        <div class="grid-cell header">Year</div>
-        <div class="grid-cell header">Month</div>
-        <div class="grid-cell header">Transactions</div>
-        <div class="grid-cell header">Tax Returns</div>
-        <div class="grid-cell header">EFilings</div>
-        <div class="grid-cell header">Users Transactions</div>
-        <div class="grid-cell header">Users Tax Returns</div>
-        <div class="grid-cell header">Users EFilings</div>
-      </div>
-      <div class="grid-row" *ngFor="let usage of usageList">
-        <div class="grid-cell">{{ usage.year }}</div>
-        <div class="grid-cell">{{ usage.month }}</div>
-        <div class="grid-cell">{{ usage.transactions }}</div>
-        <div class="grid-cell">{{ usage.taxReturns }}</div>
-        <div class="grid-cell">{{ usage.eFilings }}</div>
-        <div class="grid-cell">{{ usage.users_Transactions }}</div>
-        <div class="grid-cell">{{ usage.users_TaxReturns }}</div>
-        <div class="grid-cell">{{ usage.users_EFilings }}</div>
+
+  <div class="usage-tabs">
+    <button [class.active]="activeTab === 'data'" (click)="activeTab = 'data'">Data</button>
+    <button [class.active]="activeTab === 'graph'" (click)="activeTab = 'graph'">Graph</button>
+  </div>
+
+  <div *ngIf="activeTab === 'graph'">
+    <app-usage-chart [usageList]="usageList"></app-usage-chart>
+  </div>
+
+  <div *ngIf="activeTab === 'data'">
+    <div *ngIf="loading">Loading usage data...</div>
+    <div *ngIf="error" class="error">{{ error }}</div>
+    <div *ngIf="!loading && !error && usageList.length > 0">
+      <div class="entities-grid">
+        <div class="grid-row">
+          <div class="grid-cell header">Year</div>
+          <div class="grid-cell header">Month</div>
+          <div class="grid-cell header">Transactions</div>
+          <div class="grid-cell header">Tax Returns</div>
+          <div class="grid-cell header">EFilings</div>
+        </div>
+        <div class="grid-row" *ngFor="let usage of usageList">
+          <div class="grid-cell">{{ usage.year }}</div>
+          <div class="grid-cell">{{ usage.month }}</div>
+          <div class="grid-cell">{{ usage.transactions }}</div>
+          <div class="grid-cell">{{ usage.taxReturns }}</div>
+          <div class="grid-cell">{{ usage.eFilings }}</div>
+        </div>
       </div>
     </div>
   </div>

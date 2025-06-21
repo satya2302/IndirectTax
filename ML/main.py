@@ -93,10 +93,7 @@ def predict():
     metrics = [
         ('Transactions', 'transactions'),
         ('TaxReturns', 'taxReturns'),
-        ('EFilings', 'eFilings'),
-        ('Users_Transactions', 'users_Transactions'),
-        ('Users_Return', 'users_TaxReturns'),
-        ('Users_efile', 'users_EFilings')
+        ('EFilings', 'eFilings')
     ]
     # Predict for each metric
     predictions = {}
@@ -113,10 +110,8 @@ def predict():
             "month": month,
             "transactions": int(round(predictions['transactions'][i])),
             "taxReturns": int(round(predictions['taxReturns'][i])),
-            "eFilings": int(round(predictions['eFilings'][i])),
-            "users_Transactions": int(round(predictions['users_Transactions'][i])),
-            "users_TaxReturns": int(round(predictions['users_TaxReturns'][i])),
-            "users_EFilings": int(round(predictions['users_EFilings'][i]))
+            "eFilings": int(round(predictions['eFilings'][i]))
+          
         })
     return jsonify(result)
 

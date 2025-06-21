@@ -20,14 +20,38 @@
   <div *ngIf="filteredData.length > 0">
     <div class="entities-grid">
       <div class="grid-row">
-        <div class="grid-cell header">Region</div>
-        <div class="grid-cell header">City</div>
-        <div class="grid-cell header">County</div>
-        <div class="grid-cell header">Entity</div>
-        <div class="grid-cell header">Gross</div>
-        <div class="grid-cell header">Taxable</div>
-        <div class="grid-cell header">Unreported Tax</div>
-        <div class="grid-cell header">Tax Rate</div>
+        <div class="grid-cell header">
+          Region
+          <input type="text" [(ngModel)]="filters['region']" (input)="onFilterChange()" placeholder="Filter region...">
+        </div>
+        <div class="grid-cell header">
+          City
+          <input type="text" [(ngModel)]="filters['city']" (input)="onFilterChange()" placeholder="Filter city...">
+        </div>
+        <div class="grid-cell header">
+          County
+          <input type="text" [(ngModel)]="filters['county']" (input)="onFilterChange()" placeholder="Filter county...">
+        </div>
+        <div class="grid-cell header">
+          Entity
+          <input type="text" [(ngModel)]="filters['entity']" (input)="onFilterChange()" placeholder="Filter entity...">
+        </div>
+        <div class="grid-cell header">
+          Gross
+          <input type="text" [(ngModel)]="filters['gross']" (input)="onFilterChange()" placeholder="Filter gross...">
+        </div>
+        <div class="grid-cell header">
+          Taxable
+          <input type="text" [(ngModel)]="filters['taxable']" (input)="onFilterChange()" placeholder="Filter taxable...">
+        </div>
+        <div class="grid-cell header">
+          Unreported Tax
+          <input type="text" [(ngModel)]="filters['unreportedTax']" (input)="onFilterChange()" placeholder="Filter unreported tax...">
+        </div>
+        <div class="grid-cell header">
+          Tax Rate
+          <input type="text" [(ngModel)]="filters['taxRate']" (input)="onFilterChange()" placeholder="Filter tax rate...">
+        </div>
       </div>
       <div class="grid-row" *ngFor="let row of filteredData">
         <div class="grid-cell">{{ row.region }}</div>

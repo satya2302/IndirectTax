@@ -35,10 +35,7 @@ namespace IndirectTax.Data
                             Month = row.IsNull(1) ? null : row.Field<string>(1),
                             Transactions = row.Field<decimal>(2),
                             TaxReturns = row.Field<decimal>(3),
-                            EFilings = row.Field<decimal>(4),
-                            Users_Transactions = row.Field<decimal>(5),
-                            Users_TaxReturns = row.Field<decimal>(6),
-                            Users_EFilings = row.Field<decimal>(7),
+                            EFilings = row.Field<decimal>(4)
                         });
                     }
                 }
