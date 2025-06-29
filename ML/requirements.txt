@@ -6,3 +6,4 @@ ipykernel
 numpy
 flask-cors
 matplotlib
+seaborn
