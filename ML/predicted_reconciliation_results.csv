@@ -1,0 +1,11 @@
+Region,City,County,Entity,Gross,Taxable,UnreportedTax,TaxRate,Year,Month,Predicted_City
+US-CA,San Francisco,San Francisco,DeMart,9163.33,511.31,33.96,0.0558,2025,5,San Francisco
+US-NC,Cary,Wake,DeMart,9994.2,1097.36,48.22,0.1098,2025,9,Cary
+US-MI,Troy,Oakland,PizzaHut,4424.82,365.05,729.51,0.0825,2025,6,Troy
+US-IL,Wheaton,DuPage,DeMart,8835.92,979.02,803.61,0.1108,2025,7,Wheaton
+US-PA,Monroeville,Allegheny,Reliance,493.68,39.74,604.08,0.0805,2025,11,Monroeville
+US-CA,Glendale,Los Angeles,PizzaHut,5790.32,713.37,29.68,0.1232,2025,11,Los Angeles
+US-FL,Fort Lauderdale,Broward,PizzaHut,4654.02,403.04,95.06,0.0866,2025,11,Fort Lauderdale
+US-MI,Warren,Macomb,PizzaHut,163.71,12.62,772.52,0.0771,2025,7,Warren
+US-TX,Houston,Harris,Reliance,7482.6,903.9,825.94,0.1208,2025,2,Houston
+US-FL,West Palm Beach,Palm Beach,Reliance,8961.26,1151.52,573.93,0.1285,2025,2,West Palm Beach
