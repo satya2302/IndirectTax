@@ -96,7 +96,21 @@ namespace IndirectTax.Data
             }
             return result;
         }
-
+        public Update(ReconcillationUpdate items)
+        {
+              using (var connection = new SqlConnection(_connectionString))
+            {
+                connection.Open();
+                using (var command = new SqlCommand("sp_updateReconcillation", connection))
+                {
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.AddWithValue("@Action", "BULKINSERT");
+                    // Always use TVP, even for single item
+                    
+                }
+                
+            }
+        }
         public IEnumerable<ReconcillationSynthetic> BulkAddAndGetAll(IEnumerable<ReconcillationSynthetic> items)
         {
             var result = new List<ReconcillationSynthetic>();

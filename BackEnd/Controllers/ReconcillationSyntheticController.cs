@@ -22,6 +22,12 @@ namespace IndirectTax.Controllers
             var data = _repository.BulkAddAndGetAll(items);
             return Ok(data);
         }
+        [HttpPost]
+        public ActionResult<> Update([FromBody] ReconcillationUpdate items)
+        {
+            var data = _repository.Update(items);
+            return Ok();
+        }
 
         [HttpGet]
         public ActionResult<IEnumerable<ReconcillationSynthetic>> Get()
