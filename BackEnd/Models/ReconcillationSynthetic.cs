@@ -15,4 +15,6 @@ namespace IndirectTax.Models
         public int Year { get; set; }
         public int Month { get; set; }
     }
+
+
 }

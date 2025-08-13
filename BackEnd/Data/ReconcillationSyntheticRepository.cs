@@ -96,7 +96,7 @@ namespace IndirectTax.Data
             }
             return result;
         }
-        public Update(ReconcillationUpdate items)
+        public void Update(ReconcillationUpdate items)
         {
               using (var connection = new SqlConnection(_connectionString))
             {

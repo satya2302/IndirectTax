@@ -25,7 +25,7 @@ export class ChatbotComponent {
     if (!this.userInput.trim()) return;
     this.messages.push({from: 'user', text: this.userInput});
     
-    this.chatbotService.getUsage().subscribe({
+    this.chatbotService.sendMessage(this.userInput).subscribe({
       next: (data:Message[]) => {
         console.log(data)
         data.forEach(message  => {

@@ -100,13 +100,15 @@ def train_and_forecast_rf(data, column):
     return result
 
 
-
-
 def reclassTool(query: str)-> str:
     """Reclass of Tax.
-       Once solve inform the users about the number of cities reclassed resolved
-       dont need to show the results
+       You are a Tax expert in solving Reclass issues
+       Please resolve the reclass tax issue.
+       Once solve inform the users about the  cities reclassed from where to where
+       And the number of cities reclassed.
+       
     """
+   
     df = pd.read_csv("../data/journal_synthetic.csv")
     df.head()
 
@@ -245,6 +247,8 @@ def reclassTool(query: str)-> str:
             pred = np.argmax(probs)
         else:
             pred = np.argmax(probs_masked)
+            
+            
         predicted_cities.append(pred)
     test_df["PredictedCity"] = city_le.inverse_transform(predicted_cities)
     
@@ -266,14 +270,16 @@ def reclassTool(query: str)-> str:
     return test_df
 
 def assistant(state: MessagesState):
-    llm =ChatGroq(api_key ="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", model="meta-llama/llama-4-scout-17b-16e-instruct")
+    llm =ChatGroq(api_key ="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", model="meta-llama/llama-4-scout-17b-16e-instruct")
     tools = [reclassTool]
     llm_with_tools=llm.bind_tools(tools)
     return {"messages": [llm_with_tools.invoke(state["messages"])]}
 
-@app.route('/chat', methods=['GET'])
+@app.route('/chat', methods=['POST'])
 def chat():
-    
+    data = request.get_json()
+    user_message = data.get('message', '')
+    print(user_message)
 
     # Graph
     builder = StateGraph(MessagesState)
@@ -290,7 +296,7 @@ def chat():
 
     react_graph = builder.compile()
 
-    messages = [HumanMessage(content="solve the reclass tax issue ")]
+    messages = [HumanMessage(content=user_message)]
     messages = react_graph.invoke({"messages": messages})
     ai_contents = []
     for m in messages['messages']:

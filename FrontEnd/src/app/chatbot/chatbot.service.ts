@@ -17,4 +17,7 @@ export class ChatbotService {
   getUsage(): Observable<Message[]> {
     return this.http.get<Message[]>(this.apiUrl);
   }
+  sendMessage(userMessage: string): Observable<Message[]> {
+  return this.http.post<Message[]>(this.apiUrl, { message: userMessage });
+  }
 }

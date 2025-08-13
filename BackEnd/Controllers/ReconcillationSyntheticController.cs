@@ -23,9 +23,9 @@ namespace IndirectTax.Controllers
             return Ok(data);
         }
         [HttpPost]
-        public ActionResult<> Update([FromBody] ReconcillationUpdate items)
+        public ActionResult Update([FromBody] ReconcillationUpdate items)
         {
-            var data = _repository.Update(items);
+             _repository.Update(items);
             return Ok();
         }
 
