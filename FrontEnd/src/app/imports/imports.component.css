@@ -92,7 +92,7 @@
 .reclass-btn {
   display: flex;
   align-items: center;
-  background: #ff9800;
+  background: green;
   /* Orange color used in Material Design and common in apps */
   color: #fff;
   border: none;
@@ -110,5 +110,5 @@
   cursor: not-allowed;
 }
 .reclass-btn:hover:not(:disabled) {
-  background: #fb8c00;
+  background: green;
 }

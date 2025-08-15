@@ -9,7 +9,7 @@
 .menu-btn {
   background: none;
   border: none;
-  color: #fff;
+  color: green;
   font-size: 2rem;
   margin-right: 1rem;
   cursor: pointer;
@@ -20,7 +20,7 @@
 }
 .logo-text {
   font-weight: bold;
-  color: orange;
+  color: green;
   font-size: 1.1rem;
   letter-spacing: 1px;
 }
@@ -46,7 +46,7 @@
   border-bottom: 2px solid transparent;
 }
 .navbar li.active {
-  border-bottom: 2px solid orange;
+  border-bottom: 2px solid green;
   font-weight: bold;
 }
 
@@ -80,7 +80,7 @@
   transition: background 0.2s;
 }
 .toolbar button:hover {
-  background: orange;
+  background: green;
   color: #222;
 }
 

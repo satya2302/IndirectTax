@@ -1,6 +1,6 @@
 /* Navigation bar styles */
 .navbar {
-  background: #333;
+  background: #000;
   color: #fff;
 }
 .navbar ul {
@@ -17,11 +17,11 @@
  
 }
 .navbar li.active {
-  border-bottom: 5px solid orange;
+  border-bottom: 5px solid green;
   background: none;
 }
 .navbar li.active a {
-  color: orange !important;
+  color: green !important;
   text-decoration: none;
   border-bottom: none;
   padding-bottom: 0;
@@ -32,7 +32,7 @@
   transition: color 0.2s;
 }
 .navbar li:hover a {
-  color: orange;
+  color: green;
 }
 @media (max-width: 700px) {
   .navbar ul {
