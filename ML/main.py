@@ -270,7 +270,7 @@ def reclassTool(query: str)-> str:
     return test_df
 
 def assistant(state: MessagesState):
-    llm =ChatGroq(api_key ="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", model="meta-llama/llama-4-scout-17b-16e-instruct")
+    llm =ChatGroq(api_key ="", model="meta-llama/llama-4-scout-17b-16e-instruct")
     tools = [reclassTool]
     llm_with_tools=llm.bind_tools(tools)
     return {"messages": [llm_with_tools.invoke(state["messages"])]}
